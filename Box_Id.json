@@ -19,7 +19,7 @@
     "character6": "巡林者",
     "character7": "黑角",
     "character8": "12f",
-    "character9": "自爆小车"
+    "character9": "THRM-EX"
   },
   {
     "Box_id": "3.0",
@@ -331,22 +331,25 @@
     "character6": "黛菲恩"
   },
   {
-    "Box_id": "通行证33.0＆34.0",
+    "Box_id": "33.0",
     "character1": "薇薇安娜",
     "character2": "阿尔图罗",
     "character3": "止颂",
     "character4": "深律",
     "character5": "跃跃",
     "character6": "芳汀",
-    "character7": "折光",
-    "character8": "耀骑士临光",
-    "character9": "焰尾",
-    "character10": "远牙",
-    "character11": "野鬃",
-    "character12": "杜林",
-    "character13": "蚀清",
-    "character14": "灰毫",
-    "character15": "正义骑士号"
+    "character7": "折光"
+  },
+  {
+    "Box_id": "34.0",
+    "character1": "耀骑士临光",
+    "character2": "焰尾",
+    "character3": "远牙",
+    "character4": "野鬃",
+    "character5": "杜林",
+    "character6": "蚀清",
+    "character7": "灰毫",
+    "character8": "正义骑士号"
   },
   {
     "Box_id": "35.0",
@@ -494,8 +497,19 @@
     "character1": "酒神",
     "character2": "司霆惊蛰",
     "character3": "Mr.Christine",
-    "character4": "蒂比录武官",
-    "character5": "四月",
-    "character6": "梅"
+    "character4": "蒂比",
+    "character5": "录武官",
+    "character6": "四月",
+    "character7": "梅"
+  },
+  {
+    "Box_id": "50.0",
+    "character1": "斩业星熊",
+    "character2": "瑶",
+    "character3": "真言",
+    "character4": "冬时",
+    "character5": "折娅",
+    "character6": "松桐",
+    "character7": "吉星"
   }
 ]
