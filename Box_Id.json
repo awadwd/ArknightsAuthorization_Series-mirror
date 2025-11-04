@@ -276,7 +276,7 @@
     "character2": {"name":"霍尔海雅","imageUrl":"https://media.prts.wiki/9/9e/%E5%A4%B4%E5%83%8F_%E9%9C%8D%E5%B0%94%E6%B5%B7%E9%9B%85.png"},
     "character3": {"name":"淬羽赫默","imageUrl":"https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98.png"},
     "character4": {"name":"褐果","imageUrl":"https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E8%A4%90%E6%9E%9C.png"},
-    "character5": {"name":"红豆","imageUrl":"https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E8%A4%90%E6%9E%9C.png"},
+    "character5": {"name":"红豆","imageUrl":"https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E8%B1%86.png"},
     "character6": {"name":"玫拉","imageUrl":"https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E7%8E%AB%E6%8B%89.png"},
     "character7": {"name":"Friston-3","imageUrl":"https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_Friston-3.png"},
     "character8": {"name":"夜刀","imageUrl":"https://media.prts.wiki/b/b2/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E5%88%80.png"}
@@ -520,7 +520,7 @@
     "character2": {"name":"W","imageUrl":"https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_W.png"},
     "character3": {"name":"风笛","imageUrl":"https://media.prts.wiki/d/de/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E7%AC%9B.png"},
     "character4": {"name":"讯使","imageUrl":"https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E8%AE%AF%E4%BD%BF.png"},
-    "character5": {"name":"红豆","imageUrl":"https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E8%A4%90%E6%9E%9C.png"}
+    "character5": {"name":"红豆","imageUrl":"https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E8%B1%86.png"}
   },
   {
     "Box_id": "ManiFesto:",
