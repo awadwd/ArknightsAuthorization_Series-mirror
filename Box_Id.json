@@ -91,8 +91,8 @@
     "character4": {"name":"桑葚","imageUrl":"https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E6%A1%91%E8%91%9A.png"},
     "character5": {"name":"罗比菈塔","imageUrl":"https://media.prts.wiki/5/52/%E5%A4%B4%E5%83%8F_%E7%BD%97%E6%AF%94%E8%8F%88%E5%A1%94.png"},
     "character6": {"name":"苇草","imageUrl":"https://media.prts.wiki/7/7a/%E5%A4%B4%E5%83%8F_%E8%8B%87%E8%8D%89.png"},
-    "character7": {"name":"芙蓉","imageUrl":"https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E8%8A%99%E8%93%89.png"},
-    "character8": {"name":"炎熔","imageUrl":"https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%86%94.png"}
+    "character7": {"name":"芙蓉","imageUrl":"https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E8%8A%99%E8%93%89.png","nolyELITE1":true},
+    "character8": {"name":"炎熔","imageUrl":"https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%86%94.png","nolyELITE1":true}
   },
   {
     "Box_id": "9.0",
