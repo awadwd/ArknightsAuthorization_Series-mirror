@@ -866,7 +866,8 @@
     "character2": {"name":"SCOUT","imageUrl":"","nolyELITE1":true},
     "character3": {"name":"OUTCAST","imageUrl":"","nolyELITE1":true},
     "character4": {"name":"MISRY","imageUrl":"","nolyELITE1":true},
-    "character5": {"name":"MECHANIST","imageUrl":"","nolyELITE1":true}
+    "character5": {"name":"MECHANIST","imageUrl":"","nolyELITE1":true},
+    "character6": {"name":"MANTRA","imageUrl":"","nolyELITE1":true}
   },
   {
     "Box_id": "白名单凭证2.0",
