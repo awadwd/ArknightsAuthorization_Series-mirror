@@ -862,22 +862,22 @@
     "Box_id": "白名单凭证1.0",
     "Box_type": "whitelist",
     "Box_ImageUrl" : "https://i0.hdslb.com/bfs/new_dyn/b635f9a7c19096086d97e269d6c77bf961968129.jpg", 
-    "character1": {"name":"ACE","imageUrl":"","nolyELITE1":true},
-    "character2": {"name":"SCOUT","imageUrl":"","nolyELITE1":true},
-    "character3": {"name":"OUTCAST","imageUrl":"","nolyELITE1":true},
-    "character4": {"name":"MISRY","imageUrl":"","nolyELITE1":true},
-    "character5": {"name":"MECHANIST","imageUrl":"","nolyELITE1":true},
-    "character6": {"name":"MANTRA","imageUrl":"","nolyELITE1":true}
+    "character1": {"name":"ACE","imageUrl":""},
+    "character2": {"name":"SCOUT","imageUrl":""},
+    "character3": {"name":"OUTCAST","imageUrl":""},
+    "character4": {"name":"MISRY","imageUrl":""},
+    "character5": {"name":"MECHANIST","imageUrl":""},
+    "character6": {"name":"MANTRA","imageUrl":""}
   },
   {
     "Box_id": "白名单凭证2.0",
     "Box_type": "whitelist",
     "Box_ImageUrl" : "https://i0.hdslb.com/bfs/new_dyn/c6d1d888300c8e9974bb8da089d8147c61968129.jpg", 
     "character1": {"name":"RAIDIAN","imageUrl":"https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png?20250715083533","nolyELITE1":true},
-    "character2": {"name":"PITH","imageUrl":"","nolyELITE1":true},
-    "character3": {"name":"STORMEYE","imageUrl":"","nolyELITE1":true},
-    "character4": {"name":"TOUCH","imageUrl":"","nolyELITE1":true},
-    "character5": {"name":"SHARP","imageUrl":"","nolyELITE1":true},
-    "character6": {"name":"TULIP","imageUrl":"","nolyELITE1":true}
+    "character2": {"name":"PITH","imageUrl":""},
+    "character3": {"name":"STORMEYE","imageUrl":""},
+    "character4": {"name":"TOUCH","imageUrl":""},
+    "character5": {"name":"SHARP","imageUrl":""},
+    "character6": {"name":"TULIP","imageUrl":""}
   }
 ]
