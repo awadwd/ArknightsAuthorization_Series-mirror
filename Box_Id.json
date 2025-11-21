@@ -16,7 +16,7 @@
     "character4": {"name":"巫恋","imageUrl":"https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E5%B7%AB%E6%81%8B.png","market_price":{"ELITE1":25,"ELITE2":25}},
     "character5": {"name":"铸铁","imageUrl":"https://media.prts.wiki/8/84/%E5%A4%B4%E5%83%8F_%E9%93%B8%E9%93%81.png","market_price":{"ELITE1":7,"ELITE2":7}},
     "character6": {"name":"苏苏洛","imageUrl":"https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%8B%8F%E8%8B%8F%E6%B4%9B.png","market_price":{"ELITE1":8,"ELITE2":8}},
-    "character7": {"name":"香草","imageUrl":"https://med0ia.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E9%A6%99%E8%8D%89.png","nolyELITE1":true,"market_price":{"ELITE1":15}},
+    "character7": {"name":"香草","imageUrl":"https://media.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E9%A6%99%E8%8D%89.png","nolyELITE1":true,"market_price":{"ELITE1":15}},
     "character8": {"name":"翎羽","imageUrl":"https://media.prts.wiki/1/1f/%E5%A4%B4%E5%83%8F_%E7%BF%8E%E7%BE%BD.png","nolyELITE1":true},"market_price":{"ELITE1":6}},
   {
     "Box_id": "2.0",
