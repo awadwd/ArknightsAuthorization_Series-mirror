@@ -1280,7 +1280,7 @@
       "retail_price": "25元/抽",
       "type": "false",
       "replicate": "false","Box_ImageUrl" : "https://i0.hdslb.com/bfs/article/fab4fc1a0824fb842f8d54a8e0610dd8287a736e.jpg", 
-    "character1": {"name":"罗小黑","imageUrl":"https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%B0%8F%E9%BB%91.png" ,"market_price":{"ELITE1":0,"ELITE2":0}}},
+    "character1": {"name":"罗小黑","imageUrl":"https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%B0%8F%E9%BB%91.png" ,"market_price":{"ELITE1":80,"ELITE2":85}}},
   {
     "Box_id": "水晶箭行动",
     "Box_type" : "cooperation",
