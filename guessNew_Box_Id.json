@@ -1,3 +1,19 @@
 [
-
+    {
+        "Box_id": "52.0（预测）",
+          "release_date": "",
+          "size": "",
+          "material": "",
+          "retail_price": "",
+          "type": "",
+          "replicate": "",
+        "Box_ImageUrl" : "", 
+        "character1": {"name":"望","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character2": {"name":"赤刃明霄陈","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character3": {"name":"矩","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character4": {"name":"缇缇","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character5": {"name":"撷英调香师","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character6": {"name":"风絮","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}},
+        "character7": {"name":"摆渡人","imageUrl":"","market_price":{"ELITE1":0,"ELITE2":0}}
+        },
 ]
