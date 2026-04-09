@@ -939,6 +939,23 @@
       "character6": {"name":"风絮","imageUrl":"https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E7%B5%AE.png","market_price":{"ELITE1":0,"ELITE2":0}},
       "character7": {"name":"摆渡人","imageUrl":"https://media.prts.wiki/e/e4/%E5%A4%B4%E5%83%8F_%E6%91%86%E6%B8%A1%E4%BA%BA.png","market_price":{"ELITE1":0,"ELITE2":0}}
       },
+      {
+      "Box_id": "53.0",
+        "release_date": "2026/4/9",
+        "size": "约5*10cm",
+        "material": "亚克力、涤纶",
+        "retail_price": "25元/抽",
+        "type": "true",
+        "replicate": "false",
+      "Box_ImageUrl" : "https://img.alicdn.com/imgextra/i3/2206488662066/O1CN01WQd0ur1R8HPA7VW8q_!!4611686018427383858-0-item_pic.jpg_q50.jpg", 
+      "character1": {"name":"怒潮凛冬","imageUrl":"https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%80%92%E6%BD%AE%E5%87%9B%E5%86%AC.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character2": {"name":"贝洛内","imageUrl":"https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E8%B4%9D%E6%B4%9B%E5%86%85.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character3": {"name":"电弧","imageUrl":"https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character4": {"name":"伯塔尼","imageUrl":"https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E4%BC%AF%E5%A1%94%E5%B0%BC.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character5": {"name":"乌啾","imageUrl":"https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%95%BE.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character6": {"name":"复奏","imageUrl":"https://media.prts.wiki/6/61/%E5%A4%B4%E5%83%8F_%E5%A4%8D%E5%A5%8F.png","market_price":{"ELITE1":0,"ELITE2":0}},
+      "character7": {"name":"协律","imageUrl":"https://media.prts.wiki/8/8e/%E5%A4%B4%E5%83%8F_%E5%8D%8F%E5%BE%8B.png","market_price":{"ELITE1":0,"ELITE2":0}}
+      },
   {
     "Box_id": "CanNot Wait For",
     "Box_type" : "ambience",
