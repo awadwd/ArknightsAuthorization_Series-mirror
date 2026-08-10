@@ -2761,8 +2761,8 @@
     "ELITE2": 5
    }
   },
-  "barcodes": [],
-  "barcode": ""
+  "barcodes": ["6975194637865"],
+  "barcode": "6975194637865"
  },
  {
   "Box_id": "37.0",
@@ -2976,8 +2976,9 @@
     "ELITE2": 5
    }
   },
-  "barcodes": [],
-  "barcode": ""
+  "barcodes": ["6975194639890",
+"6975194639906"],
+  "barcode": "6975194639890"
  },
  {
   "Box_id": "40.0",
@@ -3632,8 +3633,8 @@
     "ELITE2": 0
    }
   },
-  "barcodes": [],
-  "barcode": ""
+  "barcodes": ["6977427186607"],
+  "barcode": "6977427186607"
  },
  {
   "Box_id": "49.0",
@@ -5427,7 +5428,7 @@
   "release_date": "2022/09/23",
   "size": "约5*10cm",
   "material": "亚克力、涤纶",
-  "retail_price": "25元/抽",
+  "retail_price": "50元/组",
   "type": "false",
   "replicate": "false",
   "Box_ImageUrl": "https://i0.hdslb.com/bfs/article/fab4fc1a0824fb842f8d54a8e0610dd8287a736e.jpg",
@@ -5440,8 +5441,8 @@
     "ELITE2": 85
    }
   },
-  "barcodes": [],
-  "barcode": ""
+  "barcodes": ["6975194631337"],
+  "barcode": "6975194631337"
  },
  {
   "Box_id": "水晶箭行动",
