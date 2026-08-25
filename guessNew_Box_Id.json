@@ -1,2 +1,70 @@
 [
+    {
+    "Box_id": "55.0",
+    "release_date": "",
+    "replicate_date": "",
+    "size": "约5*10cm",
+    "material": "亚克力、涤纶",
+    "retail_price": "25元/抽",
+    "type": "true",
+    "replicate": "false",
+    "Box_ImageUrl": "",
+    "character1": {
+      "name": "予愿安洁丽娜",
+      "imageUrl": "https://media.prts.wiki/c/c0/%E5%A4%B4%E5%83%8F_%E4%BA%88%E6%84%BF%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+      "hotcharacter": true,
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character2": {
+      "name": "珊比",
+      "imageUrl": "https://media.prts.wiki/0/0c/%E5%A4%B4%E5%83%8F_%E7%8F%8A%E6%AF%94.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character3": {
+      "name": "嘉辛塔",
+      "imageUrl": "https://media.prts.wiki/8/8b/%E5%A4%B4%E5%83%8F_%E5%98%89%E8%BE%9B%E5%A1%94.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character4": {
+      "name": "哈洛德",
+      "imageUrl": "https://media.prts.wiki/2/22/%E5%A4%B4%E5%83%8F_%E5%93%88%E6%B4%9B%E5%BE%B7.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character5": {
+      "name": "机械师",
+      "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%9C%BA%E6%A2%B0%E5%B8%88.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character6": {
+      "name": "待定干员一",
+      "imageUrl": "",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character7": {
+      "name": "待定干员二",
+      "imageUrl": "",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    }
+  }
 ]
