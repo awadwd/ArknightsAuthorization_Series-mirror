@@ -3996,6 +3996,144 @@
   "barcode": ""
  },
  {
+  "Box_id": "54.0",
+  "release_date": "2026/07/13",
+  "size": "约5*10cm",
+  "material": "亚克力、涤纶",
+  "retail_price": "25元/抽",
+  "type": "true",
+  "replicate": "false",
+  "replicate_date": "",
+  "Box_ImageUrl": "https://img.alicdn.com/imgextra/i4/2206488662066/O1CN01JQA0R21R8HQLffawZ_!!4611686018427383858-0-item_pic.jpg_q50.jpg_.webp",
+  "character1": {
+   "name": "凯尔希·思衡托",
+   "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C%C2%B7%E6%80%9D%E8%A1%A1%E6%89%98.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character2": {
+   "name": "可露希尔",
+   "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character3": {
+   "name": "维伊",
+   "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BC%8A.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character4": {
+   "name": "谬因",
+   "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E8%B0%AC%E5%9B%A0.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character5": {
+   "name": "裂响",
+   "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E8%A3%82%E5%93%8D.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character6": {
+   "name": "佩德洛",
+   "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E5%BE%B7%E6%B4%9B.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character7": {
+   "name": "哈蒂娅",
+   "imageUrl": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "barcodes": [],
+  "barcode": ""
+ },
+ {
+  "Box_id": "55.0",
+  "release_date": "2026/10/13",
+  "size": "约5*10cm",
+  "material": "亚克力、涤纶",
+  "retail_price": "25元/抽",
+  "type": "true",
+  "replicate": "false",
+  "replicate_date": "",
+  "Box_ImageUrl": "https://img.alicdn.com/imgextra/i2/2206488662066/O1CN01WFFWbYMsT1I2vH2e_!!4611686018427383858-0-item_pic.jpg_q50.jpg",
+  "character1": {
+   "name": "予愿安洁莉娜",
+   "imageUrl": "https://media.prts.wiki/c/c0/%E5%A4%B4%E5%83%8F_%E4%BA%88%E6%84%BF%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character2": {
+   "name": "珊比",
+   "imageUrl": "https://media.prts.wiki/0/0c/%E5%A4%B4%E5%83%8F_%E7%8F%8A%E6%AF%94.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character3": {
+   "name": "克莱门莎",
+   "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E5%85%8B%E8%8E%B1%E9%97%A8%E8%8E%8E.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character4": {
+   "name": "嘉辛塔",
+   "imageUrl": "https://media.prts.wiki/8/8b/%E5%A4%B4%E5%83%8F_%E5%98%89%E8%BE%9B%E5%A1%94.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character5": {
+   "name": "时隙",
+   "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E6%97%B6%E9%9A%99.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character6": {
+   "name": "旅骨",
+   "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%97%85%E9%AA%A8.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "character7": {
+   "name": "德·托莱多",
+   "imageUrl": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A.png",
+   "market_price": {
+    "ELITE1": 0,
+    "ELITE2": 0
+   }
+  },
+  "barcodes": [],
+  "barcode": ""
+ },
+ {
   "Box_id": "CanNot Wait For",
   "Box_type": "ambience",
   "release_date": "2021/05/22",
@@ -6089,74 +6227,5 @@
    "6977427189981"
   ],
   "barcode": "6977427189943"
- },
- {
-  "Box_id": "54.0",
-  "release_date": "2026/07/13",
-  "size": "约5*10cm",
-  "material": "亚克力、涤纶",
-  "retail_price": "25元/抽",
-  "type": "true",
-  "replicate": "false",
-  "replicate_date": "",
-  "Box_ImageUrl": "https://img.alicdn.com/imgextra/i4/2206488662066/O1CN01JQA0R21R8HQLffawZ_!!4611686018427383858-0-item_pic.jpg_q50.jpg_.webp",
-  "character1": {
-   "name": "凯尔希·思衡托",
-   "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C%C2%B7%E6%80%9D%E8%A1%A1%E6%89%98.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character2": {
-   "name": "可露希尔",
-   "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character3": {
-   "name": "维伊",
-   "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BC%8A.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character4": {
-   "name": "谬因",
-   "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E8%B0%AC%E5%9B%A0.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character5": {
-   "name": "裂响",
-   "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E8%A3%82%E5%93%8D.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character6": {
-   "name": "佩德洛",
-   "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E5%BE%B7%E6%B4%9B.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "character7": {
-   "name": "哈蒂娅",
-   "imageUrl": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
-   "market_price": {
-    "ELITE1": 0,
-    "ELITE2": 0
-   }
-  },
-  "barcodes": [],
-  "barcode": ""
  }
 ]
