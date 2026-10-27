@@ -100,15 +100,19 @@ Scan to experience the project
 
 ## 四、数据文件说明 / Data Files
 
+> 目录结构、哪些路径属于「客户端硬契约」不可移动、以及改动规范，见 [docs/STRUCTURE.md](docs/STRUCTURE.md)。
+> 已知数据缺口清单见 [docs/DATA_QUALITY.md](docs/DATA_QUALITY.md)。
+
 | 文件 | 说明 | 当前规模 |
 |------|------|----------|
-| `Box_Id.json` | **核心数据**：盒号 → 盒信息 + 盒内干员 + 市价 | 93 盒 / 581 条角色记录 |
+| `Box_Id.json` | **核心数据**：盒号 → 盒信息 + 盒内干员 + 市价 | 94 盒 / 588 条角色记录 |
+| `Box_Index.json` | **轻量索引**：盒号 + 日期 + 干员名 + 封面，列表/搜索/日历页够用（由脚本生成） | 94 盒 / 约 26 KB（全量的 16%） |
 | `searchWord.json` | 搜索词表：中文名 / 英文名 / 日文名 / 外号 | 418 条 |
-| `guessNew_Box_Id.json` | 官方未发布的新盒预测数据（字段与 `Box_Id.json` 一致） | 1 盒 |
+| `guessNew_Box_Id.json` | 官方未发布的新盒预测数据（字段与 `Box_Id.json` 一致） | 当前为空（`[]`），待录入 |
 | `Version.json` | 版本号与更新公告，客户端用于检查更新、弹公告 | 1 条 |
 | `image/` | 官方大图（音律联觉系列分年份存放于 `image/音律2021`~`音律2026`） | —— |
-| `resource/` | 早期开源数据副本 | 85 盒 |
-| `通行证鉴假指南.png` | 通行证真伪鉴别指南 | —— |
+| `resource/` | 早期开源数据副本（**已停止更新，请勿使用**，仅因外部链接仍引用而保留） | 85 盒 |
+| `assets/guide/通行证鉴假指南.png` | 通行证真伪鉴别指南 | —— |
 
 ### 4.1 `Box_Id.json`
 
@@ -160,6 +164,19 @@ Scan to experience the project
   "data": [ { "url": "...", "Version": "v1.9.2.2", "notice": "更新公告全文", ... } ]
 }
 ```
+
+
+### 4.4 修改数据后请重新生成索引
+
+`Box_Index.json` 是从 `Box_Id.json` 派生出来的，两者必须同步。
+改完数据后执行：
+
+```bash
+python scripts/build_index.py   # 重新生成 Box_Index.json
+python scripts/validate.py      # 本地校验（字段、键位连续性、条码唯一性等）
+```
+
+推送后 GitHub Actions 会再跑一遍；索引未同步会直接标红。
 
 ---
 

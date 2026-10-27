@@ -1,0 +1,18 @@
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 临时产物
+*.tmp
+*.bak
+~$*

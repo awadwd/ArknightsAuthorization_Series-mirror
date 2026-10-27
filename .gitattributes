@@ -1,0 +1,15 @@
+# 图片按二进制处理：不做行尾转换、不参与文本 diff
+*.png binary
+*.PNG binary
+*.jpg binary
+*.JPG binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.zip binary
+
+# 说明：本仓库历史文件行尾不统一（部分 JSON 为 LF、README/searchWord 为 CRLF），
+# 这里刻意不设置 `* text=auto eol=lf`。强行统一会让每次提交都产生全文件 diff，
+# 掩盖真实的数据改动，反而降低可核对性。
+# 新增文件请统一使用 LF。

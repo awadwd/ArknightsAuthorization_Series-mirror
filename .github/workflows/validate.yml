@@ -1,0 +1,32 @@
+name: validate-data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*.json"
+      - "scripts/**"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "*.json"
+      - "scripts/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 校验数据结构
+        run: python scripts/validate.py
+
+      - name: 校验索引是否与主数据同步
+        run: |
+          python scripts/build_index.py
+          git diff --exit-code Box_Index.json \
+            || (echo "::error::Box_Index.json 与 Box_Id.json 不同步，请本地运行 python scripts/build_index.py 并提交" && exit 1)
