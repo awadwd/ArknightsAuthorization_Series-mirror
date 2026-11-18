@@ -2,6 +2,8 @@
   {
     "Box_id": "1.0",
     "release_date": "2020/05/01",
+    "replicate_date": "2021/10/19",
+    "replicate_date_01": "2023/5/26",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -73,11 +75,17 @@
       "market_price": {
         "ELITE1": 14.36
       }
-    }
+    },
+    "barcodes": [
+      "6972643691935"
+    ],
+    "barcode": "6972643691935"
   },
   {
     "Box_id": "2.0",
     "release_date": "2020/05/01",
+    "replicate_date": "2021/10/19",
+    "replicate_date_01": "2023/5/26",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -156,7 +164,12 @@
       "market_price": {
         "ELITE1": 17.63
       }
-    }
+    },
+    "barcodes": [
+      "6972643691928",
+      "6975194633997"
+    ],
+    "barcode": "6972643691928"
   },
   {
     "Box_id": "3.0",
@@ -165,7 +178,8 @@
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
+    "replicate_date": "2022/12/3",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/article/9a450d8ca9d850282073b4ad9f43d7ae8155f7a8.jpg",
     "character1": {
       "name": "早露",
@@ -223,11 +237,17 @@
         "ELITE1": 26.42,
         "ELITE2": 37.33
       }
-    }
+    },
+    "barcodes": [
+      "6972643692222",
+      "6975194631900"
+    ],
+    "barcode": "6972643692222"
   },
   {
     "Box_id": "4.0",
     "release_date": "2020/09/03",
+    "replicate_date": "2022/12/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -291,11 +311,16 @@
         "ELITE1": 9.4,
         "ELITE2": 6.77
       }
-    }
+    },
+    "barcodes": [
+      "6975194631917"
+    ],
+    "barcode": "6975194631917"
   },
   {
     "Box_id": "5.0",
     "release_date": "2020/11/11",
+    "replicate_date": "2022/12/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -359,11 +384,17 @@
         "ELITE1": 5,
         "ELITE2": 6
       }
-    }
+    },
+    "barcodes": [
+      "6972643693922",
+      "6975194631924"
+    ],
+    "barcode": "6972643693922"
   },
   {
     "Box_id": "6.0",
     "release_date": "2020/11/11",
+    "replicate_date": "2024/9/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -434,11 +465,17 @@
       "market_price": {
         "ELITE1": 15
       }
-    }
+    },
+    "barcodes": [
+      "6972643693939",
+      "6977427181503"
+    ],
+    "barcode": "6972643693939"
   },
   {
     "Box_id": "7.0",
     "release_date": "2021/03/26",
+    "replicate_date": "2024/9/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -517,11 +554,17 @@
       "market_price": {
         "ELITE1": 5
       }
-    }
+    },
+    "barcodes": [
+      "6972643693946",
+      "6977427181510"
+    ],
+    "barcode": "6972643693946"
   },
   {
     "Box_id": "8.0",
     "release_date": "2021/09/25",
+    "replicate_date": "2024/12/6",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -594,11 +637,17 @@
       "market_price": {
         "ELITE1": 3.41
       }
-    }
+    },
+    "barcodes": [
+      "6972643697388",
+      "6977427182678"
+    ],
+    "barcode": "6972643697388"
   },
   {
     "Box_id": "9.0",
     "release_date": "2021/09/25",
+    "replicate_date": "2024/12/6",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -679,11 +728,17 @@
       "market_price": {
         "ELITE1": 3
       }
-    }
+    },
+    "barcodes": [
+      "6972643697395",
+      "6977427182685"
+    ],
+    "barcode": "6972643697395"
   },
   {
     "Box_id": "10.0",
     "release_date": "2022/04/03",
+    "replicate_date": "2025/6/5",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -756,11 +811,17 @@
       "market_price": {
         "ELITE1": 10
       }
-    }
+    },
+    "barcodes": [
+      "6972643699160",
+      "6975194634000"
+    ],
+    "barcode": "6972643699160"
   },
   {
     "Box_id": "11.0",
     "release_date": "2022/04/03",
+    "replicate_date": "2025/6/5",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -825,7 +886,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6972643699177",
+      "6975194634017"
+    ],
+    "barcode": "6972643699177"
   },
   {
     "Box_id": "12.0",
@@ -835,7 +901,8 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "true",
-    "replicate_date": "2026/5/1",
+    "replicate_date": "2023/4/30",
+    "replicate_date_01": "2026/5/1",
     "Box_ImageUrl": "https://img.alicdn.com/imgextra/i2/2206488662066/O1CN01N2A0gd1R8HPRAKVAr_!!4611686018427383858-0-item_pic.jpg_q50.jpg",
     "character1": {
       "name": "斯卡蒂",
@@ -895,11 +962,16 @@
         "ELITE1": 2.39,
         "ELITE2": 2.67
       }
-    }
+    },
+    "barcodes": [
+      "6975194634116"
+    ],
+    "barcode": "6975194634116"
   },
   {
     "Box_id": "13.0",
     "release_date": "2022/06/15",
+    "replicate_date": "2024/12/6",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -963,7 +1035,12 @@
         "ELITE1": 7,
         "ELITE2": 5
       }
-    }
+    },
+    "barcodes": [
+      "6972643699986",
+      "6975194634093"
+    ],
+    "barcode": "6972643699986"
   },
   {
     "Box_id": "14.0",
@@ -1031,7 +1108,8 @@
         "ELITE1": 15,
         "ELITE2": 8
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "15.0",
@@ -1100,11 +1178,17 @@
         "ELITE1": 0,
         "ELITE2": 12
       }
-    }
+    },
+    "barcode": "6975194630224",
+    "barcodes": [
+      "6975194630224",
+      "6975194634130"
+    ]
   },
   {
     "Box_id": "16.0",
     "release_date": "2022/08/19",
+    "replicate_date": "2025/8/4",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -1167,7 +1251,13 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6975194630439",
+      "6975194634109",
+      "6978899530080"
+    ],
+    "barcode": "6975194630439"
   },
   {
     "Box_id": "17.0",
@@ -1236,7 +1326,12 @@
         "ELITE1": 6,
         "ELITE2": 9
       }
-    }
+    },
+    "barcodes": [
+      "6975194631184",
+      "6975194634086"
+    ],
+    "barcode": "6975194631184"
   },
   {
     "Box_id": "18.0",
@@ -1304,11 +1399,17 @@
         "ELITE1": 4.16,
         "ELITE2": 7.75
       }
-    }
+    },
+    "barcodes": [
+      "6975194631429",
+      "6975194631610"
+    ],
+    "barcode": "6975194631429"
   },
   {
     "Box_id": "19.0",
     "release_date": "2022/11/01",
+    "replicate_date": "2024/12/6",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -1372,7 +1473,13 @@
         "ELITE1": 39.88,
         "ELITE2": 36.19
       }
-    }
+    },
+    "barcodes": [
+      "6975194631528",
+      "6975194631627",
+      "6975194637421"
+    ],
+    "barcode": "6975194631528"
   },
   {
     "Box_id": "20.0",
@@ -1441,11 +1548,17 @@
         "ELITE1": 8,
         "ELITE2": 15
       }
-    }
+    },
+    "barcodes": [
+      "6975194632006",
+      "6975194632013"
+    ],
+    "barcode": "6975194632006"
   },
   {
     "Box_id": "21.0",
     "release_date": "2023/01/18",
+    "replicate_date": "2025/1/22",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -1510,11 +1623,17 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcode": "6975194632471",
+    "barcodes": [
+      "6975194632471",
+      "6975194632488"
+    ]
   },
   {
     "Box_id": "22.0",
     "release_date": "2023/01/18",
+    "replicate_date": "2025/1/22",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -1577,7 +1696,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcode": "6975194632495",
+    "barcodes": [
+      "6975194632495",
+      "6975194632501"
+    ]
   },
   {
     "Box_id": "23.0",
@@ -1644,7 +1768,12 @@
         "ELITE1": 10,
         "ELITE2": 8
       }
-    }
+    },
+    "barcodes": [
+      "6975194632815",
+      "6975194632822"
+    ],
+    "barcode": "6975194632815"
   },
   {
     "Box_id": "24.0",
@@ -1653,7 +1782,8 @@
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
+    "replicate_date": "2026/11/3",
     "Box_ImageUrl": "https://img.alicdn.com/imgextra/i4/2206488662066/O1CN01o40pbH1R8H5Y749Du_!!2-item_pic.png_q50.jpg",
     "character1": {
       "name": "陈",
@@ -1713,7 +1843,12 @@
         "ELITE1": 7,
         "ELITE2": 9
       }
-    }
+    },
+    "barcodes": [
+      "6975194632839",
+      "6975194632846"
+    ],
+    "barcode": "6975194632839"
   },
   {
     "Box_id": "25.0",
@@ -1791,11 +1926,17 @@
         "ELITE1": 8,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6975194633966",
+      "6975194633973"
+    ],
+    "barcode": "6975194633966"
   },
   {
     "Box_id": "26.0",
     "release_date": "2023/05/01",
+    "replicate_date": "2025/11/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -1859,7 +2000,11 @@
         "ELITE1": 3.47,
         "ELITE2": 4
       }
-    }
+    },
+    "barcode": "6975194634550",
+    "barcodes": [
+      "6975194634550"
+    ]
   },
   {
     "Box_id": "27.0",
@@ -1936,7 +2081,12 @@
       "market_price": {
         "ELITE1": 28
       }
-    }
+    },
+    "barcodes": [
+      "6975194634574",
+      "6975194634581"
+    ],
+    "barcode": "6975194634574"
   },
   {
     "Box_id": "28.0",
@@ -2003,16 +2153,23 @@
         "ELITE1": 8,
         "ELITE2": 9
       }
-    }
+    },
+    "barcodes": [
+      "6975194634932",
+      "6975194634949"
+    ],
+    "barcode": "6975194634932"
   },
   {
     "Box_id": "29.0",
     "release_date": "2023/07/14",
+    "replicate_date": "2025/11/3",
+    "replicate_date_01": "2026/8/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/article/28ef48e0d44d1201c8411e7bb17da7cc54ca8c95.jpg",
     "character1": {
       "name": "提丰",
@@ -2081,11 +2238,17 @@
         "ELITE1": 12.45,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6975194635175",
+      "6975194635182"
+    ],
+    "barcode": "6975194635175"
   },
   {
     "Box_id": "30.0",
     "release_date": "2023/08/14",
+    "replicate_date": "2025/8/4",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -2148,11 +2311,17 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcode": "6975194635526",
+    "barcodes": [
+      "6975194635526",
+      "6975194635519"
+    ]
   },
   {
     "Box_id": "31.0",
     "release_date": "2023/08/14",
+    "replicate_date": "2025/8/4",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -2217,7 +2386,12 @@
         "ELITE1": 4,
         "ELITE2": 5
       }
-    }
+    },
+    "barcodes": [
+      "6975194635533",
+      "6975194635540"
+    ],
+    "barcode": "6975194635533"
   },
   {
     "Box_id": "32.0",
@@ -2285,7 +2459,12 @@
         "ELITE1": 0,
         "ELITE2": 10
       }
-    }
+    },
+    "barcodes": [
+      "6975194635793",
+      "6975194635809"
+    ],
+    "barcode": "6975194635793"
   },
   {
     "Box_id": "33.0",
@@ -2353,11 +2532,17 @@
         "ELITE1": 10,
         "ELITE2": 10
       }
-    }
+    },
+    "barcodes": [
+      "6975194636431",
+      "6975194636448"
+    ],
+    "barcode": "6975194636431"
   },
   {
     "Box_id": "34.0",
     "release_date": "2023/11/07",
+    "replicate_date": "2025/11/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -2430,16 +2615,21 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6975194636455"
+    ],
+    "barcode": "6975194636455"
   },
   {
     "Box_id": "35.0",
     "release_date": "2024/01/12",
+    "replicate_date": "2026/8/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/new_dyn/7910422ceed7e636d5dfe09788d2833e61968129.jpg",
     "character1": {
       "name": "锏",
@@ -2497,11 +2687,16 @@
         "ELITE1": 10,
         "ELITE2": 20
       }
-    }
+    },
+    "barcodes": [
+      "6975194637476"
+    ],
+    "barcode": "6975194637476"
   },
   {
     "Box_id": "36.0",
     "release_date": "2024/02/05",
+    "replicate_date": "2025/1/22",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -2565,7 +2760,12 @@
         "ELITE1": 6,
         "ELITE2": 5
       }
-    }
+    },
+    "barcodes": [
+      "6975194637865",
+      "6975194637872"
+    ],
+    "barcode": "6975194637865"
   },
   {
     "Box_id": "37.0",
@@ -2632,7 +2832,12 @@
         "ELITE1": 5,
         "ELITE2": 7
       }
-    }
+    },
+    "barcodes": [
+      "6972643695704",
+      "6975194637889"
+    ],
+    "barcode": "6972643695704"
   },
   {
     "Box_id": "38.0",
@@ -2700,7 +2905,11 @@
         "ELITE1": 5,
         "ELITE2": 10
       }
-    }
+    },
+    "barcodes": [
+      "6975194639876"
+    ],
+    "barcode": "6975194639876"
   },
   {
     "Box_id": "39.0",
@@ -2769,7 +2978,12 @@
         "ELITE1": 5,
         "ELITE2": 5
       }
-    }
+    },
+    "barcodes": [
+      "6975194639890",
+      "6975194639906"
+    ],
+    "barcode": "6975194639890"
   },
   {
     "Box_id": "40.0",
@@ -2837,7 +3051,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427180735",
+      "6977427180742"
+    ],
+    "barcode": "6977427180735"
   },
   {
     "Box_id": "41.0",
@@ -2905,7 +3124,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427180759",
+      "6977427180766"
+    ],
+    "barcode": "6977427180759"
   },
   {
     "Box_id": "42.0",
@@ -2973,7 +3197,12 @@
         "ELITE1": 6,
         "ELITE2": 9
       }
-    }
+    },
+    "barcodes": [
+      "6977427180773",
+      "6977427180780"
+    ],
+    "barcode": "6977427180773"
   },
   {
     "Box_id": "43.0",
@@ -3041,7 +3270,11 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427182036"
+    ],
+    "barcode": "6977427182036"
   },
   {
     "Box_id": "44.0",
@@ -3050,7 +3283,8 @@
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
+    "replicate_date": "2026/11/3",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/new_dyn/035359f4c0ed32a80bf38a0007b86d5861968129.jpg",
     "character1": {
       "name": "荒芜拉普兰德",
@@ -3108,7 +3342,8 @@
         "ELITE1": 5,
         "ELITE2": 6
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "45.0",
@@ -3175,7 +3410,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcode": "6977427184382",
+    "barcodes": [
+      "6977427184382",
+      "6977427184399"
+    ]
   },
   {
     "Box_id": "46.0",
@@ -3242,7 +3482,12 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427184375",
+      "6977427184405"
+    ],
+    "barcode": "6977427184375"
   },
   {
     "Box_id": "47.0",
@@ -3310,7 +3555,11 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427186591"
+    ],
+    "barcode": "6977427186591"
   },
   {
     "Box_id": "48.0",
@@ -3388,16 +3637,21 @@
         "ELITE1": 4,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427186607"
+    ],
+    "barcode": "6977427186607"
   },
   {
     "Box_id": "49.0",
     "release_date": "2025/07/15",
+    "replicate_date": "2026/8/3",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": "false",
+    "replicate": "true",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/new_dyn/67ba3c0373bde518781a26ae7efa657461968129.jpg",
     "character1": {
       "name": "酒神",
@@ -3456,7 +3710,11 @@
         "ELITE1": 4,
         "ELITE2": 4
       }
-    }
+    },
+    "barcodes": [
+      "6977427188847"
+    ],
+    "barcode": "6977427188847"
   },
   {
     "Box_id": "50.0",
@@ -3525,7 +3783,12 @@
         "ELITE1": 9,
         "ELITE2": 7
       }
-    }
+    },
+    "barcodes": [
+      "6978899530707",
+      "6978899530714"
+    ],
+    "barcode": "6978899530707"
   },
   {
     "Box_id": "51.0",
@@ -3595,7 +3858,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427189745",
+      "6978899532183"
+    ],
+    "barcode": "6977427189745"
   },
   {
     "Box_id": "52.0",
@@ -3661,7 +3929,11 @@
         "ELITE1": 2.01,
         "ELITE2": 1.92
       }
-    }
+    },
+    "barcodes": [
+      "6978899534309"
+    ],
+    "barcode": "6978899534309"
   },
   {
     "Box_id": "53.0",
@@ -3727,7 +3999,209 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": []
+  },
+  {
+    "Box_id": "54.0",
+    "release_date": "2026/07/13",
+    "size": "约5*10cm",
+    "material": "亚克力、涤纶",
+    "retail_price": "25元/抽",
+    "type": "true",
+    "replicate": "false",
+    "Box_ImageUrl": "https://img.alicdn.com/imgextra/i4/2206488662066/O1CN01JQA0R21R8HQLffawZ_!!4611686018427383858-0-item_pic.jpg_q50.jpg_.webp",
+    "character1": {
+      "name": "凯尔希·思衡托",
+      "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C%C2%B7%E6%80%9D%E8%A1%A1%E6%89%98.png",
+      "market_price": {
+        "ELITE1": 61.91,
+        "ELITE2": 56.89
+      }
+    },
+    "character2": {
+      "name": "可露希尔",
+      "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
+      "market_price": {
+        "ELITE1": 18.38,
+        "ELITE2": 23.71
+      }
+    },
+    "character3": {
+      "name": "维伊",
+      "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BC%8A.png",
+      "market_price": {
+        "ELITE1": 20.09,
+        "ELITE2": 19.64
+      }
+    },
+    "character4": {
+      "name": "谬因",
+      "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E8%B0%AC%E5%9B%A0.png",
+      "market_price": {
+        "ELITE1": 13.52,
+        "ELITE2": 16.2
+      }
+    },
+    "character5": {
+      "name": "裂响",
+      "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E8%A3%82%E5%93%8D.png",
+      "market_price": {
+        "ELITE1": 4.64,
+        "ELITE2": 4
+      }
+    },
+    "character6": {
+      "name": "佩德洛",
+      "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E5%BE%B7%E6%B4%9B.png",
+      "market_price": {
+        "ELITE1": 3.92,
+        "ELITE2": 3.92
+      }
+    },
+    "character7": {
+      "name": "哈蒂娅",
+      "imageUrl": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
+      "market_price": {
+        "ELITE1": 3.19,
+        "ELITE2": 3.47
+      }
+    },
+    "barcodes": []
+  },
+  {
+    "Box_id": "55.0",
+    "release_date": "2026/10/13",
+    "size": "约5*10cm",
+    "material": "亚克力、涤纶",
+    "retail_price": "25元/抽",
+    "type": "true",
+    "replicate": "false",
+    "Box_ImageUrl": "https://img.alicdn.com/imgextra/i2/2206488662066/O1CN01WFFWbYMsT1I2vH2e_!!4611686018427383858-0-item_pic.jpg_q50.jpg",
+    "character1": {
+      "name": "予愿安洁莉娜",
+      "imageUrl": "https://media.prts.wiki/c/c0/%E5%A4%B4%E5%83%8F_%E4%BA%88%E6%84%BF%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character2": {
+      "name": "珊比",
+      "imageUrl": "https://media.prts.wiki/0/0c/%E5%A4%B4%E5%83%8F_%E7%8F%8A%E6%AF%94.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character3": {
+      "name": "克莱门莎",
+      "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E5%85%8B%E8%8E%B1%E9%97%A8%E8%8E%8E.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character4": {
+      "name": "嘉辛塔",
+      "imageUrl": "https://media.prts.wiki/8/8b/%E5%A4%B4%E5%83%8F_%E5%98%89%E8%BE%9B%E5%A1%94.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character5": {
+      "name": "时隙",
+      "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E6%97%B6%E9%9A%99.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character6": {
+      "name": "旅骨",
+      "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%97%85%E9%AA%A8.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character7": {
+      "name": "德·托莱多",
+      "imageUrl": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "barcodes": []
+  },
+  {
+    "Box_id": "56.0",
+    "release_date": "2026/11/03",
+    "size": "约5*10cm",
+    "material": "亚克力、涤纶",
+    "retail_price": "25元/抽",
+    "type": "true",
+    "replicate": "false",
+    "Box_ImageUrl": "https://img.alicdn.com/imgextra/i3/2206488662066/O1CN019PxlweBymME2vH2e_!!4611686018427383858-0-item_pic.jpg_q50.jpg",
+    "character1": {
+      "name": "塔露拉",
+      "imageUrl": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E5%A1%94%E9%9C%B2%E6%8B%89.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character2": {
+      "name": "冻河",
+      "imageUrl": "https://media.prts.wiki/f/f4/%E5%A4%B4%E5%83%8F_%E5%86%BB%E6%B2%B3.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character3": {
+      "name": "国度",
+      "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9B%BD%E5%BA%A6.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character4": {
+      "name": "机械师",
+      "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%9C%BA%E6%A2%B0%E5%B8%88.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character5": {
+      "name": "奥尔佳",
+      "imageUrl": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E5%B0%94%E4%BD%B3.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character6": {
+      "name": "镜匠",
+      "imageUrl": "https://media.prts.wiki/7/7d/%E5%A4%B4%E5%83%8F_%E9%95%9C%E5%8C%A0.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character7": {
+      "name": "行铃",
+      "imageUrl": "https://media.prts.wiki/6/62/%E5%A4%B4%E5%83%8F_%E8%A1%8C%E9%93%83.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "CanNot Wait For",
@@ -3779,7 +4253,11 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcode": "6972643696046",
+    "barcodes": [
+      "6972643696046"
+    ]
   },
   {
     "Box_id": "ManiFesto:",
@@ -3831,7 +4309,11 @@
         "ELITE2": 13.57
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcode": "6972643696053",
+    "barcodes": [
+      "6972643696053"
+    ]
   },
   {
     "Box_id": "前航远歌",
@@ -3899,7 +4381,11 @@
         "ELITE2": 8.48
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcode": "6972643696060",
+    "barcodes": [
+      "6972643696060"
+    ]
   },
   {
     "Box_id": "灯华梦踏",
@@ -3951,7 +4437,11 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcode": "6972643696077",
+    "barcodes": [
+      "6972643696077"
+    ]
   },
   {
     "Box_id": "梦源之地",
@@ -4003,7 +4493,8 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcodes": []
   },
   {
     "Box_id": "零号特工",
@@ -4047,7 +4538,11 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcode": "6972643698262",
+    "barcodes": [
+      "6972643698262"
+    ]
   },
   {
     "Box_id": "浮生听风",
@@ -4091,7 +4586,8 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcodes": []
   },
   {
     "Box_id": "象限解构者",
@@ -4143,7 +4639,8 @@
         "ELITE2": 0
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcodes": []
   },
   {
     "Box_id": "嘉年华2022",
@@ -4203,7 +4700,12 @@
         "ELITE2": 384.33
       }
     },
-    "replicate_date": "2025/8/18"
+    "replicate_date": "2025/8/18",
+    "barcodes": [
+      "6972643698293",
+      "6977427182913"
+    ],
+    "barcode": "6972643698293"
   },
   {
     "Box_id": "迷航追踪",
@@ -4246,7 +4748,8 @@
         "ELITE1": 10.55,
         "ELITE2": 9.31
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "琅环玄机",
@@ -4289,7 +4792,8 @@
         "ELITE1": 5.47,
         "ELITE2": 3.67
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "踏沙寻影",
@@ -4332,7 +4836,8 @@
         "ELITE1": 3.47,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "缉速狂飙",
@@ -4375,7 +4880,8 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "遗君",
@@ -4426,7 +4932,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6975194638312",
+      "6975194638329"
+    ],
+    "barcode": "6975194638312"
   },
   {
     "Box_id": "超新星",
@@ -4477,7 +4988,12 @@
         "ELITE1": 9.47,
         "ELITE2": 13.33
       }
-    }
+    },
+    "barcodes": [
+      "6975194638336",
+      "6975194638343"
+    ],
+    "barcode": "6975194638336"
   },
   {
     "Box_id": "梦人",
@@ -4528,7 +5044,11 @@
         "ELITE1": 30.17,
         "ELITE2": 0
       }
-    }
+    },
+    "barcode": "6975194638275",
+    "barcodes": [
+      "6975194638275"
+    ]
   },
   {
     "Box_id": "行者",
@@ -4579,7 +5099,11 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcode": "6975194638299",
+    "barcodes": [
+      "6975194638299"
+    ]
   },
   {
     "Box_id": "嘉年华2024",
@@ -4591,6 +5115,11 @@
     "type": "true",
     "replicate": "false",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/mall/vendor/30/16/3016a8dee77c826b5eeccb2108ee13aa.png",
+    "barcodes": [
+      "6975194638138",
+      "6975194638145"
+    ],
+    "barcode": "6975194638138",
     "character1": {
       "name": "史尔特尔",
       "imageUrl": "https://media.prts.wiki/e/e1/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94.png",
@@ -4631,7 +5160,7 @@
         "ELITE2": 384.33
       }
     },
-    "character7": {
+    "character6": {
       "name": "薇薇安娜",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C.png",
       "market_price": {
@@ -4689,7 +5218,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427182968",
+      "6977427182975"
+    ],
+    "barcode": "6977427182968"
   },
   {
     "Box_id": "熠曲丰碑",
@@ -4740,7 +5274,13 @@
         "ELITE1": 4.43,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427182920",
+      "6977427182937",
+      "6977427183033"
+    ],
+    "barcode": "6977427182920"
   },
   {
     "Box_id": "时序花圃",
@@ -4791,7 +5331,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427183002",
+      "6977427183019"
+    ],
+    "barcode": "6977427183002"
   },
   {
     "Box_id": "移星桂冠",
@@ -4842,7 +5387,12 @@
         "ELITE1": 77.67,
         "ELITE2": 57.2
       }
-    }
+    },
+    "barcodes": [
+      "6977427182944",
+      "6977427182951"
+    ],
+    "barcode": "6977427182944"
   },
   {
     "Box_id": "雾色秘访",
@@ -4893,7 +5443,12 @@
         "ELITE1": 52.38,
         "ELITE2": 46.6
       }
-    }
+    },
+    "barcodes": [
+      "6977427182982",
+      "6977427182999"
+    ],
+    "barcode": "6977427182982"
   },
   {
     "Box_id": "集成映射",
@@ -4952,7 +5507,11 @@
         "ELITE1": 16.8,
         "ELITE2": 31.76
       }
-    }
+    },
+    "barcodes": [
+      "6977427185105"
+    ],
+    "barcode": "6977427185105"
   },
   {
     "Box_id": "野趣拾光",
@@ -5011,7 +5570,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427185129",
+      "6977427185136"
+    ],
+    "barcode": "6977427185129"
   },
   {
     "Box_id": "战术交汇",
@@ -5021,7 +5585,7 @@
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
     "type": "true",
-    "replicate": false,
+    "replicate": "false",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/article/c246dc6763b5eb70b3ab9087b752e15f816099bf.jpg",
     "character1": {
       "name": "灰烬",
@@ -5056,7 +5620,8 @@
         "ELITE1": 274.73,
         "ELITE2": 336.33
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "通行喵",
@@ -5064,7 +5629,7 @@
     "release_date": "2022/09/23",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
-    "retail_price": "25元/抽",
+    "retail_price": "50元/组",
     "type": "false",
     "replicate": "false",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/article/fab4fc1a0824fb842f8d54a8e0610dd8287a736e.jpg",
@@ -5076,7 +5641,11 @@
         "ELITE1": 55.63,
         "ELITE2": 105.15
       }
-    }
+    },
+    "barcodes": [
+      "6975194631337"
+    ],
+    "barcode": "6975194631337"
   },
   {
     "Box_id": "水晶箭行动",
@@ -5121,7 +5690,11 @@
         "ELITE1": 10,
         "ELITE2": 7
       }
-    }
+    },
+    "barcode": "6975194637445",
+    "barcodes": [
+      "6975194637445"
+    ]
   },
   {
     "Box_id": "无忧梦呓",
@@ -5174,12 +5747,60 @@
         "ELITE1": 8.03,
         "ELITE2": 9.08
       }
+    },
+    "barcode": "6977427188458",
+    "barcodes": [
+      "6977427188458"
+    ]
+  },
+  {
+    "Box_id": "月行水上",
+    "Box_type": "cooperation",
+    "release_date": "2026/09/08",
+    "size": "约5*10cm",
+    "material": "亚克力、涤纶",
+    "retail_price": "25元/抽",
+    "type": "true",
+    "replicate": "false",
+    "Box_ImageUrl": "https://img.alicdn.com/imgextra/i2/2206488662066/O1CN01r5Amy9nodJF2vH2e_!!4611686018427383858-0-item_pic.jpg_q50.jpg",
+    "character1": {
+      "name": "结城理",
+      "imageUrl": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E7%BB%93%E5%9F%8E%E7%90%86.png",
+      "hotcharacter": true,
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character2": {
+      "name": "埃癸斯",
+      "imageUrl": "https://media.prts.wiki/a/ae/%E5%A4%B4%E5%83%8F_%E5%9F%83%E7%99%B8%E6%96%AF.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character3": {
+      "name": "岳羽由加莉",
+      "imageUrl": "https://media.prts.wiki/9/98/%E5%A4%B4%E5%83%8F_%E5%B2%B3%E7%BE%BD%E7%94%B1%E5%8A%A0%E8%8E%89.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      }
+    },
+    "character4": {
+      "name": "虎狼丸",
+      "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E8%99%8E%E7%8B%BC%E4%B8%B8.png",
+      "market_price": {
+        "ELITE1": 0,
+        "ELITE2": 0
+      },
+      "nolyELITE1": true
     }
   },
   {
     "Box_id": "特别通行认证",
     "Box_type": "special",
-    "release_date": "",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -5227,12 +5848,18 @@
       "market_price": {
         "ELITE1": 25
       }
-    }
+    },
+    "barcodes": [
+      "6977427185907",
+      "6977427185914",
+      "6977427185938",
+      "6977427185945"
+    ],
+    "barcode": "6977427185907"
   },
   {
     "Box_id": "第一期设定集赠品",
     "Box_type": "special",
-    "release_date": "",
     "size": "约5*10cm",
     "material": "亚克力、涤纶",
     "retail_price": "25元/抽",
@@ -5246,7 +5873,8 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "白名单凭证1.0",
@@ -5305,7 +5933,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcodes": [
+      "6977427186959",
+      "6977427186966"
+    ],
+    "barcode": "6977427186959"
   },
   {
     "Box_id": "白名单凭证2.0",
@@ -5360,7 +5993,12 @@
     "character6": {
       "name": "TULIP",
       "imageUrl": ""
-    }
+    },
+    "barcodes": [
+      "6977427186973",
+      "6977427186980"
+    ],
+    "barcode": "6977427186973"
   },
   {
     "Box_id": "嘉年华2026",
@@ -5371,7 +6009,6 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "false",
-    "replicate_date": "",
     "Box_ImageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/wdI3SOFC1782980088_1782980088340.png",
     "character1": {
       "name": "博士",
@@ -5420,7 +6057,8 @@
         "ELITE1": 33.67,
         "ELITE2": 44.57
       }
-    }
+    },
+    "barcodes": []
   },
   {
     "Box_id": "布道人",
@@ -5431,7 +6069,6 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "false",
-    "replicate_date": "",
     "Box_ImageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/F6fevBfi1782985027_1782985027386.png",
     "character1": {
       "name": "蕾缪安",
@@ -5472,7 +6109,12 @@
         "ELITE1": 29.25,
         "ELITE2": 77.95
       }
-    }
+    },
+    "barcode": "6977427189912",
+    "barcodes": [
+      "6977427189912",
+      "6977427189950"
+    ]
   },
   {
     "Box_id": "渡星客",
@@ -5483,7 +6125,6 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "false",
-    "replicate_date": "",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/tSkHL0Ce1782985387_1782985387402.png",
     "character1": {
       "name": "凛御银灰",
@@ -5524,7 +6165,11 @@
         "ELITE1": 7.07,
         "ELITE2": 0
       }
-    }
+    },
+    "barcode": "6977427189967",
+    "barcodes": [
+      "6977427189967"
+    ]
   },
   {
     "Box_id": "戏中身",
@@ -5535,7 +6180,6 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "false",
-    "replicate_date": "",
     "Box_ImageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/eksQ3G1W1782985172_1782985172372.png",
     "character1": {
       "name": "酒神",
@@ -5576,7 +6220,12 @@
         "ELITE1": 0,
         "ELITE2": 0
       }
-    }
+    },
+    "barcode": "6977427189974",
+    "barcodes": [
+      "6977427189974",
+      "6977427189929"
+    ]
   },
   {
     "Box_id": "失语者",
@@ -5587,7 +6236,6 @@
     "retail_price": "25元/抽",
     "type": "true",
     "replicate": "false",
-    "replicate_date": "",
     "Box_ImageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/4ymfal8l1782985512_1782985512315.png",
     "character1": {
       "name": "阿米娅",
@@ -5628,73 +6276,11 @@
         "ELITE1": 27.18,
         "ELITE2": 42.15
       }
-    }
-  },
-  {
-    "Box_id": "54.0",
-    "release_date": "2026/07/13",
-    "size": "约5*10cm",
-    "material": "亚克力、涤纶",
-    "retail_price": "25元/抽",
-    "type": "true",
-    "replicate": "false",
-    "replicate_date": "",
-    "Box_ImageUrl": "https://img.alicdn.com/imgextra/i4/2206488662066/O1CN01JQA0R21R8HQLffawZ_!!4611686018427383858-0-item_pic.jpg_q50.jpg_.webp",
-    "character1": {
-      "name": "凯尔希·思衡托",
-      "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C%C2%B7%E6%80%9D%E8%A1%A1%E6%89%98.png",
-      "market_price": {
-        "ELITE1": 61.91,
-        "ELITE2": 56.89
-      }
     },
-    "character2": {
-      "name": "可露希尔",
-      "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
-      "market_price": {
-        "ELITE1": 18.38,
-        "ELITE2": 23.71
-      }
-    },
-    "character3": {
-      "name": "维伊",
-      "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BC%8A.png",
-      "market_price": {
-        "ELITE1": 20.09,
-        "ELITE2": 19.64
-      }
-    },
-    "character4": {
-      "name": "谬因",
-      "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E8%B0%AC%E5%9B%A0.png",
-      "market_price": {
-        "ELITE1": 13.52,
-        "ELITE2": 16.2
-      }
-    },
-    "character5": {
-      "name": "裂响",
-      "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E8%A3%82%E5%93%8D.png",
-      "market_price": {
-        "ELITE1": 4.64,
-        "ELITE2": 4
-      }
-    },
-    "character6": {
-      "name": "佩德洛",
-      "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E5%BE%B7%E6%B4%9B.png",
-      "market_price": {
-        "ELITE1": 3.92,
-        "ELITE2": 3.92
-      }
-    },
-    "character7": {
-      "name": "哈蒂娅",
-      "imageUrl": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
-      "market_price": {
-        "ELITE1": 3.19,
-        "ELITE2": 3.47
-      }
-    }
+    "barcodes": [
+      "6977427189943",
+      "6977427189981"
+    ],
+    "barcode": "6977427189943"
   }
 ]
