@@ -1,0 +1,6 @@
+{
+  "_comment": "市价整轮核对记录。只保留这一条总记录，不要按盒号分散写进 Box_Id.json。",
+  "market_priceUpdateTime": "2026-11-18T01:27:00.000Z",
+  "updatedBy": "qiandao",
+  "boxes": 95
+}
