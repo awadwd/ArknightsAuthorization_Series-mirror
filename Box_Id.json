@@ -13,67 +13,75 @@
     "character1": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 100,
+        "ELITE2": 112
       }
     },
     "character2": {
       "name": "W",
       "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_W.png",
+      "imageKey": "W",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 154.11,
-        "ELITE2": 396.4
+        "ELITE1": 165,
+        "ELITE2": 170
       }
     },
     "character3": {
       "name": "温蒂",
       "imageUrl": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E6%B8%A9%E8%92%82.png",
+      "imageKey": "温蒂",
       "market_price": {
-        "ELITE1": 48.61,
-        "ELITE2": 56.26
+        "ELITE1": 35,
+        "ELITE2": 40
       }
     },
     "character4": {
       "name": "巫恋",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E5%B7%AB%E6%81%8B.png",
+      "imageKey": "巫恋",
       "market_price": {
-        "ELITE1": 32.62,
-        "ELITE2": 29
+        "ELITE1": 25,
+        "ELITE2": 25
       }
     },
     "character5": {
       "name": "铸铁",
       "imageUrl": "https://media.prts.wiki/8/84/%E5%A4%B4%E5%83%8F_%E9%93%B8%E9%93%81.png",
+      "imageKey": "铸铁",
       "market_price": {
-        "ELITE1": 10.37,
-        "ELITE2": 11.7
+        "ELITE1": 7,
+        "ELITE2": 7
       }
     },
     "character6": {
       "name": "苏苏洛",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%8B%8F%E8%8B%8F%E6%B4%9B.png",
+      "imageKey": "苏苏洛",
       "market_price": {
-        "ELITE1": 26.83,
-        "ELITE2": 24.73
+        "ELITE1": 8,
+        "ELITE2": 8
       }
     },
     "character7": {
       "name": "香草",
       "imageUrl": "https://media.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E9%A6%99%E8%8D%89.png",
+      "imageKey": "香草",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 15.12
+        "ELITE1": 15
       }
     },
     "character8": {
       "name": "翎羽",
       "imageUrl": "https://media.prts.wiki/1/1f/%E5%A4%B4%E5%83%8F_%E7%BF%8E%E7%BE%BD.png",
+      "imageKey": "翎羽",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 14.36
+        "ELITE1": 6
       }
     },
     "barcodes": [
@@ -95,63 +103,71 @@
     "character1": {
       "name": "傀影",
       "imageUrl": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E5%82%80%E5%BD%B1.png",
+      "imageKey": "傀影",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 113.24,
-        "ELITE2": 195.43
+        "ELITE1": 65,
+        "ELITE2": 65
       }
     },
     "character2": {
       "name": "伊桑",
       "imageUrl": "https://media.prts.wiki/c/c1/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E6%A1%91.png",
+      "imageKey": "伊桑",
       "market_price": {
-        "ELITE1": 10.14,
-        "ELITE2": 13.57
+        "ELITE1": 13,
+        "ELITE2": 8
       }
     },
     "character3": {
       "name": "炎客",
       "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E7%82%8E%E5%AE%A2.png",
+      "imageKey": "炎客",
       "market_price": {
-        "ELITE1": 41.04,
-        "ELITE2": 45.35
+        "ELITE1": 15,
+        "ELITE2": 20
       }
     },
     "character4": {
       "name": "送葬人",
       "imageUrl": "https://media.prts.wiki/7/7e/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E7%BA%A6%E9%80%81%E8%91%AC%E4%BA%BA.png",
+      "imageKey": "prts:7/7e/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E7%BA%A6%E9%80%81%E8%91%AC%E4%BA%BA.png",
       "market_price": {
-        "ELITE1": 45,
-        "ELITE2": 58.72
+        "ELITE1": 55,
+        "ELITE2": 60
       }
     },
     "character5": {
       "name": "极境",
       "imageUrl": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E6%9E%81%E5%A2%83.png",
+      "imageKey": "极境",
       "market_price": {
-        "ELITE1": 11.86,
-        "ELITE2": 106.39
+        "ELITE1": 60,
+        "ELITE2": 65
       }
     },
     "character6": {
       "name": "巡林者",
       "imageUrl": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E5%B7%A1%E6%9E%97%E8%80%85.png",
+      "imageKey": "巡林者",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 7.77
+        "ELITE1": 2
       }
     },
     "character7": {
       "name": "黑角",
       "imageUrl": "https://media.prts.wiki/f/f1/%E5%A4%B4%E5%83%8F_%E9%BB%91%E8%A7%92.png",
+      "imageKey": "黑角",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 14
+        "ELITE1": 5
       }
     },
     "character8": {
       "name": "12f",
       "imageUrl": "https://media.prts.wiki/b/b7/%E5%A4%B4%E5%83%8F_12F.png",
+      "imageKey": "prts:b/b7/%E5%A4%B4%E5%83%8F_12F.png",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 15
@@ -160,9 +176,10 @@
     "character9": {
       "name": "THRM-EX",
       "imageUrl": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_THRM-EX.png",
+      "imageKey": "THRM-EX",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 17.63
+        "ELITE1": 10
       }
     },
     "barcodes": [
@@ -184,58 +201,65 @@
     "character1": {
       "name": "早露",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%97%A9%E9%9C%B2.png",
+      "imageKey": "早露",
       "market_price": {
-        "ELITE1": 57.78,
-        "ELITE2": 57.14
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "白金",
       "imageUrl": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%87%91.png",
+      "imageKey": "白金",
       "market_price": {
-        "ELITE1": 65.32,
-        "ELITE2": 61.56
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "真理",
       "imageUrl": "https://media.prts.wiki/e/e6/%E5%A4%B4%E5%83%8F_%E7%9C%9F%E7%90%86.png",
+      "imageKey": "真理",
       "market_price": {
-        "ELITE1": 45.83,
-        "ELITE2": 41.59
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "艾雅法拉",
       "imageUrl": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.png",
+      "imageKey": "艾雅法拉",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 258.8,
-        "ELITE2": 216
+        "ELITE1": 220,
+        "ELITE2": 225
       }
     },
     "character5": {
       "name": "古米",
       "imageUrl": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E5%8F%A4%E7%B1%B3.png",
+      "imageKey": "古米",
       "market_price": {
-        "ELITE1": 27.74,
-        "ELITE2": 25.67
+        "ELITE1": 5,
+        "ELITE2": 7
       }
     },
     "character6": {
       "name": "凛冬",
       "imageUrl": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%86%AC.png",
+      "imageKey": "凛冬",
       "market_price": {
-        "ELITE1": 27.18,
-        "ELITE2": 42.15
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character7": {
       "name": "苦艾",
       "imageUrl": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E8%8B%A6%E8%89%BE.png",
+      "imageKey": "苦艾",
       "market_price": {
-        "ELITE1": 26.42,
-        "ELITE2": 37.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -257,59 +281,66 @@
     "character1": {
       "name": "森蚺",
       "imageUrl": "https://media.prts.wiki/7/74/%E5%A4%B4%E5%83%8F_%E6%A3%AE%E8%9A%BA.png",
+      "imageKey": "森蚺",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 56.53,
-        "ELITE2": 66.15
+        "ELITE1": 55,
+        "ELITE2": 60
       }
     },
     "character2": {
       "name": "燧石",
       "imageUrl": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E7%87%A7%E7%9F%B3.png",
+      "imageKey": "燧石",
       "market_price": {
-        "ELITE1": 14.12,
-        "ELITE2": 17.08
+        "ELITE1": 5,
+        "ELITE2": 5
       }
     },
     "character3": {
       "name": "赫拉格",
       "imageUrl": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E6%8B%89%E6%A0%BC.png",
+      "imageKey": "赫拉格",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 71.57,
-        "ELITE2": 68.91
+        "ELITE1": 66,
+        "ELITE2": 75
       }
     },
     "character4": {
       "name": "黑",
       "imageUrl": "https://media.prts.wiki/d/d4/%E5%A4%B4%E5%83%8F_%E9%BB%91.png",
+      "imageKey": "黑",
       "market_price": {
-        "ELITE1": 45.64,
-        "ELITE2": 80.64
+        "ELITE1": 55,
+        "ELITE2": 60
       }
     },
     "character5": {
       "name": "锡兰",
       "imageUrl": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E9%94%A1%E5%85%B0.png",
+      "imageKey": "锡兰",
       "market_price": {
-        "ELITE1": 27.18,
-        "ELITE2": 32.54
+        "ELITE1": 25,
+        "ELITE2": 27
       }
     },
     "character6": {
       "name": "特米米",
       "imageUrl": "https://media.prts.wiki/b/b9/%E5%A4%B4%E5%83%8F_%E7%89%B9%E7%B1%B3%E7%B1%B3.png",
+      "imageKey": "特米米",
       "market_price": {
-        "ELITE1": 49,
-        "ELITE2": 47.61
+        "ELITE1": 35,
+        "ELITE2": 32
       }
     },
     "character7": {
       "name": "酸糖",
       "imageUrl": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E9%85%B8%E7%B3%96.png",
+      "imageKey": "酸糖",
       "market_price": {
-        "ELITE1": 9.4,
-        "ELITE2": 6.77
+        "ELITE1": 7,
+        "ELITE2": 6
       }
     },
     "barcodes": [
@@ -330,48 +361,54 @@
     "character1": {
       "name": "迷迭香",
       "imageUrl": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E8%BF%B7%E8%BF%AD%E9%A6%99.png",
+      "imageKey": "迷迭香",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 163,
-        "ELITE2": 275.67
+        "ELITE1": 50,
+        "ELITE2": 55
       }
     },
     "character2": {
       "name": "泥岩",
       "imageUrl": "https://media.prts.wiki/0/06/%E5%A4%B4%E5%83%8F_%E6%B3%A5%E5%B2%A9.png",
+      "imageKey": "泥岩",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 59.97,
-        "ELITE2": 102.48
+        "ELITE1": 55,
+        "ELITE2": 60
       }
     },
     "character3": {
       "name": "絮雨",
       "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E7%B5%AE%E9%9B%A8.png",
+      "imageKey": "絮雨",
       "market_price": {
-        "ELITE1": 83.35,
-        "ELITE2": 74.87
+        "ELITE1": 45,
+        "ELITE2": 45
       }
     },
     "character4": {
       "name": "芙兰卡",
       "imageUrl": "https://media.prts.wiki/2/2b/%E5%A4%B4%E5%83%8F_%E8%8A%99%E5%85%B0%E5%8D%A1.png",
+      "imageKey": "芙兰卡",
       "market_price": {
-        "ELITE1": 13.08,
-        "ELITE2": 11.12
+        "ELITE1": 18,
+        "ELITE2": 12
       }
     },
     "character5": {
       "name": "雷蛇",
       "imageUrl": "https://media.prts.wiki/f/f5/%E5%A4%B4%E5%83%8F_%E9%9B%B7%E8%9B%87.png",
+      "imageKey": "雷蛇",
       "market_price": {
-        "ELITE1": 16.62,
-        "ELITE2": 19.8
+        "ELITE1": 10,
+        "ELITE2": 10
       }
     },
     "character6": {
       "name": "断罪者",
       "imageUrl": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E6%96%AD%E7%BD%AA%E8%80%85.png",
+      "imageKey": "断罪者",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 6
@@ -380,6 +417,7 @@
     "character7": {
       "name": "杰克",
       "imageUrl": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_%E6%9D%B0%E5%85%8B.png",
+      "imageKey": "杰克",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 6
@@ -404,6 +442,7 @@
     "character1": {
       "name": "莱恩哈特",
       "imageUrl": "https://media.prts.wiki/0/03/%E5%A4%B4%E5%83%8F_%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9.png",
+      "imageKey": "莱恩哈特",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 37,
@@ -413,30 +452,34 @@
     "character2": {
       "name": "贾维",
       "imageUrl": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_%E8%B4%BE%E7%BB%B4.png",
+      "imageKey": "贾维",
       "market_price": {
-        "ELITE1": 6.6,
-        "ELITE2": 8.05
+        "ELITE1": 13,
+        "ELITE2": 14
       }
     },
     "character3": {
       "name": "布洛卡",
       "imageUrl": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E5%B8%83%E6%B4%9B%E5%8D%A1.png",
+      "imageKey": "布洛卡",
       "market_price": {
-        "ELITE1": 11.44,
+        "ELITE1": 18,
         "ELITE2": 15
       }
     },
     "character4": {
       "name": "奥斯塔",
       "imageUrl": "https://media.prts.wiki/4/49/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E6%96%AF%E5%A1%94.png",
+      "imageKey": "奥斯塔",
       "market_price": {
-        "ELITE1": 7.78,
+        "ELITE1": 12,
         "ELITE2": 11
       }
     },
     "character5": {
       "name": "慑砂",
       "imageUrl": "https://media.prts.wiki/e/e7/%E5%A4%B4%E5%83%8F_%E6%85%91%E7%A0%82.png",
+      "imageKey": "慑砂",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 8
@@ -445,6 +488,7 @@
     "character6": {
       "name": "断崖",
       "imageUrl": "https://media.prts.wiki/e/ea/%E5%A4%B4%E5%83%8F_%E6%96%AD%E5%B4%96.png",
+      "imageKey": "断崖",
       "market_price": {
         "ELITE1": 25,
         "ELITE2": 29
@@ -453,6 +497,7 @@
     "character7": {
       "name": "斑点",
       "imageUrl": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E6%96%91%E7%82%B9.png",
+      "imageKey": "斑点",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 17
@@ -461,6 +506,7 @@
     "character8": {
       "name": "月见夜",
       "imageUrl": "https://media.prts.wiki/b/b7/%E5%A4%B4%E5%83%8F_%E6%9C%88%E8%A7%81%E5%A4%9C.png",
+      "imageKey": "月见夜",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 15
@@ -485,6 +531,7 @@
     "character1": {
       "name": "银灰",
       "imageUrl": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E9%93%B6%E7%81%B0.png",
+      "imageKey": "银灰",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 50,
@@ -494,6 +541,7 @@
     "character2": {
       "name": "初雪",
       "imageUrl": "https://media.prts.wiki/d/d7/%E5%A4%B4%E5%83%8F_%E5%88%9D%E9%9B%AA.png",
+      "imageKey": "初雪",
       "market_price": {
         "ELITE1": 30,
         "ELITE2": 35
@@ -502,6 +550,7 @@
     "character3": {
       "name": "崖心",
       "imageUrl": "https://media.prts.wiki/7/7d/%E5%A4%B4%E5%83%8F_%E5%B4%96%E5%BF%83.png",
+      "imageKey": "崖心",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 5
@@ -510,6 +559,7 @@
     "character4": {
       "name": "角峰",
       "imageUrl": "https://media.prts.wiki/e/e4/%E5%A4%B4%E5%83%8F_%E8%A7%92%E5%B3%B0.png",
+      "imageKey": "角峰",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 5
@@ -518,6 +568,7 @@
     "character5": {
       "name": "空爆",
       "imageUrl": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E7%88%86.png",
+      "imageKey": "空爆",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 5
@@ -526,6 +577,7 @@
     "character6": {
       "name": "Lancet-2",
       "imageUrl": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_Lancet-2.png",
+      "imageKey": "Lancet-2",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 5
@@ -534,6 +586,7 @@
     "character7": {
       "name": "讯使",
       "imageUrl": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E8%AE%AF%E4%BD%BF.png",
+      "imageKey": "讯使",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 7
@@ -542,6 +595,7 @@
     "character8": {
       "name": "泡普卡",
       "imageUrl": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E6%B3%A1%E6%99%AE%E5%8D%A1.png",
+      "imageKey": "泡普卡",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 5
@@ -550,6 +604,7 @@
     "character9": {
       "name": "梓兰",
       "imageUrl": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E6%A2%93%E5%85%B0.png",
+      "imageKey": "梓兰",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 5
@@ -574,6 +629,7 @@
     "character1": {
       "name": "推进之王",
       "imageUrl": "https://media.prts.wiki/b/ba/%E5%A4%B4%E5%83%8F_%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B.png",
+      "imageKey": "推进之王",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 18,
@@ -583,6 +639,7 @@
     "character2": {
       "name": "琴柳",
       "imageUrl": "https://media.prts.wiki/9/96/%E5%A4%B4%E5%83%8F_%E7%90%B4%E6%9F%B3.png",
+      "imageKey": "琴柳",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 18,
@@ -592,6 +649,7 @@
     "character3": {
       "name": "风笛",
       "imageUrl": "https://media.prts.wiki/d/de/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E7%AC%9B.png",
+      "imageKey": "风笛",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 20,
@@ -601,6 +659,7 @@
     "character4": {
       "name": "桑葚",
       "imageUrl": "https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E6%A1%91%E8%91%9A.png",
+      "imageKey": "桑葚",
       "market_price": {
         "ELITE1": 42,
         "ELITE2": 42
@@ -609,14 +668,16 @@
     "character5": {
       "name": "罗比菈塔",
       "imageUrl": "https://media.prts.wiki/5/52/%E5%A4%B4%E5%83%8F_%E7%BD%97%E6%AF%94%E8%8F%88%E5%A1%94.png",
+      "imageKey": "罗比菈塔",
       "market_price": {
-        "ELITE1": 10.55,
-        "ELITE2": 9.31
+        "ELITE1": 9,
+        "ELITE2": 9
       }
     },
     "character6": {
       "name": "苇草",
       "imageUrl": "https://media.prts.wiki/7/7a/%E5%A4%B4%E5%83%8F_%E8%8B%87%E8%8D%89.png",
+      "imageKey": "苇草",
       "market_price": {
         "ELITE1": 24,
         "ELITE2": 12
@@ -625,6 +686,7 @@
     "character7": {
       "name": "芙蓉",
       "imageUrl": "https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E8%8A%99%E8%93%89.png",
+      "imageKey": "芙蓉",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 3
@@ -633,9 +695,10 @@
     "character8": {
       "name": "炎熔",
       "imageUrl": "https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%86%94.png",
+      "imageKey": "炎熔",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 3.41
+        "ELITE1": 6
       }
     },
     "barcodes": [
@@ -657,6 +720,7 @@
     "character1": {
       "name": "瑕光",
       "imageUrl": "https://media.prts.wiki/f/f7/%E5%A4%B4%E5%83%8F_%E7%91%95%E5%85%89.png",
+      "imageKey": "瑕光",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 29,
@@ -666,6 +730,7 @@
     "character2": {
       "name": "鞭刃",
       "imageUrl": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E9%9E%AD%E5%88%83.png",
+      "imageKey": "鞭刃",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 8
@@ -674,6 +739,7 @@
     "character3": {
       "name": "临光",
       "imageUrl": "https://media.prts.wiki/1/1a/%E5%A4%B4%E5%83%8F_%E4%B8%B4%E5%85%89.png",
+      "imageKey": "临光",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 20,
@@ -683,15 +749,17 @@
     "character4": {
       "name": "星极",
       "imageUrl": "https://media.prts.wiki/e/ee/%E5%A4%B4%E5%83%8F_%E6%98%9F%E6%9E%81.png",
+      "imageKey": "星极",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 34.22,
-        "ELITE2": 35.83
+        "ELITE1": 39,
+        "ELITE2": 48
       }
     },
     "character5": {
       "name": "泡泡",
       "imageUrl": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E6%B3%A1%E6%B3%A1.png",
+      "imageKey": "泡泡",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -700,6 +768,7 @@
     "character6": {
       "name": "芬",
       "imageUrl": "https://media.prts.wiki/4/41/%E5%A4%B4%E5%83%8F_%E8%8A%AC.png",
+      "imageKey": "芬",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 14
@@ -708,14 +777,16 @@
     "character7": {
       "name": "克洛丝",
       "imageUrl": "https://media.prts.wiki/b/b9/%E5%A4%B4%E5%83%8F_%E5%85%8B%E6%B4%9B%E4%B8%9D.png",
+      "imageKey": "克洛丝",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 22.95
+        "ELITE1": 33
       }
     },
     "character8": {
       "name": "米格鲁",
       "imageUrl": "https://media.prts.wiki/3/32/%E5%A4%B4%E5%83%8F_%E7%B1%B3%E6%A0%BC%E9%B2%81.png",
+      "imageKey": "米格鲁",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 10
@@ -724,6 +795,7 @@
     "character9": {
       "name": "Castle-3",
       "imageUrl": "https://media.prts.wiki/8/82/%E5%A4%B4%E5%83%8F_Castle-3.png",
+      "imageKey": "Castle-3",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 3
@@ -748,6 +820,7 @@
     "character1": {
       "name": "菲亚梅塔",
       "imageUrl": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E8%8F%B2%E4%BA%9A%E6%A2%85%E5%A1%94.png",
+      "imageKey": "菲亚梅塔",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 40,
@@ -757,15 +830,17 @@
     "character2": {
       "name": "异客",
       "imageUrl": "https://media.prts.wiki/d/d2/%E5%A4%B4%E5%83%8F_%E5%BC%82%E5%AE%A2.png",
+      "imageKey": "异客",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 19.71,
+        "ELITE1": 34,
         "ELITE2": 44
       }
     },
     "character3": {
       "name": "见行者",
       "imageUrl": "https://media.prts.wiki/d/d2/%E5%A4%B4%E5%83%8F_%E8%A7%81%E8%A1%8C%E8%80%85.png",
+      "imageKey": "见行者",
       "market_price": {
         "ELITE1": 33,
         "ELITE2": 30
@@ -774,6 +849,7 @@
     "character4": {
       "name": "熔泉",
       "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E7%86%94%E6%B3%89.png",
+      "imageKey": "熔泉",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -782,14 +858,16 @@
     "character5": {
       "name": "风丸",
       "imageUrl": "https://media.prts.wiki/1/12/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E4%B8%B8.png",
+      "imageKey": "风丸",
       "market_price": {
-        "ELITE1": 4.38,
-        "ELITE2": 5.43
+        "ELITE1": 6,
+        "ELITE2": 5
       }
     },
     "character6": {
       "name": "安比尔",
       "imageUrl": "https://media.prts.wiki/f/ff/%E5%A4%B4%E5%83%8F_%E5%AE%89%E6%AF%94%E5%B0%94.png",
+      "imageKey": "安比尔",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -798,6 +876,7 @@
     "character7": {
       "name": "安德切尔",
       "imageUrl": "https://media.prts.wiki/f/f6/%E5%A4%B4%E5%83%8F_%E5%AE%89%E5%BE%B7%E5%88%87%E5%B0%94.png",
+      "imageKey": "安德切尔",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 14,
@@ -807,6 +886,7 @@
     "character8": {
       "name": "史都华德",
       "imageUrl": "https://media.prts.wiki/b/b3/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E9%83%BD%E5%8D%8E%E5%BE%B7.png",
+      "imageKey": "史都华德",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 10
@@ -831,6 +911,7 @@
     "character1": {
       "name": "能天使",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+      "imageKey": "能天使",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 32,
@@ -840,15 +921,17 @@
     "character2": {
       "name": "莫斯提马",
       "imageUrl": "https://media.prts.wiki/0/0b/%E5%A4%B4%E5%83%8F_%E8%8E%AB%E6%96%AF%E6%8F%90%E9%A9%AC.png",
+      "imageKey": "莫斯提马",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 52.38,
-        "ELITE2": 46.6
+        "ELITE1": 50,
+        "ELITE2": 46
       }
     },
     "character3": {
       "name": "德克萨斯",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+      "imageKey": "德克萨斯",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 25,
@@ -858,6 +941,7 @@
     "character4": {
       "name": "空",
       "imageUrl": "https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E7%A9%BA.png",
+      "imageKey": "空",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 5
@@ -866,14 +950,16 @@
     "character5": {
       "name": "可颂",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%A2%82.png",
+      "imageKey": "可颂",
       "market_price": {
-        "ELITE1": 2.93,
-        "ELITE2": 3.77
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character6": {
       "name": "拜松",
       "imageUrl": "https://media.prts.wiki/b/b2/%E5%A4%B4%E5%83%8F_%E6%8B%9C%E6%9D%BE.png",
+      "imageKey": "拜松",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -882,6 +968,7 @@
     "character7": {
       "name": "暴雨",
       "imageUrl": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E6%9A%B4%E9%9B%A8.png",
+      "imageKey": "暴雨",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -907,60 +994,67 @@
     "character1": {
       "name": "斯卡蒂",
       "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%96%AF%E5%8D%A1%E8%92%82.png",
+      "imageKey": "斯卡蒂",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 50.32,
-        "ELITE2": 51.67
+        "ELITE1": 115,
+        "ELITE2": 148
       }
     },
     "character2": {
       "name": "歌蕾蒂娅",
       "imageUrl": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E6%AD%8C%E8%95%BE%E8%92%82%E5%A8%85.png",
+      "imageKey": "歌蕾蒂娅",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 13.94,
-        "ELITE2": 19
+        "ELITE1": 110,
+        "ELITE2": 40
       }
     },
     "character3": {
       "name": "幽灵鲨",
       "imageUrl": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+      "imageKey": "幽灵鲨",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 20.58,
-        "ELITE2": 19.33
+        "ELITE1": 70,
+        "ELITE2": 60
       }
     },
     "character4": {
       "name": "格拉尼",
       "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E6%8B%89%E5%B0%BC.png",
+      "imageKey": "格拉尼",
       "market_price": {
-        "ELITE1": 3.71,
-        "ELITE2": 3.34
+        "ELITE1": 29,
+        "ELITE2": 21
       }
     },
     "character5": {
       "name": "深海色",
       "imageUrl": "https://media.prts.wiki/d/d1/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E6%B5%B7%E8%89%B2.png",
+      "imageKey": "深海色",
       "market_price": {
-        "ELITE1": 3.33,
-        "ELITE2": 3.22
+        "ELITE1": 30,
+        "ELITE2": 0
       }
     },
     "character6": {
       "name": "格雷伊",
       "imageUrl": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E9%9B%B7%E4%BC%8A.png",
+      "imageKey": "格雷伊",
       "market_price": {
-        "ELITE1": 2.17,
-        "ELITE2": 2.54
+        "ELITE1": 8,
+        "ELITE2": 0
       }
     },
     "character7": {
       "name": "猎蜂",
       "imageUrl": "https://media.prts.wiki/c/c2/%E5%A4%B4%E5%83%8F_%E7%8C%8E%E8%9C%82.png",
+      "imageKey": "猎蜂",
       "market_price": {
-        "ELITE1": 2.39,
-        "ELITE2": 2.67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -981,15 +1075,17 @@
     "character1": {
       "name": "黑键",
       "imageUrl": "https://media.prts.wiki/1/1e/%E5%A4%B4%E5%83%8F_%E9%BB%91%E9%94%AE.png",
+      "imageKey": "黑键",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 18.58,
-        "ELITE2": 27.67
+        "ELITE1": 32,
+        "ELITE2": 30
       }
     },
     "character2": {
       "name": "澄闪",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E6%BE%84%E9%97%AA.png",
+      "imageKey": "澄闪",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 55,
@@ -999,6 +1095,7 @@
     "character3": {
       "name": "濯尘芙蓉",
       "imageUrl": "https://media.prts.wiki/8/8d/%E5%A4%B4%E5%83%8F_%E6%BF%AF%E5%B0%98%E8%8A%99%E8%93%89.png",
+      "imageKey": "濯尘芙蓉",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 5
@@ -1007,6 +1104,7 @@
     "character4": {
       "name": "车尔尼",
       "imageUrl": "https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E8%BD%A6%E5%B0%94%E5%B0%BC.png",
+      "imageKey": "车尔尼",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 3
@@ -1015,14 +1113,16 @@
     "character5": {
       "name": "埃拉托",
       "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E5%9F%83%E6%8B%89%E6%89%98.png",
+      "imageKey": "埃拉托",
       "market_price": {
-        "ELITE1": 3.85,
-        "ELITE2": 4.08
+        "ELITE1": 4,
+        "ELITE2": 9
       }
     },
     "character6": {
       "name": "地灵",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%9C%B0%E7%81%B5.png",
+      "imageKey": "地灵",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1031,6 +1131,7 @@
     "character7": {
       "name": "夏栎",
       "imageUrl": "https://media.prts.wiki/0/08/%E5%A4%B4%E5%83%8F_%E5%A4%8F%E6%A0%8E.png",
+      "imageKey": "夏栎",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 5
@@ -1055,39 +1156,44 @@
     "character1": {
       "name": "塞雷娅",
       "imageUrl": "https://media.prts.wiki/e/ee/%E5%A4%B4%E5%83%8F_%E5%A1%9E%E9%9B%B7%E5%A8%85.png",
+      "imageKey": "塞雷娅",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 26.17,
-        "ELITE2": 34.5
+        "ELITE1": 18,
+        "ELITE2": 75
       }
     },
     "character2": {
       "name": "伊芙利特",
       "imageUrl": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9.png",
+      "imageKey": "伊芙利特",
       "market_price": {
-        "ELITE1": 13.25,
-        "ELITE2": 12.85
+        "ELITE1": 25,
+        "ELITE2": 39
       }
     },
     "character3": {
       "name": "麦哲伦",
       "imageUrl": "https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E9%BA%A6%E5%93%B2%E4%BC%A6.png",
+      "imageKey": "麦哲伦",
       "market_price": {
-        "ELITE1": 7.07,
+        "ELITE1": 40,
         "ELITE2": 58
       }
     },
     "character4": {
       "name": "赫默",
       "imageUrl": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E9%BB%98.png",
+      "imageKey": "赫默",
       "market_price": {
-        "ELITE1": 17.37,
-        "ELITE2": 8.48
+        "ELITE1": 40,
+        "ELITE2": 58
       }
     },
     "character5": {
       "name": "白面鸮",
       "imageUrl": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%9D%A2%E9%B8%AE.png",
+      "imageKey": "白面鸮",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 32
@@ -1096,6 +1202,7 @@
     "character6": {
       "name": "梅尔",
       "imageUrl": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E6%A2%85%E5%B0%94.png",
+      "imageKey": "梅尔",
       "market_price": {
         "ELITE1": 12,
         "ELITE2": 7
@@ -1104,6 +1211,7 @@
     "character7": {
       "name": "末药",
       "imageUrl": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%9C%AB%E8%8D%AF.png",
+      "imageKey": "末药",
       "market_price": {
         "ELITE1": 15,
         "ELITE2": 8
@@ -1124,6 +1232,7 @@
     "character1": {
       "name": "多萝西",
       "imageUrl": "https://media.prts.wiki/4/4f/%E5%A4%B4%E5%83%8F_%E5%A4%9A%E8%90%9D%E8%A5%BF.png",
+      "imageKey": "多萝西",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 60,
@@ -1133,6 +1242,7 @@
     "character2": {
       "name": "山",
       "imageUrl": "https://media.prts.wiki/e/ec/%E5%A4%B4%E5%83%8F_%E5%B1%B1.png",
+      "imageKey": "山",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 88,
@@ -1142,14 +1252,16 @@
     "character3": {
       "name": "承曦格雷伊",
       "imageUrl": "https://media.prts.wiki/e/e2/%E5%A4%B4%E5%83%8F_%E6%89%BF%E6%9B%A6%E6%A0%BC%E9%9B%B7%E4%BC%8A.png",
+      "imageKey": "承曦格雷伊",
       "market_price": {
-        "ELITE1": 3.51,
-        "ELITE2": 3.23
+        "ELITE1": 25,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "星源",
       "imageUrl": "https://media.prts.wiki/4/48/%E5%A4%B4%E5%83%8F_%E6%98%9F%E6%BA%90.png",
+      "imageKey": "星源",
       "market_price": {
         "ELITE1": 50,
         "ELITE2": 38
@@ -1158,6 +1270,7 @@
     "character5": {
       "name": "卡夫卡",
       "imageUrl": "https://media.prts.wiki/8/8d/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E5%A4%AB%E5%8D%A1.png",
+      "imageKey": "卡夫卡",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 15
@@ -1166,6 +1279,7 @@
     "character6": {
       "name": "罗宾",
       "imageUrl": "https://media.prts.wiki/1/1f/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%AE%BE.png",
+      "imageKey": "罗宾",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 8
@@ -1174,6 +1288,7 @@
     "character7": {
       "name": "松果",
       "imageUrl": "https://media.prts.wiki/5/5e/%E5%A4%B4%E5%83%8F_%E6%9D%BE%E6%9E%9C.png",
+      "imageKey": "松果",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 12
@@ -1198,14 +1313,16 @@
     "character1": {
       "name": "百炼嘉维尔",
       "imageUrl": "https://media.prts.wiki/1/1b/%E5%A4%B4%E5%83%8F_%E7%99%BE%E7%82%BC%E5%98%89%E7%BB%B4%E5%B0%94.png",
+      "imageKey": "百炼嘉维尔",
       "market_price": {
-        "ELITE1": 8.2,
-        "ELITE2": 7.17
+        "ELITE1": 11,
+        "ELITE2": 11
       }
     },
     "character2": {
       "name": "鸿雪",
       "imageUrl": "https://media.prts.wiki/1/1b/%E5%A4%B4%E5%83%8F_%E9%B8%BF%E9%9B%AA.png",
+      "imageKey": "鸿雪",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 40,
@@ -1215,14 +1332,16 @@
     "character3": {
       "name": "卡涅利安",
       "imageUrl": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E6%B6%85%E5%88%A9%E5%AE%89.png",
+      "imageKey": "卡涅利安",
       "market_price": {
-        "ELITE1": 6.19,
+        "ELITE1": 13,
         "ELITE2": 12
       }
     },
     "character4": {
       "name": "晓歌",
       "imageUrl": "https://media.prts.wiki/1/15/%E5%A4%B4%E5%83%8F_%E6%99%93%E6%AD%8C.png",
+      "imageKey": "晓歌",
       "market_price": {
         "ELITE1": 21,
         "ELITE2": 26
@@ -1231,6 +1350,7 @@
     "character5": {
       "name": "至简",
       "imageUrl": "https://media.prts.wiki/9/98/%E5%A4%B4%E5%83%8F_%E8%87%B3%E7%AE%80.png",
+      "imageKey": "至简",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 8
@@ -1239,6 +1359,7 @@
     "character6": {
       "name": "陨星",
       "imageUrl": "https://media.prts.wiki/e/ea/%E5%A4%B4%E5%83%8F_%E9%99%A8%E6%98%9F.png",
+      "imageKey": "陨星",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1247,6 +1368,7 @@
     "character7": {
       "name": "天火",
       "imageUrl": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E5%A4%A9%E7%81%AB.png",
+      "imageKey": "天火",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1272,6 +1394,7 @@
     "character1": {
       "name": "玛恩纳",
       "imageUrl": "https://media.prts.wiki/0/08/%E5%A4%B4%E5%83%8F_%E7%8E%9B%E6%81%A9%E7%BA%B3.png",
+      "imageKey": "玛恩纳",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 100,
@@ -1281,6 +1404,7 @@
     "character2": {
       "name": "棘刺",
       "imageUrl": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_%E6%A3%98%E5%88%BA.png",
+      "imageKey": "棘刺",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 110,
@@ -1290,6 +1414,7 @@
     "character3": {
       "name": "但书",
       "imageUrl": "https://media.prts.wiki/b/b0/%E5%A4%B4%E5%83%8F_%E4%BD%86%E4%B9%A6.png",
+      "imageKey": "但书",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 8
@@ -1298,14 +1423,16 @@
     "character4": {
       "name": "蛇屠箱",
       "imageUrl": "https://media.prts.wiki/0/02/%E5%A4%B4%E5%83%8F_%E8%9B%87%E5%B1%A0%E7%AE%B1.png",
+      "imageKey": "蛇屠箱",
       "market_price": {
-        "ELITE1": 2.98,
-        "ELITE2": 3.04
+        "ELITE1": 4,
+        "ELITE2": 8
       }
     },
     "character5": {
       "name": "狮蝎",
       "imageUrl": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E7%8B%AE%E8%9D%8E.png",
+      "imageKey": "狮蝎",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 6
@@ -1314,6 +1441,7 @@
     "character6": {
       "name": "砾",
       "imageUrl": "https://media.prts.wiki/c/ce/%E5%A4%B4%E5%83%8F_%E7%A0%BE.png",
+      "imageKey": "砾",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 10
@@ -1322,6 +1450,7 @@
     "character7": {
       "name": "夜烟",
       "imageUrl": "https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E7%83%9F.png",
+      "imageKey": "夜烟",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 9
@@ -1345,15 +1474,17 @@
     "character1": {
       "name": "白铁",
       "imageUrl": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%93%81.png",
+      "imageKey": "白铁",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 18.33,
+        "ELITE1": 108,
         "ELITE2": 95
       }
     },
     "character2": {
       "name": "号角",
       "imageUrl": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E5%8F%B7%E8%A7%92.png",
+      "imageKey": "号角",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 30,
@@ -1363,6 +1494,7 @@
     "character3": {
       "name": "明椒",
       "imageUrl": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E6%98%8E%E6%A4%92.png",
+      "imageKey": "明椒",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 0
@@ -1371,6 +1503,7 @@
     "character4": {
       "name": "达格达",
       "imageUrl": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E8%BE%BE%E6%A0%BC%E8%BE%BE.png",
+      "imageKey": "达格达",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 8
@@ -1379,6 +1512,7 @@
     "character5": {
       "name": "铅踝",
       "imageUrl": "https://media.prts.wiki/8/87/%E5%A4%B4%E5%83%8F_%E9%93%85%E8%B8%9D.png",
+      "imageKey": "铅踝",
       "market_price": {
         "ELITE1": 24,
         "ELITE2": 25
@@ -1387,17 +1521,19 @@
     "character6": {
       "name": "洛洛",
       "imageUrl": "https://media.prts.wiki/d/d4/%E5%A4%B4%E5%83%8F_%E6%B4%9B%E6%B4%9B.png",
+      "imageKey": "洛洛",
       "market_price": {
-        "ELITE1": 6.2,
+        "ELITE1": 18,
         "ELITE2": 15
       }
     },
     "character7": {
       "name": "因陀罗",
       "imageUrl": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E5%9B%A0%E9%99%80%E7%BD%97.png",
+      "imageKey": "因陀罗",
       "market_price": {
-        "ELITE1": 4.16,
-        "ELITE2": 7.75
+        "ELITE1": 3,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -1419,6 +1555,7 @@
     "character1": {
       "name": "缄默德克萨斯",
       "imageUrl": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E7%BC%84%E9%BB%98%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+      "imageKey": "缄默德克萨斯",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 43,
@@ -1428,6 +1565,7 @@
     "character2": {
       "name": "伺夜",
       "imageUrl": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E4%BC%BA%E5%A4%9C.png",
+      "imageKey": "伺夜",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 9
@@ -1436,6 +1574,7 @@
     "character3": {
       "name": "斥罪",
       "imageUrl": "https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E6%96%A5%E7%BD%AA.png",
+      "imageKey": "斥罪",
       "market_price": {
         "ELITE1": 16,
         "ELITE2": 22
@@ -1444,6 +1583,7 @@
     "character4": {
       "name": "雪绒",
       "imageUrl": "https://media.prts.wiki/8/82/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E7%BB%92.png",
+      "imageKey": "雪绒",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1452,6 +1592,7 @@
     "character5": {
       "name": "子月",
       "imageUrl": "https://media.prts.wiki/d/db/%E5%A4%B4%E5%83%8F_%E5%AD%90%E6%9C%88.png",
+      "imageKey": "子月",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 7
@@ -1460,6 +1601,7 @@
     "character6": {
       "name": "石英",
       "imageUrl": "https://media.prts.wiki/b/bc/%E5%A4%B4%E5%83%8F_%E7%9F%B3%E8%8B%B1.png",
+      "imageKey": "石英",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1468,10 +1610,11 @@
     "character7": {
       "name": "拉普兰德",
       "imageUrl": "https://media.prts.wiki/b/bf/%E5%A4%B4%E5%83%8F_%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+      "imageKey": "拉普兰德",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 39.88,
-        "ELITE2": 36.19
+        "ELITE1": 40,
+        "ELITE2": 44
       }
     },
     "barcodes": [
@@ -1494,15 +1637,17 @@
     "character1": {
       "name": "焰影苇草",
       "imageUrl": "https://media.prts.wiki/9/94/%E5%A4%B4%E5%83%8F_%E7%84%B0%E5%BD%B1%E8%8B%87%E8%8D%89.png",
+      "imageKey": "焰影苇草",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 33.21,
-        "ELITE2": 50.83
+        "ELITE1": 92,
+        "ELITE2": 40
       }
     },
     "character2": {
       "name": "刻俄柏",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E5%88%BB%E4%BF%84%E6%9F%8F.png",
+      "imageKey": "刻俄柏",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 40,
@@ -1512,6 +1657,7 @@
     "character3": {
       "name": "和弦",
       "imageUrl": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E5%92%8C%E5%BC%A6.png",
+      "imageKey": "和弦",
       "market_price": {
         "ELITE1": 12,
         "ELITE2": 10
@@ -1520,6 +1666,7 @@
     "character4": {
       "name": "谜图",
       "imageUrl": "https://media.prts.wiki/7/79/%E5%A4%B4%E5%83%8F_%E8%B0%9C%E5%9B%BE.png",
+      "imageKey": "谜图",
       "market_price": {
         "ELITE1": 40,
         "ELITE2": 0
@@ -1528,6 +1675,7 @@
     "character5": {
       "name": "海沫",
       "imageUrl": "https://media.prts.wiki/6/6c/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E6%B2%AB.png",
+      "imageKey": "海沫",
       "market_price": {
         "ELITE1": 25,
         "ELITE2": 26
@@ -1536,6 +1684,7 @@
     "character6": {
       "name": "布丁",
       "imageUrl": "https://media.prts.wiki/b/b0/%E5%A4%B4%E5%83%8F_%E5%B8%83%E4%B8%81.png",
+      "imageKey": "布丁",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 10
@@ -1544,6 +1693,7 @@
     "character7": {
       "name": "绮良",
       "imageUrl": "https://media.prts.wiki/a/a8/%E5%A4%B4%E5%83%8F_%E7%BB%AE%E8%89%AF.png",
+      "imageKey": "绮良",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 15
@@ -1568,6 +1718,7 @@
     "character1": {
       "name": "年",
       "imageUrl": "https://media.prts.wiki/9/9c/%E5%A4%B4%E5%83%8F_%E5%B9%B4.png",
+      "imageKey": "年",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 34,
@@ -1577,6 +1728,7 @@
     "character2": {
       "name": "夕",
       "imageUrl": "https://media.prts.wiki/6/6b/%E5%A4%B4%E5%83%8F_%E5%A4%95.png",
+      "imageKey": "夕",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 54,
@@ -1586,6 +1738,7 @@
     "character3": {
       "name": "令",
       "imageUrl": "https://media.prts.wiki/2/2c/%E5%A4%B4%E5%83%8F_%E4%BB%A4.png",
+      "imageKey": "令",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 44,
@@ -1595,6 +1748,7 @@
     "character4": {
       "name": "乌有",
       "imageUrl": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E6%9C%89.png",
+      "imageKey": "乌有",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 12
@@ -1603,22 +1757,25 @@
     "character5": {
       "name": "格劳克斯",
       "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%A0%BC%E5%8A%B3%E5%85%8B%E6%96%AF.png",
+      "imageKey": "格劳克斯",
       "market_price": {
-        "ELITE1": 4.67,
+        "ELITE1": 4,
         "ELITE2": 4
       }
     },
     "character6": {
       "name": "炎狱炎熔",
       "imageUrl": "https://media.prts.wiki/2/20/%E5%A4%B4%E5%83%8F_%E7%82%8E%E7%8B%B1%E7%82%8E%E7%86%94.png",
+      "imageKey": "炎狱炎熔",
       "market_price": {
-        "ELITE1": 5.47,
-        "ELITE2": 3.67
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character7": {
       "name": "夜半",
       "imageUrl": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E5%8D%8A.png",
+      "imageKey": "夜半",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1643,14 +1800,16 @@
     "character1": {
       "name": "林",
       "imageUrl": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E6%9E%97.png",
+      "imageKey": "林",
       "market_price": {
-        "ELITE1": 29.33,
-        "ELITE2": 34.18
+        "ELITE1": 31,
+        "ELITE2": 28
       }
     },
     "character2": {
       "name": "重岳",
       "imageUrl": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E9%87%8D%E5%B2%B3.png",
+      "imageKey": "重岳",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 80,
@@ -1660,6 +1819,7 @@
     "character3": {
       "name": "截云",
       "imageUrl": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%88%AA%E4%BA%91.png",
+      "imageKey": "截云",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1668,6 +1828,7 @@
     "character4": {
       "name": "火哨",
       "imageUrl": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E7%81%AB%E5%93%A8.png",
+      "imageKey": "火哨",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1676,14 +1837,16 @@
     "character5": {
       "name": "寒芒克洛丝",
       "imageUrl": "https://media.prts.wiki/3/39/%E5%A4%B4%E5%83%8F_%E5%AF%92%E8%8A%92%E5%85%8B%E6%B4%9B%E4%B8%9D.png",
+      "imageKey": "寒芒克洛丝",
       "market_price": {
-        "ELITE1": 10.4,
-        "ELITE2": 9.75
+        "ELITE1": 7,
+        "ELITE2": 14
       }
     },
     "character6": {
       "name": "火神",
       "imageUrl": "https://media.prts.wiki/f/f1/%E5%A4%B4%E5%83%8F_%E7%81%AB%E7%A5%9E.png",
+      "imageKey": "火神",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1692,6 +1855,7 @@
     "character7": {
       "name": "微风",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E5%BE%AE%E9%A3%8E.png",
+      "imageKey": "微风",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1715,6 +1879,7 @@
     "character1": {
       "name": "老鲤",
       "imageUrl": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E8%80%81%E9%B2%A4.png",
+      "imageKey": "老鲤",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 0,
@@ -1724,14 +1889,16 @@
     "character2": {
       "name": "阿",
       "imageUrl": "https://media.prts.wiki/3/31/%E5%A4%B4%E5%83%8F_%E9%98%BF.png",
+      "imageKey": "阿",
       "market_price": {
-        "ELITE1": 19.4,
+        "ELITE1": 31,
         "ELITE2": 0
       }
     },
     "character3": {
       "name": "吽",
       "imageUrl": "https://media.prts.wiki/4/41/%E5%A4%B4%E5%83%8F_%E5%90%BD.png",
+      "imageKey": "吽",
       "market_price": {
         "ELITE1": 35,
         "ELITE2": 40
@@ -1740,6 +1907,7 @@
     "character4": {
       "name": "槐琥",
       "imageUrl": "https://media.prts.wiki/e/ed/%E5%A4%B4%E5%83%8F_%E6%A7%90%E7%90%A5.png",
+      "imageKey": "槐琥",
       "market_price": {
         "ELITE1": 19,
         "ELITE2": 20
@@ -1748,14 +1916,16 @@
     "character5": {
       "name": "惊蛰",
       "imageUrl": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%83%8A%E8%9B%B0.png",
+      "imageKey": "惊蛰",
       "market_price": {
-        "ELITE1": 4.66,
+        "ELITE1": 20,
         "ELITE2": 25
       }
     },
     "character6": {
       "name": "孑",
       "imageUrl": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E5%AD%91.png",
+      "imageKey": "孑",
       "market_price": {
         "ELITE1": 22,
         "ELITE2": 25
@@ -1764,6 +1934,7 @@
     "character7": {
       "name": "雪雉",
       "imageUrl": "https://media.prts.wiki/2/24/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E9%9B%89.png",
+      "imageKey": "雪雉",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 8
@@ -1788,15 +1959,17 @@
     "character1": {
       "name": "陈",
       "imageUrl": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_%E9%99%88.png",
+      "imageKey": "陈",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 46.57,
-        "ELITE2": 57.5
+        "ELITE1": 56,
+        "ELITE2": 50
       }
     },
     "character2": {
       "name": "星熊",
       "imageUrl": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E6%98%9F%E7%86%8A.png",
+      "imageKey": "星熊",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 42,
@@ -1806,6 +1979,7 @@
     "character3": {
       "name": "仇白",
       "imageUrl": "https://media.prts.wiki/8/8a/%E5%A4%B4%E5%83%8F_%E4%BB%87%E7%99%BD.png",
+      "imageKey": "仇白",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 30,
@@ -1815,30 +1989,34 @@
     "character4": {
       "name": "诗怀雅",
       "imageUrl": "https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E8%AF%97%E6%80%80%E9%9B%85.png",
+      "imageKey": "诗怀雅",
       "market_price": {
-        "ELITE1": 8.25,
-        "ELITE2": 5.77
+        "ELITE1": 0,
+        "ELITE2": 20
       }
     },
     "character5": {
       "name": "铎铃",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E9%93%8E%E9%93%83.png",
+      "imageKey": "铎铃",
       "market_price": {
-        "ELITE1": 1.53,
-        "ELITE2": 1.54
+        "ELITE1": 5,
+        "ELITE2": 3
       }
     },
     "character6": {
       "name": "阿消",
       "imageUrl": "https://media.prts.wiki/2/2f/%E5%A4%B4%E5%83%8F_%E9%98%BF%E6%B6%88.png",
+      "imageKey": "阿消",
       "market_price": {
-        "ELITE1": 8.25,
+        "ELITE1": 16,
         "ELITE2": 6
       }
     },
     "character7": {
       "name": "白雪",
       "imageUrl": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_%E7%99%BD%E9%9B%AA.png",
+      "imageKey": "白雪",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 9
@@ -1862,15 +2040,17 @@
     "character1": {
       "name": "伊内丝",
       "imageUrl": "https://media.prts.wiki/8/8c/%E5%A4%B4%E5%83%8F_%E4%BC%8A%E5%86%85%E4%B8%9D.png",
+      "imageKey": "伊内丝",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 72.45,
-        "ELITE2": 85.96
+        "ELITE1": 65,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "煌",
       "imageUrl": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E7%85%8C.png",
+      "imageKey": "煌",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 92,
@@ -1880,6 +2060,7 @@
     "character3": {
       "name": "灰喉",
       "imageUrl": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E7%81%B0%E5%96%89.png",
+      "imageKey": "灰喉",
       "market_price": {
         "ELITE1": 32,
         "ELITE2": 25
@@ -1888,6 +2069,7 @@
     "character4": {
       "name": "洋灰",
       "imageUrl": "https://media.prts.wiki/e/e8/%E5%A4%B4%E5%83%8F_%E6%B4%8B%E7%81%B0.png",
+      "imageKey": "洋灰",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 5
@@ -1896,6 +2078,7 @@
     "character5": {
       "name": "U-Official",
       "imageUrl": "https://media.prts.wiki/4/45/%E5%A4%B4%E5%83%8F_U-Official.png",
+      "imageKey": "U-Official",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 20,
@@ -1905,23 +2088,26 @@
     "character6": {
       "name": "安赛尔",
       "imageUrl": "https://media.prts.wiki/9/94/%E5%A4%B4%E5%83%8F_%E5%AE%89%E8%B5%9B%E5%B0%94.png",
+      "imageKey": "安赛尔",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 39.55,
+        "ELITE1": 43,
         "ELITE2": 0
       }
     },
     "character7": {
       "name": "休谟斯",
       "imageUrl": "https://media.prts.wiki/e/e0/%E5%A4%B4%E5%83%8F_%E4%BC%91%E8%B0%9F%E6%96%AF.png",
+      "imageKey": "休谟斯",
       "market_price": {
-        "ELITE1": 11.4,
-        "ELITE2": 10.65
+        "ELITE1": 15,
+        "ELITE2": 15
       }
     },
     "character8": {
       "name": "摩根",
       "imageUrl": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E6%91%A9%E6%A0%B9.png",
+      "imageKey": "摩根",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 4
@@ -1946,48 +2132,54 @@
     "character1": {
       "name": "浊心斯卡蒂",
       "imageUrl": "https://media.prts.wiki/8/80/%E5%A4%B4%E5%83%8F_%E6%B5%8A%E5%BF%83%E6%96%AF%E5%8D%A1%E8%92%82.png",
+      "imageKey": "浊心斯卡蒂",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 61,
-        "ELITE2": 67
+        "ELITE1": 69,
+        "ELITE2": 65
       }
     },
     "character2": {
       "name": "凯尔希",
       "imageUrl": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C.png",
+      "imageKey": "凯尔希",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 48.44,
-        "ELITE2": 48.75
+        "ELITE1": 46,
+        "ELITE2": 40
       }
     },
     "character3": {
       "name": "艾丝黛尔",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E8%89%BE%E4%B8%9D%E9%BB%9B%E5%B0%94.png",
+      "imageKey": "艾丝黛尔",
       "market_price": {
-        "ELITE1": 2.53,
-        "ELITE2": 4.55
+        "ELITE1": 3,
+        "ELITE2": 4
       }
     },
     "character4": {
       "name": "赤冬",
       "imageUrl": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E8%B5%A4%E5%86%AC.png",
+      "imageKey": "赤冬",
       "market_price": {
-        "ELITE1": 3.58,
-        "ELITE2": 3.58
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character5": {
       "name": "海蒂",
       "imageUrl": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E8%92%82.png",
+      "imageKey": "海蒂",
       "market_price": {
         "ELITE1": 5,
-        "ELITE2": 4.69
+        "ELITE2": 3
       }
     },
     "character6": {
       "name": "安哲拉",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E5%AE%89%E5%93%B2%E6%8B%89.png",
+      "imageKey": "安哲拉",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -1996,8 +2188,9 @@
     "character7": {
       "name": "嘉维尔",
       "imageUrl": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E5%98%89%E7%BB%B4%E5%B0%94.png",
+      "imageKey": "嘉维尔",
       "market_price": {
-        "ELITE1": 3.47,
+        "ELITE1": 4,
         "ELITE2": 4
       }
     },
@@ -2019,32 +2212,36 @@
     "character1": {
       "name": "缪尔赛思",
       "imageUrl": "https://media.prts.wiki/3/3a/%E5%A4%B4%E5%83%8F_%E7%BC%AA%E5%B0%94%E8%B5%9B%E6%80%9D.png",
+      "imageKey": "缪尔赛思",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 77.67,
-        "ELITE2": 57.2
+        "ELITE1": 152,
+        "ELITE2": 137
       }
     },
     "character2": {
       "name": "霍尔海雅",
       "imageUrl": "https://media.prts.wiki/9/9e/%E5%A4%B4%E5%83%8F_%E9%9C%8D%E5%B0%94%E6%B5%B7%E9%9B%85.png",
+      "imageKey": "霍尔海雅",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 13.58,
+        "ELITE1": 60,
         "ELITE2": 40
       }
     },
     "character3": {
       "name": "淬羽赫默",
       "imageUrl": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E6%B7%AC%E7%BE%BD%E8%B5%AB%E9%BB%98.png",
+      "imageKey": "淬羽赫默",
       "market_price": {
-        "ELITE1": 5.9,
-        "ELITE2": 4.88
+        "ELITE1": 26,
+        "ELITE2": 16
       }
     },
     "character4": {
       "name": "褐果",
       "imageUrl": "https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E8%A4%90%E6%9E%9C.png",
+      "imageKey": "褐果",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 3
@@ -2053,6 +2250,7 @@
     "character5": {
       "name": "红豆",
       "imageUrl": "https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E8%B1%86.png",
+      "imageKey": "红豆",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 6
@@ -2061,14 +2259,16 @@
     "character6": {
       "name": "玫拉",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E7%8E%AB%E6%8B%89.png",
+      "imageKey": "玫拉",
       "market_price": {
         "ELITE1": 4,
-        "ELITE2": 2.46
+        "ELITE2": 6
       }
     },
     "character7": {
       "name": "Friston-3",
       "imageUrl": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_Friston-3.png",
+      "imageKey": "Friston-3",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 0
@@ -2077,6 +2277,7 @@
     "character8": {
       "name": "夜刀",
       "imageUrl": "https://media.prts.wiki/b/b2/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E5%88%80.png",
+      "imageKey": "夜刀",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 28
@@ -2100,15 +2301,17 @@
     "character1": {
       "name": "圣约送葬人",
       "imageUrl": "https://media.prts.wiki/7/7e/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E7%BA%A6%E9%80%81%E8%91%AC%E4%BA%BA.png",
+      "imageKey": "圣约送葬人",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 40.85,
-        "ELITE2": 43
+        "ELITE1": 87,
+        "ELITE2": 59
       }
     },
     "character2": {
       "name": "灵知",
       "imageUrl": "https://media.prts.wiki/9/9f/%E5%A4%B4%E5%83%8F_%E7%81%B5%E7%9F%A5.png",
+      "imageKey": "灵知",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 28
@@ -2117,6 +2320,7 @@
     "character3": {
       "name": "极光",
       "imageUrl": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E6%9E%81%E5%85%89.png",
+      "imageKey": "极光",
       "market_price": {
         "ELITE1": 15,
         "ELITE2": 17
@@ -2125,14 +2329,16 @@
     "character4": {
       "name": "耶拉",
       "imageUrl": "https://media.prts.wiki/7/71/%E5%A4%B4%E5%83%8F_%E8%80%B6%E6%8B%89.png",
+      "imageKey": "耶拉",
       "market_price": {
-        "ELITE1": 4.25,
-        "ELITE2": 4.77
+        "ELITE1": 14,
+        "ELITE2": 11
       }
     },
     "character5": {
       "name": "空构",
       "imageUrl": "https://media.prts.wiki/d/d1/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E6%9E%84.png",
+      "imageKey": "空构",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 10
@@ -2141,6 +2347,7 @@
     "character6": {
       "name": "红云",
       "imageUrl": "https://media.prts.wiki/a/af/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E4%BA%91.png",
+      "imageKey": "红云",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 5
@@ -2149,6 +2356,7 @@
     "character7": {
       "name": "隐现",
       "imageUrl": "https://media.prts.wiki/8/85/%E5%A4%B4%E5%83%8F_%E9%9A%90%E7%8E%B0.png",
+      "imageKey": "隐现",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 9
@@ -2174,14 +2382,16 @@
     "character1": {
       "name": "提丰",
       "imageUrl": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E6%8F%90%E4%B8%B0.png",
+      "imageKey": "提丰",
       "market_price": {
-        "ELITE1": 11.49,
-        "ELITE2": 26
+        "ELITE1": 26,
+        "ELITE2": 28
       }
     },
     "character2": {
       "name": "嵯峨",
       "imageUrl": "https://media.prts.wiki/6/6d/%E5%A4%B4%E5%83%8F_%E5%B5%AF%E5%B3%A8.png",
+      "imageKey": "嵯峨",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 40,
@@ -2191,15 +2401,17 @@
     "character3": {
       "name": "安洁莉娜",
       "imageUrl": "https://media.prts.wiki/c/ca/%E5%A4%B4%E5%83%8F_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+      "imageKey": "安洁莉娜",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 33.67,
-        "ELITE2": 44.57
+        "ELITE1": 44,
+        "ELITE2": 45
       }
     },
     "character4": {
       "name": "寒檀",
       "imageUrl": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E5%AF%92%E6%AA%80.png",
+      "imageKey": "寒檀",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 3
@@ -2208,14 +2420,16 @@
     "character5": {
       "name": "凛视",
       "imageUrl": "https://media.prts.wiki/e/e3/%E5%A4%B4%E5%83%8F_%E5%87%9B%E8%A7%86.png",
+      "imageKey": "凛视",
       "market_price": {
-        "ELITE1": 5.54,
-        "ELITE2": 5.37
+        "ELITE1": 15,
+        "ELITE2": 18
       }
     },
     "character6": {
       "name": "稀音",
       "imageUrl": "https://media.prts.wiki/c/c6/%E5%A4%B4%E5%83%8F_%E7%A8%80%E9%9F%B3.png",
+      "imageKey": "稀音",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 26
@@ -2224,6 +2438,7 @@
     "character7": {
       "name": "卡缇",
       "imageUrl": "https://media.prts.wiki/8/87/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E7%BC%87.png",
+      "imageKey": "卡缇",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 10,
@@ -2233,9 +2448,10 @@
     "character8": {
       "name": "玫兰莎",
       "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E7%8E%AB%E5%85%B0%E8%8E%8E.png",
+      "imageKey": "玫兰莎",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 12.45,
+        "ELITE1": 11,
         "ELITE2": 0
       }
     },
@@ -2258,23 +2474,26 @@
     "character1": {
       "name": "纯烬艾雅法拉",
       "imageUrl": "https://media.prts.wiki/f/f0/%E5%A4%B4%E5%83%8F_%E7%BA%AF%E7%83%AC%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.png",
+      "imageKey": "纯烬艾雅法拉",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 48.92,
-        "ELITE2": 50.2
+        "ELITE1": 57,
+        "ELITE2": 59
       }
     },
     "character2": {
       "name": "琳琅诗怀雅",
       "imageUrl": "https://media.prts.wiki/7/74/%E5%A4%B4%E5%83%8F_%E7%90%B3%E7%90%85%E8%AF%97%E6%80%80%E9%9B%85.png",
+      "imageKey": "琳琅诗怀雅",
       "market_price": {
-        "ELITE1": 9.47,
-        "ELITE2": 13.33
+        "ELITE1": 8,
+        "ELITE2": 11
       }
     },
     "character3": {
       "name": "苍苔",
       "imageUrl": "https://media.prts.wiki/9/95/%E5%A4%B4%E5%83%8F_%E8%8B%8D%E8%8B%94.png",
+      "imageKey": "苍苔",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 3
@@ -2283,6 +2502,7 @@
     "character4": {
       "name": "青枳",
       "imageUrl": "https://media.prts.wiki/0/0e/%E5%A4%B4%E5%83%8F_%E9%9D%92%E6%9E%B3.png",
+      "imageKey": "青枳",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 5
@@ -2291,6 +2511,7 @@
     "character5": {
       "name": "暮落",
       "imageUrl": "https://media.prts.wiki/f/fb/%E5%A4%B4%E5%83%8F_%E6%9A%AE%E8%90%BD.png",
+      "imageKey": "暮落",
       "market_price": {
         "ELITE1": 29,
         "ELITE2": 38
@@ -2299,6 +2520,7 @@
     "character6": {
       "name": "流星",
       "imageUrl": "https://media.prts.wiki/1/14/%E5%A4%B4%E5%83%8F_%E6%B5%81%E6%98%9F.png",
+      "imageKey": "流星",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 4
@@ -2307,6 +2529,7 @@
     "character7": {
       "name": "暗索",
       "imageUrl": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E6%9A%97%E7%B4%A2.png",
+      "imageKey": "暗索",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2331,6 +2554,7 @@
     "character1": {
       "name": "假日威龙陈",
       "imageUrl": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E5%81%87%E6%97%A5%E5%A8%81%E9%BE%99%E9%99%88.png",
+      "imageKey": "假日威龙陈",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 9
@@ -2339,6 +2563,7 @@
     "character2": {
       "name": "水月",
       "imageUrl": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E6%B0%B4%E6%9C%88.png",
+      "imageKey": "水月",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 38,
@@ -2348,6 +2573,7 @@
     "character3": {
       "name": "龙舌兰",
       "imageUrl": "https://media.prts.wiki/4/42/%E5%A4%B4%E5%83%8F_%E9%BE%99%E8%88%8C%E5%85%B0.png",
+      "imageKey": "龙舌兰",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 31,
@@ -2357,6 +2583,7 @@
     "character4": {
       "name": "羽毛笔",
       "imageUrl": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E7%BE%BD%E6%AF%9B%E7%AC%94.png",
+      "imageKey": "羽毛笔",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 27,
@@ -2366,6 +2593,7 @@
     "character5": {
       "name": "蓝毒",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%93%9D%E6%AF%92.png",
+      "imageKey": "蓝毒",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 7
@@ -2374,6 +2602,7 @@
     "character6": {
       "name": "远山",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E8%BF%9C%E5%B1%B1.png",
+      "imageKey": "远山",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2382,6 +2611,7 @@
     "character7": {
       "name": "杰西卡",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
+      "imageKey": "杰西卡",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 5
@@ -2405,6 +2635,7 @@
     "character1": {
       "name": "涤火杰西卡",
       "imageUrl": "https://media.prts.wiki/1/14/%E5%A4%B4%E5%83%8F_%E6%B6%A4%E7%81%AB%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
+      "imageKey": "涤火杰西卡",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 50,
@@ -2414,15 +2645,17 @@
     "character2": {
       "name": "赫德雷",
       "imageUrl": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E8%B5%AB%E5%BE%B7%E9%9B%B7.png",
+      "imageKey": "赫德雷",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 67.56,
-        "ELITE2": 62.46
+        "ELITE1": 65,
+        "ELITE2": 60
       }
     },
     "character3": {
       "name": "冰酿",
       "imageUrl": "https://media.prts.wiki/c/cf/%E5%A4%B4%E5%83%8F_%E5%86%B0%E9%85%BF.png",
+      "imageKey": "冰酿",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 7
@@ -2431,6 +2664,7 @@
     "character4": {
       "name": "杏仁",
       "imageUrl": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E6%9D%8F%E4%BB%81.png",
+      "imageKey": "杏仁",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 6
@@ -2439,6 +2673,7 @@
     "character5": {
       "name": "刺玫",
       "imageUrl": "https://media.prts.wiki/c/c6/%E5%A4%B4%E5%83%8F_%E5%88%BA%E7%8E%AB.png",
+      "imageKey": "刺玫",
       "market_price": {
         "ELITE1": 43,
         "ELITE2": 45
@@ -2447,6 +2682,7 @@
     "character6": {
       "name": "戴菲恩",
       "imageUrl": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E6%88%B4%E8%8F%B2%E6%81%A9.png",
+      "imageKey": "戴菲恩",
       "market_price": {
         "ELITE1": 15,
         "ELITE2": 0
@@ -2455,6 +2691,7 @@
     "character7": {
       "name": "维荻",
       "imageUrl": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E8%8D%BB.png",
+      "imageKey": "维荻",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 10
@@ -2478,6 +2715,7 @@
     "character1": {
       "name": "薇薇安娜",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C.png",
+      "imageKey": "薇薇安娜",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 25,
@@ -2487,15 +2725,17 @@
     "character2": {
       "name": "塑心",
       "imageUrl": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E5%A1%91%E5%BF%83.png",
+      "imageKey": "塑心",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 30.17,
+        "ELITE1": 51,
         "ELITE2": 64
       }
     },
     "character3": {
       "name": "止颂",
       "imageUrl": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%AD%A2%E9%A2%82.png",
+      "imageKey": "止颂",
       "market_price": {
         "ELITE1": 18,
         "ELITE2": 16
@@ -2504,6 +2744,7 @@
     "character4": {
       "name": "深律",
       "imageUrl": "https://media.prts.wiki/d/d8/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E5%BE%8B.png",
+      "imageKey": "深律",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 9
@@ -2512,6 +2753,7 @@
     "character5": {
       "name": "跃跃",
       "imageUrl": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E8%B7%83%E8%B7%83.png",
+      "imageKey": "跃跃",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 4
@@ -2520,6 +2762,7 @@
     "character6": {
       "name": "芳汀",
       "imageUrl": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%8A%B3%E6%B1%80.png",
+      "imageKey": "芳汀",
       "market_price": {
         "ELITE1": 17,
         "ELITE2": 6
@@ -2528,6 +2771,7 @@
     "character7": {
       "name": "折光",
       "imageUrl": "https://media.prts.wiki/c/c2/%E5%A4%B4%E5%83%8F_%E6%8A%98%E5%85%89.png",
+      "imageKey": "折光",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 10
@@ -2552,6 +2796,7 @@
     "character1": {
       "name": "耀骑士临光",
       "imageUrl": "https://media.prts.wiki/0/03/%E5%A4%B4%E5%83%8F_%E8%80%80%E9%AA%91%E5%A3%AB%E4%B8%B4%E5%85%89.png",
+      "imageKey": "耀骑士临光",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 69,
@@ -2561,6 +2806,7 @@
     "character2": {
       "name": "焰尾",
       "imageUrl": "https://media.prts.wiki/c/c8/%E5%A4%B4%E5%83%8F_%E7%84%B0%E5%B0%BE.png",
+      "imageKey": "焰尾",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 19
@@ -2569,6 +2815,7 @@
     "character3": {
       "name": "远牙",
       "imageUrl": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E8%BF%9C%E7%89%99.png",
+      "imageKey": "远牙",
       "market_price": {
         "ELITE1": 15,
         "ELITE2": 9
@@ -2577,6 +2824,7 @@
     "character4": {
       "name": "野鬃",
       "imageUrl": "https://media.prts.wiki/9/9f/%E5%A4%B4%E5%83%8F_%E9%87%8E%E9%AC%83.png",
+      "imageKey": "野鬃",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2585,15 +2833,17 @@
     "character5": {
       "name": "杜林",
       "imageUrl": "https://media.prts.wiki/2/24/%E5%A4%B4%E5%83%8F_%E6%9D%9C%E6%9E%97.png",
+      "imageKey": "杜林",
       "nolyELITE1": true,
       "market_price": {
-        "ELITE1": 11.3,
+        "ELITE1": 12,
         "ELITE2": 0
       }
     },
     "character6": {
       "name": "蚀清",
       "imageUrl": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E8%9A%80%E6%B8%85.png",
+      "imageKey": "蚀清",
       "market_price": {
         "ELITE1": 42,
         "ELITE2": 20
@@ -2602,6 +2852,7 @@
     "character7": {
       "name": "灰毫",
       "imageUrl": "https://media.prts.wiki/2/21/%E5%A4%B4%E5%83%8F_%E7%81%B0%E6%AF%AB.png",
+      "imageKey": "灰毫",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 3
@@ -2610,6 +2861,7 @@
     "character8": {
       "name": "正义骑士号",
       "imageUrl": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E6%AD%A3%E4%B9%89%E9%AA%91%E5%A3%AB%E5%8F%B7.png",
+      "imageKey": "正义骑士号",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 0,
@@ -2634,23 +2886,26 @@
     "character1": {
       "name": "锏",
       "imageUrl": "https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E9%94%8F.png",
+      "imageKey": "锏",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 14.67,
+        "ELITE1": 70,
         "ELITE2": 85
       }
     },
     "character2": {
       "name": "莱伊",
       "imageUrl": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%8E%B1%E4%BC%8A.png",
+      "imageKey": "莱伊",
       "market_price": {
-        "ELITE1": 28,
-        "ELITE2": 31.67
+        "ELITE1": 44,
+        "ELITE2": 40
       }
     },
     "character3": {
       "name": "烈夏",
       "imageUrl": "https://media.prts.wiki/6/65/%E5%A4%B4%E5%83%8F_%E7%83%88%E5%A4%8F.png",
+      "imageKey": "烈夏",
       "market_price": {
         "ELITE1": 15,
         "ELITE2": 15
@@ -2659,22 +2914,25 @@
     "character4": {
       "name": "哈洛德",
       "imageUrl": "https://media.prts.wiki/2/22/%E5%A4%B4%E5%83%8F_%E5%93%88%E6%B4%9B%E5%BE%B7.png",
+      "imageKey": "哈洛德",
       "market_price": {
-        "ELITE1": 9.75,
-        "ELITE2": 11.3
+        "ELITE1": 17,
+        "ELITE2": 20
       }
     },
     "character5": {
       "name": "温米",
       "imageUrl": "https://media.prts.wiki/3/3f/%E5%A4%B4%E5%83%8F_%E6%B8%A9%E7%B1%B3.png",
+      "imageKey": "温米",
       "market_price": {
-        "ELITE1": 8.19,
-        "ELITE2": 10.75
+        "ELITE1": 15,
+        "ELITE2": 16
       }
     },
     "character6": {
       "name": "月禾",
       "imageUrl": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E6%9C%88%E7%A6%BE.png",
+      "imageKey": "月禾",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 18
@@ -2683,6 +2941,7 @@
     "character7": {
       "name": "薄绿",
       "imageUrl": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E8%96%84%E7%BB%BF.png",
+      "imageKey": "薄绿",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 20
@@ -2706,6 +2965,7 @@
     "character1": {
       "name": "黍",
       "imageUrl": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E9%BB%8D.png",
+      "imageKey": "黍",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 110,
@@ -2715,6 +2975,7 @@
     "character2": {
       "name": "左乐",
       "imageUrl": "https://media.prts.wiki/e/e0/%E5%A4%B4%E5%83%8F_%E5%B7%A6%E4%B9%90.png",
+      "imageKey": "左乐",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 48,
@@ -2724,6 +2985,7 @@
     "character3": {
       "name": "小满",
       "imageUrl": "https://media.prts.wiki/1/1d/%E5%A4%B4%E5%83%8F_%E5%B0%8F%E6%BB%A1.png",
+      "imageKey": "小满",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 5
@@ -2732,6 +2994,7 @@
     "character4": {
       "name": "万顷",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E4%B8%87%E9%A1%B7.png",
+      "imageKey": "万顷",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 6
@@ -2740,6 +3003,7 @@
     "character5": {
       "name": "蜜莓",
       "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E8%9C%9C%E8%8E%93.png",
+      "imageKey": "蜜莓",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2748,6 +3012,7 @@
     "character6": {
       "name": "红隼",
       "imageUrl": "https://media.prts.wiki/4/45/%E5%A4%B4%E5%83%8F_%E7%BA%A2%E9%9A%BC.png",
+      "imageKey": "红隼",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2756,6 +3021,7 @@
     "character7": {
       "name": "深靛",
       "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E9%9D%9B.png",
+      "imageKey": "深靛",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 5
@@ -2779,14 +3045,16 @@
     "character1": {
       "name": "帕拉斯",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E5%B8%95%E6%8B%89%E6%96%AF.png",
+      "imageKey": "帕拉斯",
       "market_price": {
-        "ELITE1": 25,
+        "ELITE1": 36,
         "ELITE2": 46
       }
     },
     "character2": {
       "name": "史尔特尔",
       "imageUrl": "https://media.prts.wiki/e/e1/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94.png",
+      "imageKey": "史尔特尔",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 69,
@@ -2796,6 +3064,7 @@
     "character3": {
       "name": "空弦",
       "imageUrl": "https://media.prts.wiki/b/bb/%E5%A4%B4%E5%83%8F_%E7%A9%BA%E5%BC%A6.png",
+      "imageKey": "空弦",
       "market_price": {
         "ELITE1": 38,
         "ELITE2": 48
@@ -2804,6 +3073,7 @@
     "character4": {
       "name": "暴行",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E6%9A%B4%E8%A1%8C.png",
+      "imageKey": "暴行",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 8
@@ -2812,6 +3082,7 @@
     "character5": {
       "name": "桃金娘",
       "imageUrl": "https://media.prts.wiki/9/9d/%E5%A4%B4%E5%83%8F_%E6%A1%83%E9%87%91%E5%A8%98.png",
+      "imageKey": "桃金娘",
       "market_price": {
         "ELITE1": 16,
         "ELITE2": 22
@@ -2820,14 +3091,16 @@
     "character6": {
       "name": "坚雷",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9D%9A%E9%9B%B7.png",
+      "imageKey": "坚雷",
       "market_price": {
-        "ELITE1": 3.88,
-        "ELITE2": 3.77
+        "ELITE1": 4,
+        "ELITE2": 5
       }
     },
     "character7": {
       "name": "杜宾",
       "imageUrl": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E6%9D%9C%E5%AE%BE.png",
+      "imageKey": "杜宾",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 7
@@ -2851,6 +3124,7 @@
     "character1": {
       "name": "阿斯卡纶",
       "imageUrl": "https://media.prts.wiki/7/76/%E5%A4%B4%E5%83%8F_%E9%98%BF%E6%96%AF%E5%8D%A1%E7%BA%B6.png",
+      "imageKey": "阿斯卡纶",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 33,
@@ -2860,6 +3134,7 @@
     "character2": {
       "name": "闪灵",
       "imageUrl": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E9%97%AA%E7%81%B5.png",
+      "imageKey": "闪灵",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 25,
@@ -2869,6 +3144,7 @@
     "character3": {
       "name": "夜莺",
       "imageUrl": "https://media.prts.wiki/6/64/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E8%8E%BA.png",
+      "imageKey": "夜莺",
       "market_price": {
         "ELITE1": 35,
         "ELITE2": 36
@@ -2877,30 +3153,34 @@
     "character4": {
       "name": "阿罗玛",
       "imageUrl": "https://media.prts.wiki/f/f6/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%BD%97%E7%8E%9B.png",
+      "imageKey": "阿罗玛",
       "market_price": {
-        "ELITE1": 5.8,
-        "ELITE2": 8.52
+        "ELITE1": 5,
+        "ELITE2": 9
       }
     },
     "character5": {
       "name": "奥达",
       "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E8%BE%BE.png",
+      "imageKey": "奥达",
       "market_price": {
-        "ELITE1": 6.14,
-        "ELITE2": 12.07
+        "ELITE1": 8,
+        "ELITE2": 7
       }
     },
     "character6": {
       "name": "露托",
       "imageUrl": "https://media.prts.wiki/7/77/%E5%A4%B4%E5%83%8F_%E9%9C%B2%E6%89%98.png",
+      "imageKey": "露托",
       "market_price": {
-        "ELITE1": 13.8,
-        "ELITE2": 13.8
+        "ELITE1": 19,
+        "ELITE2": 16
       }
     },
     "character7": {
       "name": "霜叶",
       "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E9%9C%9C%E5%8F%B6.png",
+      "imageKey": "霜叶",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 10
@@ -2923,24 +3203,27 @@
     "character1": {
       "name": "维什戴尔",
       "imageUrl": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BB%80%E6%88%B4%E5%B0%94.png",
+      "imageKey": "维什戴尔",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 36.83,
-        "ELITE2": 46.5
+        "ELITE1": 49,
+        "ELITE2": 55
       }
     },
     "character2": {
       "name": "魔王",
       "imageUrl": "https://media.prts.wiki/d/de/%E5%A4%B4%E5%83%8F_%E9%AD%94%E7%8E%8B.png",
+      "imageKey": "魔王",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 31.1,
-        "ELITE2": 31
+        "ELITE1": 33,
+        "ELITE2": 34
       }
     },
     "character3": {
       "name": "逻各斯",
       "imageUrl": "https://media.prts.wiki/4/44/%E5%A4%B4%E5%83%8F_%E9%80%BB%E5%90%84%E6%96%AF.png",
+      "imageKey": "逻各斯",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 85,
@@ -2950,22 +3233,25 @@
     "character4": {
       "name": "华法琳",
       "imageUrl": "https://media.prts.wiki/3/30/%E5%A4%B4%E5%83%8F_%E5%8D%8E%E6%B3%95%E7%90%B3.png",
+      "imageKey": "华法琳",
       "market_price": {
-        "ELITE1": 5.95,
-        "ELITE2": 5.43
+        "ELITE1": 4,
+        "ELITE2": 5
       }
     },
     "character5": {
       "name": "亚叶",
       "imageUrl": "https://media.prts.wiki/b/b5/%E5%A4%B4%E5%83%8F_%E4%BA%9A%E5%8F%B6.png",
+      "imageKey": "亚叶",
       "market_price": {
-        "ELITE1": 2.93,
-        "ELITE2": 3.11
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character6": {
       "name": "慕斯",
       "imageUrl": "https://media.prts.wiki/f/fc/%E5%A4%B4%E5%83%8F_%E6%85%95%E6%96%AF.png",
+      "imageKey": "慕斯",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -2974,6 +3260,7 @@
     "character7": {
       "name": "历阵锐枪芬",
       "imageUrl": "https://media.prts.wiki/5/5a/%E5%A4%B4%E5%83%8F_%E5%8E%86%E9%98%B5%E9%94%90%E6%9E%AA%E8%8A%AC.png",
+      "imageKey": "历阵锐枪芬",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 5
@@ -2997,15 +3284,17 @@
     "character1": {
       "name": "乌尔比安",
       "imageUrl": "https://media.prts.wiki/3/33/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89.png",
+      "imageKey": "乌尔比安",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 29.25,
-        "ELITE2": 77.95
+        "ELITE1": 53,
+        "ELITE2": 90
       }
     },
     "character2": {
       "name": "归溟幽灵鲨",
       "imageUrl": "https://media.prts.wiki/b/be/%E5%A4%B4%E5%83%8F_%E5%BD%92%E6%BA%9F%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+      "imageKey": "归溟幽灵鲨",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 35,
@@ -3015,14 +3304,16 @@
     "character3": {
       "name": "深巡",
       "imageUrl": "https://media.prts.wiki/b/bd/%E5%A4%B4%E5%83%8F_%E6%B7%B1%E5%B7%A1.png",
+      "imageKey": "深巡",
       "market_price": {
-        "ELITE1": 5.78,
-        "ELITE2": 4.59
+        "ELITE1": 8,
+        "ELITE2": 10
       }
     },
     "character4": {
       "name": "海霓",
       "imageUrl": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%B5%B7%E9%9C%93.png",
+      "imageKey": "海霓",
       "market_price": {
         "ELITE1": 11,
         "ELITE2": 8
@@ -3031,6 +3322,7 @@
     "character5": {
       "name": "夜魔",
       "imageUrl": "https://media.prts.wiki/a/a7/%E5%A4%B4%E5%83%8F_%E5%A4%9C%E9%AD%94.png",
+      "imageKey": "夜魔",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 4
@@ -3039,6 +3331,7 @@
     "character6": {
       "name": "柏喙",
       "imageUrl": "https://media.prts.wiki/2/2f/%E5%A4%B4%E5%83%8F_%E6%9F%8F%E5%96%99.png",
+      "imageKey": "柏喙",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 4
@@ -3047,6 +3340,7 @@
     "character7": {
       "name": "豆苗",
       "imageUrl": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E8%B1%86%E8%8B%97.png",
+      "imageKey": "豆苗",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3070,6 +3364,7 @@
     "character1": {
       "name": "流明",
       "imageUrl": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%B5%81%E6%98%8E.png",
+      "imageKey": "流明",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 44,
@@ -3079,15 +3374,17 @@
     "character2": {
       "name": "艾丽妮",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E8%89%BE%E4%B8%BD%E5%A6%AE.png",
+      "imageKey": "艾丽妮",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 21.67,
-        "ELITE2": 24.41
+        "ELITE1": 23,
+        "ELITE2": 30
       }
     },
     "character3": {
       "name": "掠风",
       "imageUrl": "https://media.prts.wiki/5/5c/%E5%A4%B4%E5%83%8F_%E6%8E%A0%E9%A3%8E.png",
+      "imageKey": "掠风",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 12
@@ -3096,6 +3393,7 @@
     "character4": {
       "name": "调香师",
       "imageUrl": "https://media.prts.wiki/6/6a/%E5%A4%B4%E5%83%8F_%E8%B0%83%E9%A6%99%E5%B8%88.png",
+      "imageKey": "调香师",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3104,14 +3402,16 @@
     "character5": {
       "name": "守林人",
       "imageUrl": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E5%AE%88%E6%9E%97%E4%BA%BA.png",
+      "imageKey": "守林人",
       "market_price": {
-        "ELITE1": 5.5,
-        "ELITE2": 4.56
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character6": {
       "name": "蜜蜡",
       "imageUrl": "https://media.prts.wiki/1/1d/%E5%A4%B4%E5%83%8F_%E8%9C%9C%E8%9C%A1.png",
+      "imageKey": "蜜蜡",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3120,6 +3420,7 @@
     "character7": {
       "name": "普罗旺斯",
       "imageUrl": "https://media.prts.wiki/7/72/%E5%A4%B4%E5%83%8F_%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF.png",
+      "imageKey": "普罗旺斯",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3143,6 +3444,7 @@
     "character1": {
       "name": "佩佩",
       "imageUrl": "https://media.prts.wiki/8/85/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E4%BD%A9.png",
+      "imageKey": "佩佩",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 24,
@@ -3152,6 +3454,7 @@
     "character2": {
       "name": "娜仁图亚",
       "imageUrl": "https://media.prts.wiki/b/ba/%E5%A4%B4%E5%83%8F_%E5%A8%9C%E4%BB%81%E5%9B%BE%E4%BA%9A.png",
+      "imageKey": "娜仁图亚",
       "market_price": {
         "ELITE1": 28,
         "ELITE2": 29
@@ -3160,15 +3463,17 @@
     "character3": {
       "name": "妮芙",
       "imageUrl": "https://media.prts.wiki/1/1a/%E5%A4%B4%E5%83%8F_%E5%A6%AE%E8%8A%99.png",
+      "imageKey": "妮芙",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 16.8,
-        "ELITE2": 31.76
+        "ELITE1": 35,
+        "ELITE2": 29
       }
     },
     "character4": {
       "name": "莎草",
       "imageUrl": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_%E8%8E%8E%E8%8D%89.png",
+      "imageKey": "莎草",
       "market_price": {
         "ELITE1": 16,
         "ELITE2": 20
@@ -3177,6 +3482,7 @@
     "character5": {
       "name": "锡人",
       "imageUrl": "https://media.prts.wiki/a/a1/%E5%A4%B4%E5%83%8F_%E9%94%A1%E4%BA%BA.png",
+      "imageKey": "锡人",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 12
@@ -3185,6 +3491,7 @@
     "character6": {
       "name": "渡桥",
       "imageUrl": "https://media.prts.wiki/f/fd/%E5%A4%B4%E5%83%8F_%E6%B8%A1%E6%A1%A5.png",
+      "imageKey": "渡桥",
       "market_price": {
         "ELITE1": 29,
         "ELITE2": 28
@@ -3193,6 +3500,7 @@
     "character7": {
       "name": "衡沙",
       "imageUrl": "https://media.prts.wiki/f/f8/%E5%A4%B4%E5%83%8F_%E8%A1%A1%E6%B2%99.png",
+      "imageKey": "衡沙",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 9
@@ -3216,6 +3524,7 @@
     "character1": {
       "name": "维娜·维多利亚",
       "imageUrl": "https://media.prts.wiki/6/68/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E5%A8%9C%C2%B7%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A.png",
+      "imageKey": "维娜·维多利亚",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 24,
@@ -3225,15 +3534,17 @@
     "character2": {
       "name": "弑君者",
       "imageUrl": "https://media.prts.wiki/1/12/%E5%A4%B4%E5%83%8F_%E5%BC%91%E5%90%9B%E8%80%85.png",
+      "imageKey": "弑君者",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 32.42,
-        "ELITE2": 36.71
+        "ELITE1": 40,
+        "ELITE2": 39
       }
     },
     "character3": {
       "name": "波卜",
       "imageUrl": "https://media.prts.wiki/d/d5/%E5%A4%B4%E5%83%8F_%E6%B3%A2%E5%8D%9C.png",
+      "imageKey": "波卜",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 8
@@ -3242,6 +3553,7 @@
     "character4": {
       "name": "凯瑟琳",
       "imageUrl": "https://media.prts.wiki/e/e9/%E5%A4%B4%E5%83%8F_%E5%87%AF%E7%91%9F%E7%90%B3.png",
+      "imageKey": "凯瑟琳",
       "market_price": {
         "ELITE1": 14,
         "ELITE2": 6
@@ -3250,6 +3562,7 @@
     "character5": {
       "name": "红",
       "imageUrl": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E7%BA%A2.png",
+      "imageKey": "红",
       "market_price": {
         "ELITE1": 20,
         "ELITE2": 30
@@ -3258,6 +3571,7 @@
     "character6": {
       "name": "爱丽丝",
       "imageUrl": "https://media.prts.wiki/9/9a/%E5%A4%B4%E5%83%8F_%E7%88%B1%E4%B8%BD%E4%B8%9D.png",
+      "imageKey": "爱丽丝",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 9
@@ -3266,6 +3580,7 @@
     "character7": {
       "name": "贝娜",
       "imageUrl": "https://media.prts.wiki/9/95/%E5%A4%B4%E5%83%8F_%E8%B4%9D%E5%A8%9C.png",
+      "imageKey": "贝娜",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3289,15 +3604,17 @@
     "character1": {
       "name": "荒芜拉普兰德",
       "imageUrl": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E8%8D%92%E8%8A%9C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+      "imageKey": "荒芜拉普兰德",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 50.64,
-        "ELITE2": 63
+        "ELITE1": 52,
+        "ELITE2": 76
       }
     },
     "character2": {
       "name": "忍冬",
       "imageUrl": "https://media.prts.wiki/7/79/%E5%A4%B4%E5%83%8F_%E5%BF%8D%E5%86%AC.png",
+      "imageKey": "忍冬",
       "market_price": {
         "ELITE1": 13,
         "ELITE2": 15
@@ -3306,6 +3623,7 @@
     "character3": {
       "name": "铃兰",
       "imageUrl": "https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E9%93%83%E5%85%B0.png",
+      "imageKey": "铃兰",
       "market_price": {
         "ELITE1": 17,
         "ELITE2": 19
@@ -3314,6 +3632,7 @@
     "character4": {
       "name": "裁度",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%A3%81%E5%BA%A6.png",
+      "imageKey": "裁度",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3322,14 +3641,16 @@
     "character5": {
       "name": "波登可",
       "imageUrl": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E6%B3%A2%E7%99%BB%E5%8F%AF.png",
+      "imageKey": "波登可",
       "market_price": {
-        "ELITE1": 3.17,
-        "ELITE2": 3.51
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character6": {
       "name": "云迹",
       "imageUrl": "https://media.prts.wiki/6/67/%E5%A4%B4%E5%83%8F_%E4%BA%91%E8%BF%B9.png",
+      "imageKey": "云迹",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3338,6 +3659,7 @@
     "character7": {
       "name": "菲莱",
       "imageUrl": "https://media.prts.wiki/0/00/%E5%A4%B4%E5%83%8F_%E8%8F%B2%E8%8E%B1.png",
+      "imageKey": "菲莱",
       "market_price": {
         "ELITE1": 5,
         "ELITE2": 6
@@ -3357,6 +3679,7 @@
     "character1": {
       "name": "余",
       "imageUrl": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E4%BD%99.png",
+      "imageKey": "余",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 73,
@@ -3366,6 +3689,7 @@
     "character2": {
       "name": "烛煌",
       "imageUrl": "https://media.prts.wiki/c/c4/%E5%A4%B4%E5%83%8F_%E7%83%9B%E7%85%8C.png",
+      "imageKey": "烛煌",
       "market_price": {
         "ELITE1": 18,
         "ELITE2": 17
@@ -3374,6 +3698,7 @@
     "character3": {
       "name": "寻澜",
       "imageUrl": "https://media.prts.wiki/6/65/%E5%A4%B4%E5%83%8F_%E5%AF%BB%E6%BE%9C.png",
+      "imageKey": "寻澜",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 3
@@ -3382,30 +3707,34 @@
     "character4": {
       "name": "行箸",
       "imageUrl": "https://media.prts.wiki/4/42/%E5%A4%B4%E5%83%8F_%E8%A1%8C%E7%AE%B8.png",
+      "imageKey": "行箸",
       "market_price": {
-        "ELITE1": 11.28,
-        "ELITE2": 7.68
+        "ELITE1": 6,
+        "ELITE2": 25
       }
     },
     "character5": {
       "name": "食铁兽",
       "imageUrl": "https://media.prts.wiki/d/dd/%E5%A4%B4%E5%83%8F_%E9%A3%9F%E9%93%81%E5%85%BD.png",
+      "imageKey": "食铁兽",
       "market_price": {
-        "ELITE1": 5.79,
+        "ELITE1": 4,
         "ELITE2": 4
       }
     },
     "character6": {
       "name": "缠丸",
       "imageUrl": "https://media.prts.wiki/1/13/%E5%A4%B4%E5%83%8F_%E7%BC%A0%E4%B8%B8.png",
+      "imageKey": "缠丸",
       "market_price": {
-        "ELITE1": 5.03,
-        "ELITE2": 3
+        "ELITE1": 5,
+        "ELITE2": 4
       }
     },
     "character7": {
       "name": "图耶",
       "imageUrl": "https://media.prts.wiki/9/93/%E5%A4%B4%E5%83%8F_%E5%9B%BE%E8%80%B6.png",
+      "imageKey": "图耶",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3429,6 +3758,7 @@
     "character1": {
       "name": "引星棘刺",
       "imageUrl": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E5%BC%95%E6%98%9F%E6%A3%98%E5%88%BA.png",
+      "imageKey": "引星棘刺",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 42,
@@ -3438,6 +3768,7 @@
     "character2": {
       "name": "隐德来希",
       "imageUrl": "https://media.prts.wiki/4/4c/%E5%A4%B4%E5%83%8F_%E9%9A%90%E5%BE%B7%E6%9D%A5%E5%B8%8C.png",
+      "imageKey": "隐德来希",
       "market_price": {
         "ELITE1": 28,
         "ELITE2": 35
@@ -3446,14 +3777,16 @@
     "character3": {
       "name": "特克诺",
       "imageUrl": "https://media.prts.wiki/2/2e/%E5%A4%B4%E5%83%8F_%E7%89%B9%E5%85%8B%E8%AF%BA.png",
+      "imageKey": "特克诺",
       "market_price": {
-        "ELITE1": 4.24,
-        "ELITE2": 5.43
+        "ELITE1": 7,
+        "ELITE2": 9
       }
     },
     "character4": {
       "name": "瑰盐",
       "imageUrl": "https://media.prts.wiki/8/8a/%E5%A4%B4%E5%83%8F_%E7%91%B0%E7%9B%90.png",
+      "imageKey": "瑰盐",
       "market_price": {
         "ELITE1": 8,
         "ELITE2": 5
@@ -3462,6 +3795,7 @@
     "character5": {
       "name": "诺威尔",
       "imageUrl": "https://media.prts.wiki/6/69/%E5%A4%B4%E5%83%8F_%E8%AF%BA%E5%A8%81%E5%B0%94.png",
+      "imageKey": "诺威尔",
       "market_price": {
         "ELITE1": 17,
         "ELITE2": 22
@@ -3470,6 +3804,7 @@
     "character6": {
       "name": "清道夫",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E6%B8%85%E9%81%93%E5%A4%AB.png",
+      "imageKey": "清道夫",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3478,6 +3813,7 @@
     "character7": {
       "name": "宴",
       "imageUrl": "https://media.prts.wiki/f/f4/%E5%A4%B4%E5%83%8F_%E5%AE%B4.png",
+      "imageKey": "宴",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3510,15 +3846,17 @@
     "character2": {
       "name": "Mon3tr",
       "imageUrl": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_Mon3tr.png",
+      "imageKey": "Mon3tr",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 41.61,
+        "ELITE1": 64,
         "ELITE2": 65
       }
     },
     "character3": {
       "name": "钼铅",
       "imageUrl": "https://media.prts.wiki/2/20/%E5%A4%B4%E5%83%8F_%E9%92%BC%E9%93%85.png",
+      "imageKey": "钼铅",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 4
@@ -3527,6 +3865,7 @@
     "character4": {
       "name": "水灯心",
       "imageUrl": "https://media.prts.wiki/3/3b/%E5%A4%B4%E5%83%8F_%E6%B0%B4%E7%81%AF%E5%BF%83.png",
+      "imageKey": "水灯心",
       "market_price": {
         "ELITE1": 11,
         "ELITE2": 10
@@ -3535,6 +3874,7 @@
     "character5": {
       "name": "阿兰娜",
       "imageUrl": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E9%98%BF%E5%85%B0%E5%A8%9C.png",
+      "imageKey": "阿兰娜",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3543,6 +3883,7 @@
     "character6": {
       "name": "骋风",
       "imageUrl": "https://media.prts.wiki/f/fe/%E5%A4%B4%E5%83%8F_%E9%AA%8B%E9%A3%8E.png",
+      "imageKey": "骋风",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3551,6 +3892,7 @@
     "character7": {
       "name": "石棉",
       "imageUrl": "https://media.prts.wiki/1/18/%E5%A4%B4%E5%83%8F_%E7%9F%B3%E6%A3%89.png",
+      "imageKey": "石棉",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3573,6 +3915,7 @@
     "character1": {
       "name": "新约能天使",
       "imageUrl": "https://media.prts.wiki/3/3a/%E5%A4%B4%E5%83%8F_%E6%96%B0%E7%BA%A6%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+      "imageKey": "新约能天使",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 65,
@@ -3582,6 +3925,7 @@
     "character2": {
       "name": "蕾缪安",
       "imageUrl": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E8%95%BE%E7%BC%AA%E5%AE%89.png",
+      "imageKey": "蕾缪安",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 49,
@@ -3591,6 +3935,7 @@
     "character3": {
       "name": "信仰搅拌机",
       "imageUrl": "https://media.prts.wiki/1/13/%E5%A4%B4%E5%83%8F_%E4%BF%A1%E4%BB%B0%E6%90%85%E6%8B%8C%E6%9C%BA.png",
+      "imageKey": "信仰搅拌机",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 8
@@ -3599,6 +3944,7 @@
     "character4": {
       "name": "聆音",
       "imageUrl": "https://media.prts.wiki/1/10/%E5%A4%B4%E5%83%8F_%E8%81%86%E9%9F%B3.png",
+      "imageKey": "聆音",
       "market_price": {
         "ELITE1": 16,
         "ELITE2": 6
@@ -3607,6 +3953,7 @@
     "character5": {
       "name": "刻刀",
       "imageUrl": "https://media.prts.wiki/2/2c/%E5%A4%B4%E5%83%8F_%E5%88%BB%E5%88%80.png",
+      "imageKey": "刻刀",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3615,6 +3962,7 @@
     "character6": {
       "name": "卡达",
       "imageUrl": "https://media.prts.wiki/4/43/%E5%A4%B4%E5%83%8F_%E5%8D%A1%E8%BE%BE.png",
+      "imageKey": "卡达",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3623,6 +3971,7 @@
     "character7": {
       "name": "PhonoR-0",
       "imageUrl": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_PhonoR-0.png",
+      "imageKey": "PhonoR-0",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 4,
@@ -3632,6 +3981,7 @@
     "character8": {
       "name": "CONFESS-47",
       "imageUrl": "https://media.prts.wiki/c/c4/%E5%A4%B4%E5%83%8F_CONFESS-47.png",
+      "imageKey": "CONFESS-47",
       "nolyELITE1": true,
       "market_price": {
         "ELITE1": 4,
@@ -3656,15 +4006,17 @@
     "character1": {
       "name": "酒神",
       "imageUrl": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E9%85%92%E7%A5%9E.png",
+      "imageKey": "酒神",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 58.1,
-        "ELITE2": 82
+        "ELITE1": 102,
+        "ELITE2": 95
       }
     },
     "character2": {
       "name": "司霆惊蛰",
       "imageUrl": "https://media.prts.wiki/5/5c/%E5%A4%B4%E5%83%8F_%E5%8F%B8%E9%9C%86%E6%83%8A%E8%9B%B0.png",
+      "imageKey": "司霆惊蛰",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 21,
@@ -3674,6 +4026,7 @@
     "character3": {
       "name": "Miss.Christine",
       "imageUrl": "https://media.prts.wiki/1/10/%E5%A4%B4%E5%83%8F_Miss.Christine.png",
+      "imageKey": "Miss.Christine",
       "market_price": {
         "ELITE1": 31,
         "ELITE2": 34
@@ -3682,14 +4035,16 @@
     "character4": {
       "name": "蒂比",
       "imageUrl": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E8%92%82%E6%AF%94.png",
+      "imageKey": "蒂比",
       "market_price": {
-        "ELITE1": 3.23,
-        "ELITE2": 3.27
+        "ELITE1": 4,
+        "ELITE2": 4
       }
     },
     "character5": {
       "name": "录武官",
       "imageUrl": "https://media.prts.wiki/0/09/%E5%A4%B4%E5%83%8F_%E5%BD%95%E6%AD%A6%E5%AE%98.png",
+      "imageKey": "录武官",
       "market_price": {
         "ELITE1": 6,
         "ELITE2": 5
@@ -3698,6 +4053,7 @@
     "character6": {
       "name": "四月",
       "imageUrl": "https://media.prts.wiki/d/d3/%E5%A4%B4%E5%83%8F_%E5%9B%9B%E6%9C%88.png",
+      "imageKey": "四月",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3706,6 +4062,7 @@
     "character7": {
       "name": "梅",
       "imageUrl": "https://media.prts.wiki/a/ac/%E5%A4%B4%E5%83%8F_%E6%A2%85.png",
+      "imageKey": "梅",
       "market_price": {
         "ELITE1": 4,
         "ELITE2": 4
@@ -3728,6 +4085,7 @@
     "character1": {
       "name": "斩业星熊",
       "imageUrl": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E6%96%A9%E4%B8%9A%E6%98%9F%E7%86%8A.png",
+      "imageKey": "斩业星熊",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 27,
@@ -3737,6 +4095,7 @@
     "character2": {
       "name": "遥",
       "imageUrl": "https://media.prts.wiki/e/ec/%E5%A4%B4%E5%83%8F_%E9%81%A5.png",
+      "imageKey": "遥",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 65,
@@ -3746,23 +4105,26 @@
     "character3": {
       "name": "真言",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E7%9C%9F%E8%A8%80.png",
+      "imageKey": "真言",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 14,
+        "ELITE1": 30,
         "ELITE2": 34
       }
     },
     "character4": {
       "name": "冬时",
       "imageUrl": "https://media.prts.wiki/2/27/%E5%A4%B4%E5%83%8F_%E5%86%AC%E6%97%B6.png",
+      "imageKey": "冬时",
       "market_price": {
-        "ELITE1": 8.15,
-        "ELITE2": 13
+        "ELITE1": 17,
+        "ELITE2": 14
       }
     },
     "character5": {
       "name": "折桠",
       "imageUrl": "https://media.prts.wiki/a/a0/%E5%A4%B4%E5%83%8F_%E6%8A%98%E6%A1%A0.png",
+      "imageKey": "折桠",
       "market_price": {
         "ELITE1": 7,
         "ELITE2": 6
@@ -3771,6 +4133,7 @@
     "character6": {
       "name": "松桐",
       "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E6%9D%BE%E6%A1%90.png",
+      "imageKey": "松桐",
       "market_price": {
         "ELITE1": 14,
         "ELITE2": 10
@@ -3779,6 +4142,7 @@
     "character7": {
       "name": "吉星",
       "imageUrl": "https://media.prts.wiki/f/fa/%E5%A4%B4%E5%83%8F_%E5%90%89%E6%98%9F.png",
+      "imageKey": "吉星",
       "market_price": {
         "ELITE1": 9,
         "ELITE2": 7
@@ -3802,15 +4166,17 @@
     "character1": {
       "name": "凛御银灰",
       "imageUrl": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%BE%A1%E9%93%B6%E7%81%B0.png",
+      "imageKey": "凛御银灰",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 53.04,
-        "ELITE2": 67.91
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "圣聆初雪",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E8%81%86%E5%88%9D%E9%9B%AA.png",
+      "imageKey": "圣聆初雪",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 0,
@@ -3820,6 +4186,7 @@
     "character3": {
       "name": "溯光星源",
       "imageUrl": "https://media.prts.wiki/d/d0/%E5%A4%B4%E5%83%8F_%E6%BA%AF%E5%85%89%E6%98%9F%E6%BA%90.png",
+      "imageKey": "溯光星源",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 0,
@@ -3829,6 +4196,7 @@
     "character4": {
       "name": "雪猎",
       "imageUrl": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E9%9B%AA%E7%8C%8E.png",
+      "imageKey": "雪猎",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3837,23 +4205,26 @@
     "character5": {
       "name": "娜斯提",
       "imageUrl": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E5%A8%9C%E6%96%AF%E6%8F%90.png",
+      "imageKey": "娜斯提",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 13.71,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character6": {
       "name": "响石",
       "imageUrl": "https://media.prts.wiki/5/52/%E5%A4%B4%E5%83%8F_%E5%93%8D%E7%9F%B3.png",
+      "imageKey": "响石",
       "market_price": {
-        "ELITE1": 3.64,
-        "ELITE2": 3.68
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character7": {
       "name": "天空盒",
       "imageUrl": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E5%A4%A9%E7%A9%BA%E7%9B%92.png",
+      "imageKey": "天空盒",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3877,14 +4248,16 @@
     "character1": {
       "name": "望",
       "imageUrl": "https://media.prts.wiki/3/38/%E5%A4%B4%E5%83%8F_%E6%9C%9B.png",
+      "imageKey": "望",
       "market_price": {
-        "ELITE1": 95.17,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "赤刃明霄陈",
       "imageUrl": "https://media.prts.wiki/d/d0/%E5%A4%B4%E5%83%8F_%E8%B5%A4%E5%88%83%E6%98%8E%E9%9C%84%E9%99%88.png",
+      "imageKey": "赤刃明霄陈",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3893,6 +4266,7 @@
     "character3": {
       "name": "矩",
       "imageUrl": "https://media.prts.wiki/a/a8/%E5%A4%B4%E5%83%8F_%E7%9F%A9.png",
+      "imageKey": "矩",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3901,6 +4275,7 @@
     "character4": {
       "name": "缇缇",
       "imageUrl": "https://media.prts.wiki/a/aa/%E5%A4%B4%E5%83%8F_%E7%BC%87%E7%BC%87.png",
+      "imageKey": "缇缇",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3909,14 +4284,16 @@
     "character5": {
       "name": "撷英调香师",
       "imageUrl": "https://media.prts.wiki/8/8f/%E5%A4%B4%E5%83%8F_%E6%92%B7%E8%8B%B1%E8%B0%83%E9%A6%99%E5%B8%88.png",
+      "imageKey": "撷英调香师",
       "market_price": {
-        "ELITE1": 2.29,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character6": {
       "name": "风絮",
       "imageUrl": "https://media.prts.wiki/1/1c/%E5%A4%B4%E5%83%8F_%E9%A3%8E%E7%B5%AE.png",
+      "imageKey": "风絮",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3925,9 +4302,10 @@
     "character7": {
       "name": "摆渡人",
       "imageUrl": "https://media.prts.wiki/e/e4/%E5%A4%B4%E5%83%8F_%E6%91%86%E6%B8%A1%E4%BA%BA.png",
+      "imageKey": "摆渡人",
       "market_price": {
-        "ELITE1": 2.01,
-        "ELITE2": 1.92
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -3947,38 +4325,43 @@
     "character1": {
       "name": "怒潮凛冬",
       "imageUrl": "https://media.prts.wiki/8/81/%E5%A4%B4%E5%83%8F_%E6%80%92%E6%BD%AE%E5%87%9B%E5%86%AC.png",
+      "imageKey": "怒潮凛冬",
       "market_price": {
-        "ELITE1": 8.06,
-        "ELITE2": 7.39
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "贝洛内",
       "imageUrl": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E8%B4%9D%E6%B4%9B%E5%86%85.png",
+      "imageKey": "贝洛内",
       "market_price": {
-        "ELITE1": 57.78,
-        "ELITE2": 49.11
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "电弧",
       "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png",
+      "imageKey": "电弧",
       "market_price": {
-        "ELITE1": 19.22,
-        "ELITE2": 29.87
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "伯塔尼",
       "imageUrl": "https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E4%BC%AF%E5%A1%94%E5%B0%BC.png",
+      "imageKey": "伯塔尼",
       "market_price": {
-        "ELITE1": 3.91,
-        "ELITE2": 5.25
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "乌啾",
       "imageUrl": "https://media.prts.wiki/5/55/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%95%BE.png",
+      "imageKey": "乌啾",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3987,6 +4370,7 @@
     "character6": {
       "name": "复奏",
       "imageUrl": "https://media.prts.wiki/6/61/%E5%A4%B4%E5%83%8F_%E5%A4%8D%E5%A5%8F.png",
+      "imageKey": "复奏",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -3995,6 +4379,7 @@
     "character7": {
       "name": "协律",
       "imageUrl": "https://media.prts.wiki/8/8e/%E5%A4%B4%E5%83%8F_%E5%8D%8F%E5%BE%8B.png",
+      "imageKey": "协律",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4014,57 +4399,64 @@
     "character1": {
       "name": "凯尔希·思衡托",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%87%AF%E5%B0%94%E5%B8%8C%C2%B7%E6%80%9D%E8%A1%A1%E6%89%98.png",
+      "imageKey": "凯尔希·思衡托",
       "market_price": {
-        "ELITE1": 61.91,
-        "ELITE2": 56.89
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "可露希尔",
       "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
+      "imageKey": "可露希尔",
       "market_price": {
-        "ELITE1": 18.38,
-        "ELITE2": 23.71
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "维伊",
       "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BC%8A.png",
+      "imageKey": "维伊",
       "market_price": {
-        "ELITE1": 20.09,
-        "ELITE2": 19.64
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "谬因",
       "imageUrl": "https://media.prts.wiki/9/92/%E5%A4%B4%E5%83%8F_%E8%B0%AC%E5%9B%A0.png",
+      "imageKey": "谬因",
       "market_price": {
-        "ELITE1": 13.52,
-        "ELITE2": 16.2
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "裂响",
       "imageUrl": "https://media.prts.wiki/d/d6/%E5%A4%B4%E5%83%8F_%E8%A3%82%E5%93%8D.png",
+      "imageKey": "裂响",
       "market_price": {
-        "ELITE1": 4.64,
-        "ELITE2": 4
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character6": {
       "name": "佩德洛",
       "imageUrl": "https://media.prts.wiki/4/4b/%E5%A4%B4%E5%83%8F_%E4%BD%A9%E5%BE%B7%E6%B4%9B.png",
+      "imageKey": "佩德洛",
       "market_price": {
-        "ELITE1": 3.92,
-        "ELITE2": 3.92
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character7": {
       "name": "哈蒂娅",
       "imageUrl": "https://media.prts.wiki/3/3c/%E5%A4%B4%E5%83%8F_%E5%93%88%E8%92%82%E5%A8%85.png",
+      "imageKey": "哈蒂娅",
       "market_price": {
-        "ELITE1": 3.19,
-        "ELITE2": 3.47
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": []
@@ -4081,6 +4473,7 @@
     "character1": {
       "name": "予愿安洁莉娜",
       "imageUrl": "https://media.prts.wiki/c/c0/%E5%A4%B4%E5%83%8F_%E4%BA%88%E6%84%BF%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+      "imageKey": "予愿安洁莉娜",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4089,6 +4482,7 @@
     "character2": {
       "name": "珊比",
       "imageUrl": "https://media.prts.wiki/0/0c/%E5%A4%B4%E5%83%8F_%E7%8F%8A%E6%AF%94.png",
+      "imageKey": "珊比",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4097,6 +4491,7 @@
     "character3": {
       "name": "克莱门莎",
       "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E5%85%8B%E8%8E%B1%E9%97%A8%E8%8E%8E.png",
+      "imageKey": "克莱门莎",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4105,6 +4500,7 @@
     "character4": {
       "name": "嘉辛塔",
       "imageUrl": "https://media.prts.wiki/8/8b/%E5%A4%B4%E5%83%8F_%E5%98%89%E8%BE%9B%E5%A1%94.png",
+      "imageKey": "嘉辛塔",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4113,6 +4509,7 @@
     "character5": {
       "name": "时隙",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E6%97%B6%E9%9A%99.png",
+      "imageKey": "时隙",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4121,6 +4518,7 @@
     "character6": {
       "name": "旅骨",
       "imageUrl": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%97%85%E9%AA%A8.png",
+      "imageKey": "旅骨",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4129,6 +4527,7 @@
     "character7": {
       "name": "德·托莱多",
       "imageUrl": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A.png",
+      "imageKey": "德·托莱多",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4148,6 +4547,7 @@
     "character1": {
       "name": "塔露拉",
       "imageUrl": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E5%A1%94%E9%9C%B2%E6%8B%89.png",
+      "imageKey": "塔露拉",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4156,6 +4556,7 @@
     "character2": {
       "name": "冻河",
       "imageUrl": "https://media.prts.wiki/f/f4/%E5%A4%B4%E5%83%8F_%E5%86%BB%E6%B2%B3.png",
+      "imageKey": "冻河",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4164,6 +4565,7 @@
     "character3": {
       "name": "国度",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9B%BD%E5%BA%A6.png",
+      "imageKey": "国度",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4172,6 +4574,7 @@
     "character4": {
       "name": "机械师",
       "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%9C%BA%E6%A2%B0%E5%B8%88.png",
+      "imageKey": "机械师",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4180,6 +4583,7 @@
     "character5": {
       "name": "奥尔佳",
       "imageUrl": "https://media.prts.wiki/b/b6/%E5%A4%B4%E5%83%8F_%E5%A5%A5%E5%B0%94%E4%BD%B3.png",
+      "imageKey": "奥尔佳",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4188,6 +4592,7 @@
     "character6": {
       "name": "镜匠",
       "imageUrl": "https://media.prts.wiki/7/7d/%E5%A4%B4%E5%83%8F_%E9%95%9C%E5%8C%A0.png",
+      "imageKey": "镜匠",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4196,6 +4601,7 @@
     "character7": {
       "name": "行铃",
       "imageUrl": "https://media.prts.wiki/6/62/%E5%A4%B4%E5%83%8F_%E8%A1%8C%E9%93%83.png",
+      "imageKey": "行铃",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4216,6 +4622,7 @@
     "character1": {
       "name": "煌",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E7%85%8C.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E7%85%8C.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4224,14 +4631,16 @@
     "character2": {
       "name": "W",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021W.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021W.png",
       "market_price": {
-        "ELITE1": 154.11,
-        "ELITE2": 396.4
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "风笛",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%A3%8E%E7%AC%9B.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%A3%8E%E7%AC%9B.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4240,6 +4649,7 @@
     "character4": {
       "name": "讯使",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%AE%AF%E4%BD%BF.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%AE%AF%E4%BD%BF.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4248,6 +4658,7 @@
     "character5": {
       "name": "红豆",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E7%BA%A2%E8%B1%86.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E7%BA%A2%E8%B1%86.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4272,6 +4683,7 @@
     "character1": {
       "name": "推进之王",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4280,33 +4692,37 @@
     "character2": {
       "name": "拉普兰德",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
       "market_price": {
-        "ELITE1": 39.88,
-        "ELITE2": 36.19
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "因陀罗",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%9B%A0%E9%99%80%E7%BD%97.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%9B%A0%E9%99%80%E7%BD%97.png",
       "market_price": {
-        "ELITE1": 4.16,
-        "ELITE2": 7.75
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "大帝",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%A4%A7%E5%B8%9D.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%A4%A7%E5%B8%9D.png",
       "market_price": {
-        "ELITE1": 4.43,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character5": {
       "name": "伊桑",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F21%E4%BC%8A%E6%A1%91.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F21%E4%BC%8A%E6%A1%91.png",
       "market_price": {
-        "ELITE1": 10.14,
-        "ELITE2": 13.57
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "replicate_date": "2025/8/18",
@@ -4328,6 +4744,7 @@
     "character1": {
       "name": "闪灵",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%97%AA%E7%81%B5.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%97%AA%E7%81%B5.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4336,49 +4753,55 @@
     "character2": {
       "name": "赫拉格",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%B5%AB%E6%8B%89%E6%A0%BC.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%B5%AB%E6%8B%89%E6%A0%BC.png",
       "market_price": {
-        "ELITE1": 71.57,
-        "ELITE2": 68.91
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "黑",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%BB%91.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%BB%91.png",
       "market_price": {
-        "ELITE1": 45.64,
-        "ELITE2": 80.64
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "阿米娅",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF%E7%B1%B3%E5%A8%85.png",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "苏苏洛",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%8B%8F%E8%8B%8F%E8%90%BD.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%8B%8F%E8%8B%8F%E8%90%BD.png",
       "market_price": {
-        "ELITE1": 26.83,
-        "ELITE2": 24.73
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character6": {
       "name": "安洁莉娜",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%AE%89%E6%9D%B0%E8%8E%89%E5%A8%9C.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E5%AE%89%E6%9D%B0%E8%8E%89%E5%A8%9C.png",
       "market_price": {
-        "ELITE1": 33.67,
-        "ELITE2": 44.57
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character7": {
       "name": "赫默",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%B5%AB%E9%BB%98.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E8%B5%AB%E9%BB%98.png",
       "market_price": {
-        "ELITE1": 17.37,
-        "ELITE2": 8.48
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "replicate_date": "2025/8/18",
@@ -4400,40 +4823,45 @@
     "character1": {
       "name": "食铁兽",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%A3%9F%E9%93%81%E5%85%BD.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%A3%9F%E9%93%81%E5%85%BD.jpg",
       "market_price": {
-        "ELITE1": 5.79,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "陈",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%99%88.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%99%88.png",
       "market_price": {
-        "ELITE1": 46.57,
-        "ELITE2": 57.5
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "阿",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF.png",
       "market_price": {
-        "ELITE1": 19.4,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "惊蛰",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%83%8A%E8%9B%B0.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E6%83%8A%E8%9B%B0.png",
       "market_price": {
-        "ELITE1": 4.66,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character5": {
       "name": "阿消",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF%E6%B6%88.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2021%2F2021%E9%98%BF%E6%B6%88.png",
       "market_price": {
-        "ELITE1": 8.25,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -4456,14 +4884,16 @@
     "character1": {
       "name": "艾雅法拉",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%89%BE%E9%9B%85%E6%B3%95%E6%8B%89.jpg",
       "market_price": {
-        "ELITE1": 258.8,
-        "ELITE2": 216
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "琴柳",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%90%B4%E6%9F%B3.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%90%B4%E6%9F%B3.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4472,14 +4902,16 @@
     "character3": {
       "name": "阿米娅",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E9%98%BF%E7%B1%B3%E5%A8%85.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E9%98%BF%E7%B1%B3%E5%A8%85.jpg",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "初雪",
       "imageUrl": "https://media.prts.wiki/d/d7/%E5%A4%B4%E5%83%8F_%E5%88%9D%E9%9B%AA.png",
+      "imageKey": "初雪",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4488,6 +4920,7 @@
     "character5": {
       "name": "莱恩哈特",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%8E%B1%E6%81%A9%E5%93%88%E7%89%B9.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4509,17 +4942,18 @@
     "character1": {
       "name": "傀影",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%82%80%E5%BD%B1.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%82%80%E5%BD%B1.jpg",
       "market_price": {
-        "ELITE1": 113.24,
-        "ELITE2": 195.43
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "泥岩",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_311_mudrok_ambienceSynesthesia%232.png",
       "market_price": {
-        "ELITE1": 59.97,
-        "ELITE2": 102.48
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
@@ -4557,6 +4991,7 @@
     "character1": {
       "name": "星熊",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E6%98%9F%E7%86%8A.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E6%98%9F%E7%86%8A.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4565,6 +5000,7 @@
     "character2": {
       "name": "夕",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%A4%95.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%A4%95.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4573,14 +5009,16 @@
     "character3": {
       "name": "诗怀雅",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%AF%97%E6%80%80%E9%9B%85.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E8%AF%97%E6%80%80%E9%9B%85.jpg",
       "market_price": {
-        "ELITE1": 8.25,
-        "ELITE2": 5.77
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "乌有",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E4%B9%8C%E6%9C%89.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E4%B9%8C%E6%9C%89.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4602,6 +5040,7 @@
     "character1": {
       "name": "水月",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E6%B0%B4%E6%9C%88.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E6%B0%B4%E6%9C%88.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4610,14 +5049,16 @@
     "character2": {
       "name": "炎客",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%82%8E%E5%AE%A2.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%82%8E%E5%AE%A2.jpg",
       "market_price": {
-        "ELITE1": 41.04,
-        "ELITE2": 45.35
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "白面鸮",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%99%BD%E9%9D%A2%E9%B8%AE.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E7%99%BD%E9%9D%A2%E9%B8%AE.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4626,6 +5067,7 @@
     "character4": {
       "name": "德克萨斯",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2F%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.jpg",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4634,8 +5076,9 @@
     "character5": {
       "name": "THRM-EX",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2022%2FTHRM-EX.jpg",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2022%2FTHRM-EX.jpg",
       "market_price": {
-        "ELITE1": 17.63,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -4655,14 +5098,16 @@
     "character1": {
       "name": "博士",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/doctor.png",
+      "imageKey": "repo:doctor.png",
       "market_price": {
-        "ELITE1": 17.77,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "能天使",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+      "imageKey": "能天使",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4671,14 +5116,16 @@
     "character3": {
       "name": "极境",
       "imageUrl": "https://media.prts.wiki/9/97/%E5%A4%B4%E5%83%8F_%E6%9E%81%E5%A2%83.png",
+      "imageKey": "极境",
       "market_price": {
-        "ELITE1": 11.86,
-        "ELITE2": 106.39
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "刻俄柏",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E5%88%BB%E4%BF%84%E6%9F%8F.png",
+      "imageKey": "刻俄柏",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4687,17 +5134,19 @@
     "character5": {
       "name": "幽灵鲨",
       "imageUrl": "https://media.prts.wiki/2/28/%E5%A4%B4%E5%83%8F_%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+      "imageKey": "幽灵鲨",
       "market_price": {
-        "ELITE1": 20.58,
-        "ELITE2": 19.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character6": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "replicate_date": "2025/8/18",
@@ -4721,8 +5170,8 @@
       "name": "艾丽妮",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_4009_irene_ambienceSynesthesia%233.png",
       "market_price": {
-        "ELITE1": 21.67,
-        "ELITE2": 24.41
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
@@ -4736,6 +5185,7 @@
     "character3": {
       "name": "号角",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%8F%B7%E8%A7%92.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%8F%B7%E8%A7%92.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4745,8 +5195,8 @@
       "name": "罗比菈塔",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_484_robrta_ambienceSynesthesia%233.png",
       "market_price": {
-        "ELITE1": 10.55,
-        "ELITE2": 9.31
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": []
@@ -4764,6 +5214,7 @@
     "character1": {
       "name": "令",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E4%BB%A4.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E4%BB%A4.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4772,6 +5223,7 @@
     "character2": {
       "name": "老鲤",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%80%81%E9%B2%A4.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%80%81%E9%B2%A4.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4780,17 +5232,19 @@
     "character3": {
       "name": "林",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E6%9E%97.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E6%9E%97.png",
       "market_price": {
-        "ELITE1": 29.33,
-        "ELITE2": 34.18
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "炎狱炎熔",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%82%8E%E7%86%94.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%82%8E%E7%86%94.png",
       "market_price": {
-        "ELITE1": 5.47,
-        "ELITE2": 3.67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": []
@@ -4808,32 +5262,36 @@
     "character1": {
       "name": "卡涅利安",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%8D%A1%E6%B6%85%E5%88%A9%E5%AE%89.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%8D%A1%E6%B6%85%E5%88%A9%E5%AE%89.png",
       "market_price": {
-        "ELITE1": 6.19,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "埃拉托",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%9F%83%E6%8B%89%E6%89%98.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%9F%83%E6%8B%89%E6%89%98.png",
       "market_price": {
-        "ELITE1": 3.85,
-        "ELITE2": 4.08
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "白铁",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%99%BD%E9%93%81.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%99%BD%E9%93%81.png",
       "market_price": {
-        "ELITE1": 18.33,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "嘉维尔",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%98%89%E7%BB%B4%E5%B0%94.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E5%98%89%E7%BB%B4%E5%B0%94.png",
       "market_price": {
-        "ELITE1": 3.47,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -4852,6 +5310,7 @@
     "character1": {
       "name": "玛恩纳",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%8E%9B%E6%81%A9%E7%BA%B3.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E7%8E%9B%E6%81%A9%E7%BA%B3.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4860,6 +5319,7 @@
     "character2": {
       "name": "菲亚梅塔",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%8F%B2%E4%BA%9A.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%8F%B2%E4%BA%9A.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4868,6 +5328,7 @@
     "character3": {
       "name": "见行者",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%A7%81%E8%A1%8C%E8%80%85.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E8%A7%81%E8%A1%8C%E8%80%85.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4876,6 +5337,7 @@
     "character4": {
       "name": "斥罪",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E6%96%A5%E7%BD%AA.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2023%2F23%E6%96%A5%E7%BD%AA.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4896,6 +5358,7 @@
     "character1": {
       "name": "缄默德克萨斯",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4904,6 +5367,7 @@
     "character2": {
       "name": "推进之王",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%8E%A8%E7%8E%8B.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%8E%A8%E7%8E%8B.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4913,21 +5377,23 @@
       "name": "白铁",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_4072_ironmn_ambienceSynesthesia%235.png",
       "market_price": {
-        "ELITE1": 18.33,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "焰影苇草",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E8%8B%87%E8%8D%89.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E8%8B%87%E8%8D%89.png",
       "market_price": {
-        "ELITE1": 33.21,
-        "ELITE2": 50.83
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "耀骑士临光",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E4%B8%B4%E5%85%89.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E4%B8%B4%E5%85%89.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4952,6 +5418,7 @@
     "character1": {
       "name": "U-Official",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24U%E9%85%B1.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24U%E9%85%B1.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4960,6 +5427,7 @@
     "character2": {
       "name": "涤火杰西卡",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%9D%B0%E8%A5%BF%E5%8D%A1.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4968,6 +5436,7 @@
     "character3": {
       "name": "能天使",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+      "imageKey": "能天使",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -4976,17 +5445,18 @@
     "character4": {
       "name": "圣约送葬人",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%9C%A3%E8%91%AC.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%9C%A3%E8%91%AC.png",
       "market_price": {
-        "ELITE1": 40.85,
-        "ELITE2": 43
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "琳琅诗怀雅",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_1033_swire2_ambienceSynesthesia%234.png",
       "market_price": {
-        "ELITE1": 9.47,
-        "ELITE2": 13.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -5008,16 +5478,17 @@
     "character1": {
       "name": "阿米娅",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%98%BF%E7%B1%B3%E5%A8%85.png",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "霍尔海雅",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_4027_heyak_ambienceSynesthesia%234.png",
       "market_price": {
-        "ELITE1": 13.58,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -5025,13 +5496,14 @@
       "name": "伊内丝",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_4087_ines_ambienceSynesthesia%235.png",
       "market_price": {
-        "ELITE1": 72.45,
-        "ELITE2": 85.96
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "夜莺",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%A4%9C%E8%8E%BA.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%A4%9C%E8%8E%BA.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5040,8 +5512,9 @@
     "character5": {
       "name": "塑心",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%9B%BE%E5%9B%BE.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%9B%BE%E5%9B%BE.png",
       "market_price": {
-        "ELITE1": 30.17,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -5063,6 +5536,7 @@
     "character1": {
       "name": "重岳",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%87%8D%E5%B2%B3.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%87%8D%E5%B2%B3.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5071,30 +5545,34 @@
     "character2": {
       "name": "浊心斯卡蒂",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%B5%8A%E8%92%82.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%B5%8A%E8%92%82.png",
       "market_price": {
-        "ELITE1": 61,
-        "ELITE2": 67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "凯尔希",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%87%AF%E5%B0%94%E5%B8%8C.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E5%87%AF%E5%B0%94%E5%B8%8C.png",
       "market_price": {
-        "ELITE1": 48.44,
-        "ELITE2": 48.75
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "提丰",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%8F%90%E4%B8%B0.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E6%8F%90%E4%B8%B0.png",
       "market_price": {
-        "ELITE1": 11.49,
-        "ELITE2": 26
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "银灰",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%93%B6%E7%81%B0.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2024%2F24%E9%93%B6%E7%81%B0.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5123,6 +5601,7 @@
     "character1": {
       "name": "史尔特尔",
       "imageUrl": "https://media.prts.wiki/e/e1/%E5%A4%B4%E5%83%8F_%E5%8F%B2%E5%B0%94%E7%89%B9%E5%B0%94.png",
+      "imageKey": "史尔特尔",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5131,22 +5610,25 @@
     "character2": {
       "name": "缪尔赛思",
       "imageUrl": "https://media.prts.wiki/3/3a/%E5%A4%B4%E5%83%8F_%E7%BC%AA%E5%B0%94%E8%B5%9B%E6%80%9D.png",
+      "imageKey": "缪尔赛思",
       "market_price": {
-        "ELITE1": 77.67,
-        "ELITE2": 57.2
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "博士",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/doctor.png",
+      "imageKey": "repo:doctor.png",
       "market_price": {
-        "ELITE1": 17.77,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "左乐",
       "imageUrl": "https://media.prts.wiki/e/e0/%E5%A4%B4%E5%83%8F_%E5%B7%A6%E4%B9%90.png",
+      "imageKey": "左乐",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5155,14 +5637,16 @@
     "character5": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character6": {
       "name": "薇薇安娜",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C.png",
+      "imageKey": "薇薇安娜",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5182,14 +5666,16 @@
     "character1": {
       "name": "安洁莉娜",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%AE%89%E6%9D%B0.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%AE%89%E6%9D%B0.png",
       "market_price": {
-        "ELITE1": 33.67,
-        "ELITE2": 44.57
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "黍",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%BB%8D.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%BB%8D.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5198,14 +5684,16 @@
     "character3": {
       "name": "陈",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%99%88.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%99%88.png",
       "market_price": {
-        "ELITE1": 46.57,
-        "ELITE2": 57.5
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "左乐",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%B7%A6%E4%B9%90.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%B7%A6%E4%B9%90.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5214,6 +5702,7 @@
     "character5": {
       "name": "煌",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E7%85%8C.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E7%85%8C.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5238,6 +5727,7 @@
     "character1": {
       "name": "空",
       "imageUrl": "https://media.prts.wiki/5/58/%E5%A4%B4%E5%83%8F_%E7%A9%BA.png",
+      "imageKey": "空",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5246,14 +5736,16 @@
     "character2": {
       "name": "可颂",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%A2%82.png",
+      "imageKey": "可颂",
       "market_price": {
-        "ELITE1": 2.93,
-        "ELITE2": 3.77
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "能天使",
       "imageUrl": "https://media.prts.wiki/a/ad/%E5%A4%B4%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF.png",
+      "imageKey": "能天使",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5262,6 +5754,7 @@
     "character4": {
       "name": "德克萨斯",
       "imageUrl": "https://media.prts.wiki/5/57/%E5%A4%B4%E5%83%8F_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF.png",
+      "imageKey": "德克萨斯",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5271,7 +5764,7 @@
       "name": "大帝",
       "imageUrl": "",
       "market_price": {
-        "ELITE1": 4.43,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -5295,38 +5788,42 @@
     "character1": {
       "name": "极境",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E6%9E%81%E5%A2%83.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E6%9E%81%E5%A2%83.png",
       "market_price": {
-        "ELITE1": 11.86,
-        "ELITE2": 106.39
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "妮芙",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_4146_nymph_ambienceSynesthesia%236.png",
       "market_price": {
-        "ELITE1": 16.8,
-        "ELITE2": 31.76
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "阿米娅",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%98%BF%E7%B1%B3%E5%A8%85.png",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "迷迭香",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E8%BF%B7%E8%BF%AD%E9%A6%99.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E8%BF%B7%E8%BF%AD%E9%A6%99.png",
       "market_price": {
-        "ELITE1": 163,
-        "ELITE2": 275.67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "归溟幽灵鲨",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E5%B9%BD%E7%81%B5%E9%B2%A8.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5367,25 +5864,27 @@
     "character3": {
       "name": "黑键",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%BB%91%E9%94%AE.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E9%BB%91%E9%94%AE.png",
       "market_price": {
-        "ELITE1": 18.58,
-        "ELITE2": 27.67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "淬羽赫默",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E8%B5%AB%E9%BB%98.png",
+      "imageKey": "repo:image%2F%E9%9F%B3%E5%BE%8B2025%2F25%E8%B5%AB%E9%BB%98.png",
       "market_price": {
-        "ELITE1": 5.9,
-        "ELITE2": 4.88
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "缪尔赛思",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_249_mlyss_ambienceSynesthesia%236.png",
       "market_price": {
-        "ELITE1": 77.67,
-        "ELITE2": 57.2
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -5407,14 +5906,16 @@
     "character1": {
       "name": "荒芜拉普兰德",
       "imageUrl": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E8%8D%92%E8%8A%9C%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7.png",
+      "imageKey": "荒芜拉普兰德",
       "market_price": {
-        "ELITE1": 50.64,
-        "ELITE2": 63
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "羽毛笔",
       "imageUrl": "https://media.prts.wiki/b/b8/%E5%A4%B4%E5%83%8F_%E7%BE%BD%E6%AF%9B%E7%AC%94.png",
+      "imageKey": "羽毛笔",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5423,6 +5924,7 @@
     "character3": {
       "name": "棘刺",
       "imageUrl": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_%E6%A3%98%E5%88%BA.png",
+      "imageKey": "棘刺",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5431,6 +5933,7 @@
     "character4": {
       "name": "忍冬",
       "imageUrl": "https://media.prts.wiki/7/79/%E5%A4%B4%E5%83%8F_%E5%BF%8D%E5%86%AC.png",
+      "imageKey": "忍冬",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5440,8 +5943,8 @@
       "name": "莫斯提马",
       "imageUrl": "https://raw.gitcode.com/gh_mirrors/ar/ArknightsGameResource/raw/main/avatar/char_213_mostma_ambienceSynesthesia%236.png",
       "market_price": {
-        "ELITE1": 52.38,
-        "ELITE2": 46.6
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -5463,14 +5966,16 @@
     "character1": {
       "name": "傀影",
       "imageUrl": "https://media.prts.wiki/8/83/%E5%A4%B4%E5%83%8F_%E5%82%80%E5%BD%B1.png",
+      "imageKey": "傀影",
       "market_price": {
-        "ELITE1": 113.24,
-        "ELITE2": 195.43
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "刻俄柏",
       "imageUrl": "https://media.prts.wiki/4/4a/%E5%A4%B4%E5%83%8F_%E5%88%BB%E4%BF%84%E6%9F%8F.png",
+      "imageKey": "刻俄柏",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5479,6 +5984,7 @@
     "character3": {
       "name": "水月",
       "imageUrl": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E6%B0%B4%E6%9C%88.png",
+      "imageKey": "水月",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5487,25 +5993,28 @@
     "character4": {
       "name": "提丰",
       "imageUrl": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E6%8F%90%E4%B8%B0.png",
+      "imageKey": "提丰",
       "market_price": {
-        "ELITE1": 11.49,
-        "ELITE2": 26
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "麦哲伦",
       "imageUrl": "https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E9%BA%A6%E5%93%B2%E4%BC%A6.png",
+      "imageKey": "麦哲伦",
       "market_price": {
-        "ELITE1": 7.07,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character6": {
       "name": "妮芙",
       "imageUrl": "https://media.prts.wiki/1/1a/%E5%A4%B4%E5%83%8F_%E5%A6%AE%E8%8A%99.png",
+      "imageKey": "妮芙",
       "market_price": {
-        "ELITE1": 16.8,
-        "ELITE2": 31.76
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [
@@ -5526,38 +6035,43 @@
     "character1": {
       "name": "博士",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/doctor.png",
+      "imageKey": "repo:doctor.png",
       "market_price": {
-        "ELITE1": 17.77,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "乌尔比安",
       "imageUrl": "https://media.prts.wiki/3/33/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89.png",
+      "imageKey": "乌尔比安",
       "market_price": {
-        "ELITE1": 29.25,
-        "ELITE2": 77.95
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "斯卡蒂",
       "imageUrl": "https://media.prts.wiki/5/53/%E5%A4%B4%E5%83%8F_%E6%96%AF%E5%8D%A1%E8%92%82.png",
+      "imageKey": "斯卡蒂",
       "market_price": {
-        "ELITE1": 50.32,
-        "ELITE2": 51.67
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "死芒",
       "imageUrl": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%AD%BB%E8%8A%92.png",
+      "imageKey": "死芒",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5590,35 +6104,39 @@
     "character1": {
       "name": "灰烬",
       "imageUrl": "https://media.prts.wiki/6/64/%E5%A4%B4%E5%83%8F_%E7%81%B0%E7%83%AC.png",
+      "imageKey": "灰烬",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 367.52,
-        "ELITE2": 340.95
+        "ELITE1": 310,
+        "ELITE2": 310
       }
     },
     "character2": {
       "name": "霜华",
       "imageUrl": "https://media.prts.wiki/5/51/%E5%A4%B4%E5%83%8F_%E9%9C%9C%E5%8D%8E.png",
+      "imageKey": "霜华",
       "market_price": {
-        "ELITE1": 105,
-        "ELITE2": 129.36
+        "ELITE1": 0,
+        "ELITE2": 100
       }
     },
     "character3": {
       "name": "闪击",
       "imageUrl": "https://media.prts.wiki/c/c1/%E5%A4%B4%E5%83%8F_%E9%97%AA%E5%87%BB.png",
+      "imageKey": "闪击",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 425.93,
-        "ELITE2": 451.04
+        "ELITE1": 400,
+        "ELITE2": 0
       }
     },
     "character4": {
       "name": "战车",
       "imageUrl": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E6%88%98%E8%BD%A6.png",
+      "imageKey": "战车",
       "market_price": {
-        "ELITE1": 274.73,
-        "ELITE2": 336.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": []
@@ -5636,10 +6154,11 @@
     "character1": {
       "name": "罗小黑",
       "imageUrl": "https://media.prts.wiki/5/50/%E5%A4%B4%E5%83%8F_%E7%BD%97%E5%B0%8F%E9%BB%91.png",
+      "imageKey": "罗小黑",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 55.63,
-        "ELITE2": 105.15
+        "ELITE1": 80,
+        "ELITE2": 85
       }
     },
     "barcodes": [
@@ -5660,32 +6179,36 @@
     "character1": {
       "name": "艾拉",
       "imageUrl": "https://media.prts.wiki/2/26/%E5%A4%B4%E5%83%8F_%E8%89%BE%E6%8B%89.png",
+      "imageKey": "艾拉",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 23.2,
-        "ELITE2": 18.48
+        "ELITE1": 20,
+        "ELITE2": 20
       }
     },
     "character2": {
       "name": "医生",
       "imageUrl": "https://media.prts.wiki/1/11/%E5%A4%B4%E5%83%8F_%E5%8C%BB%E7%94%9F.png",
+      "imageKey": "医生",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 14.32,
-        "ELITE2": 15.66
+        "ELITE1": 15,
+        "ELITE2": 18
       }
     },
     "character3": {
       "name": "双月",
       "imageUrl": "https://media.prts.wiki/f/ff/%E5%A4%B4%E5%83%8F_%E5%8F%8C%E6%9C%88.png",
+      "imageKey": "双月",
       "market_price": {
-        "ELITE1": 6.71,
-        "ELITE2": 6.99
+        "ELITE1": 10,
+        "ELITE2": 7
       }
     },
     "character4": {
       "name": "导火索",
       "imageUrl": "https://media.prts.wiki/7/70/%E5%A4%B4%E5%83%8F_%E5%AF%BC%E7%81%AB%E7%B4%A2.png",
+      "imageKey": "导火索",
       "market_price": {
         "ELITE1": 10,
         "ELITE2": 7
@@ -5709,43 +6232,48 @@
     "character1": {
       "name": "丰川祥子",
       "imageUrl": "https://media.prts.wiki/c/cb/%E5%A4%B4%E5%83%8F_%E4%B8%B0%E5%B7%9D%E7%A5%A5%E5%AD%90.png",
+      "imageKey": "丰川祥子",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 44.33,
-        "ELITE2": 34.2
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "八幡海铃",
       "imageUrl": "https://media.prts.wiki/f/f2/%E5%A4%B4%E5%83%8F_%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%93%83.png",
+      "imageKey": "八幡海铃",
       "market_price": {
-        "ELITE1": 9.37,
-        "ELITE2": 8.6
+        "ELITE1": 14,
+        "ELITE2": 13
       }
     },
     "character3": {
       "name": "三角初华",
       "imageUrl": "https://media.prts.wiki/b/b4/%E5%A4%B4%E5%83%8F_%E4%B8%89%E8%A7%92%E5%88%9D%E5%8D%8E.png",
+      "imageKey": "三角初华",
       "market_price": {
-        "ELITE1": 12.56,
-        "ELITE2": 15.79
+        "ELITE1": 19,
+        "ELITE2": 16
       }
     },
     "character4": {
       "name": "若叶睦",
       "imageUrl": "https://media.prts.wiki/a/a0/%E5%A4%B4%E5%83%8F_%E8%8B%A5%E5%8F%B6%E7%9D%A6.png",
+      "imageKey": "若叶睦",
       "hotcharacter": true,
       "market_price": {
-        "ELITE1": 36.65,
-        "ELITE2": 39.33
+        "ELITE1": 45,
+        "ELITE2": 36
       }
     },
     "character5": {
       "name": "祐天寺若麦",
       "imageUrl": "https://media.prts.wiki/d/df/%E5%A4%B4%E5%83%8F_%E7%A5%90%E5%A4%A9%E5%AF%BA%E8%8B%A5%E9%BA%A6.png",
+      "imageKey": "祐天寺若麦",
       "market_price": {
-        "ELITE1": 8.03,
-        "ELITE2": 9.08
+        "ELITE1": 14,
+        "ELITE2": 13
       }
     },
     "barcode": "6977427188458",
@@ -5766,6 +6294,7 @@
     "character1": {
       "name": "结城理",
       "imageUrl": "https://media.prts.wiki/5/54/%E5%A4%B4%E5%83%8F_%E7%BB%93%E5%9F%8E%E7%90%86.png",
+      "imageKey": "结城理",
       "hotcharacter": true,
       "market_price": {
         "ELITE1": 0,
@@ -5775,6 +6304,7 @@
     "character2": {
       "name": "埃癸斯",
       "imageUrl": "https://media.prts.wiki/a/ae/%E5%A4%B4%E5%83%8F_%E5%9F%83%E7%99%B8%E6%96%AF.png",
+      "imageKey": "埃癸斯",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5783,6 +6313,7 @@
     "character3": {
       "name": "岳羽由加莉",
       "imageUrl": "https://media.prts.wiki/9/98/%E5%A4%B4%E5%83%8F_%E5%B2%B3%E7%BE%BD%E7%94%B1%E5%8A%A0%E8%8E%89.png",
+      "imageKey": "岳羽由加莉",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5791,6 +6322,7 @@
     "character4": {
       "name": "虎狼丸",
       "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E8%99%8E%E7%8B%BC%E4%B8%B8.png",
+      "imageKey": "虎狼丸",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5810,6 +6342,7 @@
     "character1": {
       "name": "霜星(礼盒/单领购买)",
       "imageUrl": "https://media.prts.wiki/0/07/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E9%9C%9C%E6%98%9F.png",
+      "imageKey": "prts:0/07/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E9%9C%9C%E6%98%9F.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5817,6 +6350,7 @@
     "character2": {
       "name": "塔露拉(愚人节单领)",
       "imageUrl": "https://media.prts.wiki/1/10/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%A1%94%E9%9C%B2%E6%8B%89.png",
+      "imageKey": "prts:1/10/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%A1%94%E9%9C%B2%E6%8B%89.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5824,6 +6358,7 @@
     "character3": {
       "name": "杰斯顿·威廉姆斯(愚人节单领)",
       "imageUrl": "https://media.prts.wiki/1/17/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E6%9D%B0%E6%96%AF%E9%A1%BF%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF.png",
+      "imageKey": "prts:1/17/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E6%9D%B0%E6%96%AF%E9%A1%BF%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5831,6 +6366,7 @@
     "character4": {
       "name": "克丽斯腾(愚人节单领)",
       "imageUrl": "https://media.prts.wiki/c/cc/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%85%8B%E4%B8%BD%E6%96%AF%E8%85%BE.png",
+      "imageKey": "prts:c/cc/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%85%8B%E4%B8%BD%E6%96%AF%E8%85%BE.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5838,6 +6374,7 @@
     "character5": {
       "name": "爱国者(愚人节单领)",
       "imageUrl": "https://media.prts.wiki/0/04/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E7%88%B1%E5%9B%BD%E8%80%85.png",
+      "imageKey": "prts:0/04/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E7%88%B1%E5%9B%BD%E8%80%85.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5845,6 +6382,7 @@
     "character6": {
       "name": "士兵(愚人节单领)",
       "imageUrl": "https://media.prts.wiki/3/34/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%A3%AB%E5%85%B5.png",
+      "imageKey": "prts:3/34/%E5%A4%B4%E5%83%8F_%E6%95%8C%E4%BA%BA_%E5%A3%AB%E5%85%B5.png",
       "market_price": {
         "ELITE1": 25
       }
@@ -5869,6 +6407,7 @@
     "character1": {
       "name": "博士(设定集赠品)",
       "imageUrl": "https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/doctor.png",
+      "imageKey": "repo:doctor.png",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -5890,7 +6429,7 @@
       "name": "ACE",
       "imageUrl": "",
       "market_price": {
-        "ELITE1": 5.38,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -5953,6 +6492,7 @@
     "character1": {
       "name": "RAIDIAN",
       "imageUrl": "https://media.prts.wiki/5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png?20250715083533",
+      "imageKey": "prts:5/56/%E5%A4%B4%E5%83%8F_%E7%94%B5%E5%BC%A7.png?20250715083533",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6014,21 +6554,23 @@
       "name": "博士",
       "imageUrl": "",
       "market_price": {
-        "ELITE1": 17.77,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character2": {
       "name": "可露希尔",
       "imageUrl": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png",
+      "imageKey": "可露希尔",
       "market_price": {
-        "ELITE1": 18.38,
-        "ELITE2": 23.71
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "赤刃明霄陈",
       "imageUrl": "https://media.prts.wiki/d/d0/%E5%A4%B4%E5%83%8F_%E8%B5%A4%E5%88%83%E6%98%8E%E9%9C%84%E9%99%88.png",
+      "imageKey": "赤刃明霄陈",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6037,25 +6579,28 @@
     "character4": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "望",
       "imageUrl": "https://media.prts.wiki/3/38/%E5%A4%B4%E5%83%8F_%E6%9C%9B.png",
+      "imageKey": "望",
       "market_price": {
-        "ELITE1": 95.17,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character6": {
       "name": "安洁莉娜",
       "imageUrl": "https://media.prts.wiki/c/ca/%E5%A4%B4%E5%83%8F_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C.png",
+      "imageKey": "安洁莉娜",
       "market_price": {
-        "ELITE1": 33.67,
-        "ELITE2": 44.57
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": []
@@ -6073,6 +6618,7 @@
     "character1": {
       "name": "蕾缪安",
       "imageUrl": "https://media.prts.wiki/c/c5/%E5%A4%B4%E5%83%8F_%E8%95%BE%E7%BC%AA%E5%AE%89.png",
+      "imageKey": "蕾缪安",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6081,6 +6627,7 @@
     "character2": {
       "name": "圣聆初雪",
       "imageUrl": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9C%A3%E8%81%86%E5%88%9D%E9%9B%AA.png",
+      "imageKey": "圣聆初雪",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6089,6 +6636,7 @@
     "character3": {
       "name": "死芒",
       "imageUrl": "https://media.prts.wiki/d/d9/%E5%A4%B4%E5%83%8F_%E6%AD%BB%E8%8A%92.png",
+      "imageKey": "死芒",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6097,17 +6645,19 @@
     "character4": {
       "name": "塑心",
       "imageUrl": "https://media.prts.wiki/0/05/%E5%A4%B4%E5%83%8F_%E5%A1%91%E5%BF%83.png",
+      "imageKey": "塑心",
       "market_price": {
-        "ELITE1": 30.17,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character5": {
       "name": "乌尔比安",
       "imageUrl": "https://media.prts.wiki/3/33/%E5%A4%B4%E5%83%8F_%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89.png",
+      "imageKey": "乌尔比安",
       "market_price": {
-        "ELITE1": 29.25,
-        "ELITE2": 77.95
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcode": "6977427189912",
@@ -6129,40 +6679,45 @@
     "character1": {
       "name": "凛御银灰",
       "imageUrl": "https://media.prts.wiki/3/3d/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%BE%A1%E9%93%B6%E7%81%B0.png",
+      "imageKey": "凛御银灰",
       "market_price": {
-        "ELITE1": 53.04,
-        "ELITE2": 67.91
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "异客",
       "imageUrl": "https://media.prts.wiki/d/d2/%E5%A4%B4%E5%83%8F_%E5%BC%82%E5%AE%A2.png",
+      "imageKey": "异客",
       "market_price": {
-        "ELITE1": 19.71,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character3": {
       "name": "锏",
       "imageUrl": "https://media.prts.wiki/0/0f/%E5%A4%B4%E5%83%8F_%E9%94%8F.png",
+      "imageKey": "锏",
       "market_price": {
-        "ELITE1": 14.67,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "塞雷娅",
       "imageUrl": "https://media.prts.wiki/e/ee/%E5%A4%B4%E5%83%8F_%E5%A1%9E%E9%9B%B7%E5%A8%85.png",
+      "imageKey": "塞雷娅",
       "market_price": {
-        "ELITE1": 26.17,
-        "ELITE2": 34.5
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character5": {
       "name": "麦哲伦",
       "imageUrl": "https://media.prts.wiki/4/4d/%E5%A4%B4%E5%83%8F_%E9%BA%A6%E5%93%B2%E4%BC%A6.png",
+      "imageKey": "麦哲伦",
       "market_price": {
-        "ELITE1": 7.07,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
@@ -6184,14 +6739,16 @@
     "character1": {
       "name": "酒神",
       "imageUrl": "https://media.prts.wiki/0/0d/%E5%A4%B4%E5%83%8F_%E9%85%92%E7%A5%9E.png",
+      "imageKey": "酒神",
       "market_price": {
-        "ELITE1": 58.1,
-        "ELITE2": 82
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "斩业星熊",
       "imageUrl": "https://media.prts.wiki/e/e5/%E5%A4%B4%E5%83%8F_%E6%96%A9%E4%B8%9A%E6%98%9F%E7%86%8A.png",
+      "imageKey": "斩业星熊",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6200,6 +6757,7 @@
     "character3": {
       "name": "司霆惊蛰",
       "imageUrl": "https://media.prts.wiki/5/5c/%E5%A4%B4%E5%83%8F_%E5%8F%B8%E9%9C%86%E6%83%8A%E8%9B%B0.png",
+      "imageKey": "司霆惊蛰",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6208,6 +6766,7 @@
     "character4": {
       "name": "年",
       "imageUrl": "https://media.prts.wiki/9/9c/%E5%A4%B4%E5%83%8F_%E5%B9%B4.png",
+      "imageKey": "年",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6216,6 +6775,7 @@
     "character5": {
       "name": "余",
       "imageUrl": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E4%BD%99.png",
+      "imageKey": "余",
       "market_price": {
         "ELITE1": 0,
         "ELITE2": 0
@@ -6240,41 +6800,46 @@
     "character1": {
       "name": "阿米娅",
       "imageUrl": "https://media.prts.wiki/3/36/%E5%A4%B4%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85.png",
+      "imageKey": "阿米娅",
       "market_price": {
-        "ELITE1": 432.5,
-        "ELITE2": 384.33
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character2": {
       "name": "维什戴尔",
       "imageUrl": "https://media.prts.wiki/6/66/%E5%A4%B4%E5%83%8F_%E7%BB%B4%E4%BB%80%E6%88%B4%E5%B0%94.png",
+      "imageKey": "维什戴尔",
       "market_price": {
-        "ELITE1": 36.83,
-        "ELITE2": 46.5
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "character3": {
       "name": "真言",
       "imageUrl": "https://media.prts.wiki/6/63/%E5%A4%B4%E5%83%8F_%E7%9C%9F%E8%A8%80.png",
+      "imageKey": "真言",
       "market_price": {
-        "ELITE1": 14,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character4": {
       "name": "Mon3tr",
       "imageUrl": "https://media.prts.wiki/2/2a/%E5%A4%B4%E5%83%8F_Mon3tr.png",
+      "imageKey": "Mon3tr",
       "market_price": {
-        "ELITE1": 41.61,
+        "ELITE1": 0,
         "ELITE2": 0
       }
     },
     "character5": {
       "name": "凛冬",
       "imageUrl": "https://media.prts.wiki/c/cd/%E5%A4%B4%E5%83%8F_%E5%87%9B%E5%86%AC.png",
+      "imageKey": "凛冬",
       "market_price": {
-        "ELITE1": 27.18,
-        "ELITE2": 42.15
+        "ELITE1": 0,
+        "ELITE2": 0
       }
     },
     "barcodes": [

@@ -140,10 +140,32 @@ Scan to experience the project
 | 字段 | 类型 | 说明 | 示例 |
 |------|------|------|------|
 | `name` | 字符串 | 干员名称 | `阿米娅` |
-| `imageUrl` | 字符串(URL) | 干员头像 | —— |
-| `market_price` | 对象 | 市价，`ELITE1` / `ELITE2` 两档 | `{"ELITE1":100,"ELITE2":112}` |
+| `imageUrl` | 字符串(URL) | 干员头像（**过渡字段**，见下） | —— |
+| `imageKey` | 字符串 | 头像精简键（**过渡期与 `imageUrl` 并存**） | `阿米娅` / `repo:image/音律2021/2021陈.png` |
+| `market_price` | 对象 | **参考价**（老市价，社区维护值），`ELITE1`/`ELITE2` | `{"ELITE1":100,"ELITE2":112}` |
 | `hotcharacter` | 布尔值 | 热门标记（有则出现） | `true` |
 | `nolyELITE1` | 布尔值 | 仅有精一版标记（有则出现） | `true` |
+
+#### `imageKey` 与头像瘦身（过渡方案）
+
+`imageUrl` 里最长的就是 PRTS 头像（约 90 字节）。PRTS 用 MediaWiki 的 MD5 分目录规则，
+所以只存干员名就够重建：
+
+```
+filename = "头像_" + imageKey + ".png"
+dir      = md5(filename) 前 3 位 → 第 1 位 / 前 2 位
+url      = "https://media.prts.wiki/" + dir + "/" + urlencode(filename)
+```
+
+三种取值：
+
+| `imageKey` 形式 | 含义 | 重建方式 |
+|---|---|---|
+| `阿米娅` | PRTS 头像 | 上面的 md5 规则 |
+| `prts:3/36/xxx.png` | PRTS 头像但文件名不是 `头像_<干员名>.png` | 拼 `https://media.prts.wiki/` + 后半段 |
+| `repo:image/音律2021/2021陈.png` | **不是 PRTS 头像**（音律/特殊款，仓库自带图） | `https://raw.gitcode.com/huangjinzhou1/ArknightsAuthorization_Series/raw/main/` + 后半段 |
+
+过渡期两条字段并存；等客户端全改读 `imageKey` 后再删 `imageUrl`，届时还能再瘦约 45KB。
 
 ### 4.2 `searchWord.json`
 
